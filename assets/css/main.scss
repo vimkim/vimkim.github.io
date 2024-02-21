@@ -53,8 +53,16 @@ body, button, input, select, textarea {
 
 
 h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
   font-family: 'Pretendard-Regular', sans-serif;
-  font-weight: 700; /* Assuming you want headings to be bold */
+  font-weight: 800; /* Assuming you want headings to be bold */
+}
+
+.page__content h2 {
+  font-size: 2.0em;
+  margin-top: 2em;
+  color: #3b5998;
+  border-bottom: 1px solid #3b5998;
 }
 
 p, a, li, span, label { /* Add any other tags as needed */
