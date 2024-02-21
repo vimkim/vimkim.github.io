@@ -15,14 +15,14 @@ redirect_from:
 
 ## 🔎 Education
 
-### 고려대학교 학사 편입학, 컴퓨터학과 학부 졸업
+### 🎓 고려대학교 학사 편입학, 컴퓨터학과 학부 졸업
 
 - 2019.3 - 2020.2, 2022.3 - 2023.2
 - GPA 4.03 / 4.5
 - 자료구조 / 알고리즘 / 데이터베이스 / 네트워크 / 컴퓨터 구조 / 운영체제 / 프로그래밍언어(론) / 오토마타 / 임베디드 시스템 / 논리설계 / 인공지능 / 머신러닝 / 딥러닝 등 전공 60학점
 - 동아리 활동: 컴퓨터 동아리 KUCC, 정보보안 동아리 KUICS, 게임개발 동아리 Cat&Dog
 
-### McGill University, 경제학과 학부 졸업
+### 🎓 McGill University, 경제학과 학부 졸업
 
 - 2014.9 - 2018.6
 - GPA 3.11 / 4.0
@@ -44,58 +44,58 @@ redirect_from:
 - GitHub URL: <https://github.com/what-surv/what-surv-backend>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/surveyit>
 
-## 기술적 역량
+## 💪 기술적 역량
 
-### 인증, 인가를 제대로 구현할 수 있어요
+### 🔑 인증, 인가를 제대로 구현할 수 있어요
 
 - OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요.
 - Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요.
 - Spring Security와 Passport.js 사용 경험이 있어요.
 
-### 간단한 배포와 CI/CD에 능숙해요
+### 🚀 간단한 배포와 CI/CD에 능숙해요
 
 - Docker compose를 통해 모든 손쉽게 배포할 수 있어요.
 - Nginx와 Let's Encrypt, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
   - GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
 
-### 웹소켓을 통해 채팅을 구현할 수 있어요
+### 💬 웹소켓을 통해 채팅을 구현할 수 있어요
 
 - Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요.
 - 웹소켓 통신을 위한 Nginx 프록시 업그레이드 설정을 할 수 있어요.
 
-### 팀원의 Git 문제를 해결해 줄 수 있어요
+### 🌿 팀원의 Git 문제를 해결해 줄 수 있어요
 
 - 협업할 때 발생한 모든 Git 문제를 도맡아 해결했어요.
 - Git 구조를 잘 알아요. `git cat-file` 로 Tree와 Blob을 보면서 Git의 구조와 원리를 이해하고, Git을 스스로 구현해 본 적이 있어요.
 - 다양한 Git branch strategy에 능숙하고 협업 시 Git Graph를 깔끔하게 관리할 수 있어요.
 
-### NestJS를 자유롭게 사용해요
+### 🏠 NestJS를 자유롭게 사용해요
 
 - 모듈 시스템, 의존성 주입에 익숙해요.
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
 - 덕분에 E2E Test 코드도 수월하게 짜요.
 
-### HTTP를 깊게 공부했어요
+### 🌐 HTTP를 깊게 공부했어요
 
 - HTTP 완벽 가이드를 완독했어요.
 - HTTP caching 등등 추가 기술
 - TODO
 
-### Database 이론을 깊게 공부했어요
+### 💾 Database 이론을 깊게 공부했어요
 
 - 정규화에 자신 있어요. 정규화에 대한 공부를 많이 하고, ERD를 설계할 때마다 정규화를 신경 써요.
 - Phantom Read와 같은 Anomaly가 왜 발생하는지 DB시스템 자료구조를 그리면서 설명할 수 있어요.
 - 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요.
 
-### ERD를 읽고 작성하는데에 능숙해요
+### 🧮 ERD를 읽고 작성하는데에 능숙해요
 
 - 연관 관계가 복잡하더라도, 괜찮은 ERD 초안을 만들어올 수 있어요.
 
-### Spring Data JPA, TypeORM 등 ORM에 익숙해요
+### 🔄 Spring Data JPA, TypeORM 등 ORM에 익숙해요
 
 - ManyToOne 연관 관계를 설정하고, N+1 문제를 막을 수 있어요.
 
-### 모던 Java에 능숙해요
+### ☕ 모던 Java에 능숙해요
 
 - 모던 자바 인 액션을 완독했어요.
 - 스트림을 좋아해요. Short-curcuiting과 Loop fusion이 매력적이라고 생각해요.
@@ -103,18 +103,18 @@ redirect_from:
 - 소스 코드의 Binary Compatibility, Source Compatibility를 생각하면서 코드를 작성해요.
   `invokevirtual` 과 `invokeinterface` 등의 바이트 코드 명령어에 대해서 깊게 파고 들어본 경험이 있어요.
 
-### TypeScript
+### 📘 TypeScript
 
 - 타입스크립트는 Null Check가 잘 되는 우아하고 모던한 언어라서 좋아해요. Matt Pocock의 영상을 자주 봐요.
 - Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. 블로그에 글을 쓴 적이 있어요. [https://velog.io/@dkvlg/타입스크립트-Enums-공식문서-요약](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
-### JavaScript
+### 🟨 JavaScript
 
 - JS async / await의 간결함을 좋아해요. 자바에서 CompletableFuture를 쓸 때는 가독성이 좀 아쉬운데, JS에서는 매우 편해요.
 - ESLint airbnb와 함께 사용한다면 나름 쾌적하게 사용할 수 있는 언어라고 생각해요.
 
-### 간단한 React 코드 작성과 디버깅을 할 수 있어요
+### ⚛️ 간단한 React 코드 작성과 디버깅을 할 수 있어요
 
 - 프론트엔드 개발자가 작성한 리액트 코드를 해석하고 디버깅 할 수 있어요. 기존 코드를 모방하여 간단한 컴포넌트를 만들 수 있어요.
 - 프론트엔드 개발자의 입장에서, 프론트엔드 개발자를 배려하는 코드를 작성할 수 있어요.
@@ -170,7 +170,7 @@ redirect_from:
 - 금전적인 인센티브보다, 내가 얼마나 의미 있게 기여할 수 있는지가 더 중요하다고 생각해요.
 - 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. (블로그 글: [https://velog.io/@dkvlg/mapstruct-오류-다-잡고-도입-성공](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5) )
 
-## CS Studies
+## 📚 CS Studies
 
 매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한지 1년 2개월 정도 흘렀어요.
 
