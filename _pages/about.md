@@ -29,17 +29,17 @@ redirect_from:
 
 ## 👩🏻‍💻 Projects
 
-### 백준룸즈
+### ⚔️ 백준룸즈
 
 - GitHub URL: <https://github.com/boostcampwm2023/web15-BaekjoonRooms>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/baekjoonrooms>
 
-### Yanullja (Yanolja BE Clone)
+### 🏨 Yanullja (Yanolja BE Clone)
 
 - GitHub URL: <https://github.com/battlecruisers/yanullja>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/yanullja>
 
-### SurveyIT
+### 📝 SurveyIT
 
 - GitHub URL: <https://github.com/what-surv/what-surv-backend>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/surveyit>
