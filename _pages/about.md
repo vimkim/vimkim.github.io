@@ -15,7 +15,7 @@ redirect_from:
 
 ## 🔎 Education
 
-### 고려대학교 컴퓨터학과 학사편입 후 학부 졸업
+### 고려대학교 학사 편입학, 컴퓨터학과 학부 졸업
 
 - 2019.3 - 2020.2, 2022.3 - 2023.2
 - GPA 4.03 / 4.5
@@ -31,60 +31,71 @@ redirect_from:
 
 ### 백준룸즈
 
-### Yanullja Backend
+- GitHub URL: <https://github.com/boostcampwm2023/web15-BaekjoonRooms>
+- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/baekjoonrooms>
+
+### Yanullja (Yanolja BE Clone)
+
+- GitHub URL: <https://github.com/battlecruisers/yanullja>
+- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/yanullja>
+
+### SurveyIT
+
+- GitHub URL: <https://github.com/what-surv/what-surv-backend>
+- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/surveyit>
 
 ## 기술적 역량
 
-### 인증, 인가를 제대로 구현할 수 있어요.
+### 인증, 인가를 제대로 구현할 수 있어요
 
 - OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요.
 - Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요.
 - Spring Security와 Passport.js 사용 경험이 있어요.
 
-### 간단한 배포와 CI/CD에 능숙해요.
+### 간단한 배포와 CI/CD에 능숙해요
 
 - Docker compose를 통해 모든 손쉽게 배포할 수 있어요.
 - Nginx와 Let's Encrypt, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
-- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
+  - GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
 
-### 웹소켓을 통해 채팅을 구현할 수 있어요.
+### 웹소켓을 통해 채팅을 구현할 수 있어요
 
 - Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요.
 - 웹소켓 통신을 위한 Nginx 프록시 업그레이드 설정을 할 수 있어요.
 
-### 팀원의 Git 문제를 해결해 줄 수 있어요.
+### 팀원의 Git 문제를 해결해 줄 수 있어요
 
 - 협업할 때 발생한 모든 Git 문제를 도맡아 해결했어요.
 - Git 구조를 잘 알아요. `git cat-file` 로 Tree와 Blob을 보면서 Git의 구조와 원리를 이해하고, Git을 스스로 구현해 본 적이 있어요.
 - 다양한 Git branch strategy에 능숙하고 협업 시 Git Graph를 깔끔하게 관리할 수 있어요.
 
-### NestJS를 자유롭게 사용해요.
+### NestJS를 자유롭게 사용해요
 
 - 모듈 시스템, 의존성 주입에 익숙해요.
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
 - 덕분에 E2E Test 코드도 수월하게 짜요.
 
-### HTTP를 깊게 공부했어요.
+### HTTP를 깊게 공부했어요
 
 - HTTP 완벽 가이드를 완독했어요.
 - HTTP caching 등등 추가 기술
 - TODO
 
-### Database 이론을 깊게 공부했어요.
+### Database 이론을 깊게 공부했어요
 
 - 정규화에 자신 있어요. 정규화에 대한 공부를 많이 하고, ERD를 설계할 때마다 정규화를 신경 써요.
 - Phantom Read와 같은 Anomaly가 왜 발생하는지 DB시스템 자료구조를 그리면서 설명할 수 있어요.
 - 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요.
 
-### ERD를 읽고 작성하는데에 능숙해요.
+### ERD를 읽고 작성하는데에 능숙해요
 
 - 연관 관계가 복잡하더라도, 괜찮은 ERD 초안을 만들어올 수 있어요.
 
-### Spring Data JPA, TypeORM 등 ORM에 익숙해요.
+### Spring Data JPA, TypeORM 등 ORM에 익숙해요
 
 - ManyToOne 연관 관계를 설정하고, N+1 문제를 막을 수 있어요.
 
-### 모던 Java에 능숙해요.
+### 모던 Java에 능숙해요
 
 - 모던 자바 인 액션을 완독했어요.
 - 스트림을 좋아해요. Short-curcuiting과 Loop fusion이 매력적이라고 생각해요.
@@ -103,12 +114,12 @@ redirect_from:
 - JS async / await의 간결함을 좋아해요. 자바에서 CompletableFuture를 쓸 때는 가독성이 좀 아쉬운데, JS에서는 매우 편해요.
 - ESLint airbnb와 함께 사용한다면 나름 쾌적하게 사용할 수 있는 언어라고 생각해요.
 
-### 간단한 React 코드 작성과 디버깅을 할 수 있어요.
+### 간단한 React 코드 작성과 디버깅을 할 수 있어요
 
 - 프론트엔드 개발자가 작성한 리액트 코드를 해석하고 디버깅 할 수 있어요. 기존 코드를 모방하여 간단한 컴포넌트를 만들 수 있어요.
 - 프론트엔드 개발자의 입장에서, 프론트엔드 개발자를 배려하는 코드를 작성할 수 있어요.
 
-## 부족한 역량 & 앞으로 개선해 나아갈 사항
+<!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
 ### Redis
 
@@ -134,7 +145,7 @@ redirect_from:
 
 ### Java 21 Virtual Thread
 
-### 대용량 트래픽 처리 경험
+### 대용량 트래픽 처리 경험 -->
 
 ## 🙋🏻 How I work
 
@@ -180,7 +191,7 @@ redirect_from:
 
 ## 👩🏻‍🚀 Extra
 
-🌏 해외 경험 🏊🏻 수영 🏔️등산 📺유튜브
+🌏 해외 경험 🏊🏻 수영 🏔️등산
 
 ### 해외 경험
 
@@ -191,17 +202,9 @@ redirect_from:
 
 ### 수영
 
-- 수영을 좋아해요. 어렸을 때 수영 선수단에서 주 7일 매일 2시간 이상 훈련하면서 많은 대회를 출전했고 입상했어요. 하루에 6km, 50m 풀장을 120바퀴 돌며 연습했어요.
+- 수영을 좋아해요. 어렸을 때 수영 선수반에서 주 7일 매일 2시간 이상 훈련하면서 많은 대회를 출전했고 입상했어요. 하루에 6km, 50m 풀장을 120바퀴 돌며 연습했어요.
 - 대학에서도 수영 동아리를 하며 서울시 수영 대회에 여러 번 출전했어요.
 
 ### 등산
 
 - 등산을 좋아해요. 1년 동안 거의 하루도 빠짐없이 부모님과 함께 1시간씩 관악산 둘레길을 등산하고 있어요. 언덕을 올라가도 지치지 않는 체력이 최고의 장점이에요.
-
-### 유튜브
-
-- 유튜브를 즐겨 봐요. 알튜브과 우왁굳을 즐겨봐요. 넷플릭스 엔지니어 ThePrimeagen의 영상도 추천해요.
-
-### 게임
-
-- 스타크래프트2 다이아 랭크를 달성한 적이 있어요.
