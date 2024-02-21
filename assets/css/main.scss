@@ -39,3 +39,33 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body, button, input, select, textarea {
+  font-family: 'Pretendard-Regular', sans-serif !important;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 700; /* Assuming you want headings to be bold */
+}
+
+p, a, li, span, label { /* Add any other tags as needed */
+  font-family: 'Pretendard-Regular', sans-serif;
+}
+
+/* Ensure buttons and inputs match the text style */
+button, input[type="submit"], input[type="button"] {
+  font-family: 'Pretendard-Regular', sans-serif;
+}
+
+.sidebar .author__bio, .author__name, li, a {
+  font-family: 'Pretendard-Regular', sans-serif !important;
+}
