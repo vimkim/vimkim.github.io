@@ -46,46 +46,48 @@ redirect_from:
 
 ## 💪 기술적 역량
 
-### 🔑 인증, 인가를 제대로 구현할 수 있어요
+### 🚀 배포와 CI/CD에 능숙해요
 
-- OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요.
-- Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요.
-- Spring Security와 Passport.js 사용 경험이 있어요.
-
-### 🚀 간단한 배포와 CI/CD에 능숙해요
-
-- Docker compose를 통해 모든 손쉽게 배포할 수 있어요.
-- Nginx와 Let's Encrypt, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
-  - GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
-
-### 💬 웹소켓을 통해 채팅을 구현할 수 있어요
-
-- Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요.
-- 웹소켓 통신을 위한 Nginx 프록시 업그레이드 설정을 할 수 있어요.
+- Docker compose를 통해 손쉽게 배포할 수 있어요.
+- Nginx와, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
+- Let's Encrypt를 통해 HTTPS를 설정할 수 있어요.
+- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
+- 필요하다면 bash, zsh, fish, powershell 어떤 쉘이든 쉘스크립트를 작성할 수 있어요.
 
 ### 🌿 팀원의 Git 문제를 해결해 줄 수 있어요
 
 - 협업할 때 발생한 모든 Git 문제를 도맡아 해결했어요.
 - Git 구조를 잘 알아요. `git cat-file` 로 Tree와 Blob을 보면서 Git의 구조와 원리를 이해하고, Git을 스스로 구현해 본 적이 있어요.
 - 다양한 Git branch strategy에 능숙하고 협업 시 Git Graph를 깔끔하게 관리할 수 있어요.
+- `reset`, `stash`, `rebase --onto`, `worktree`를 잘 쓰고, `squash merge`를 좋아해요.
+
+### 🔑 인증, 인가를 제대로 구현할 수 있어요
+
+- OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요.
+- Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요.
+- Spring Security와 Passport.js 사용 경험이 있어요.
+
+### 💬 웹소켓을 통해 채팅을 구현할 수 있어요
+
+- Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요.
+- 웹소켓 통신을 위한 Nginx 프록시 업그레이드 설정을 할 수 있어요.
 
 ### 🏠 NestJS를 자유롭게 사용해요
 
-- 모듈 시스템, 의존성 주입에 익숙해요.
+- 모듈 시스템과 의존성 주입에 익숙해요.
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
-- 덕분에 E2E Test 코드도 수월하게 짜요.
+- E2E Test 코드도 수월하게 짜요.
 
 ### 🌐 HTTP를 깊게 공부했어요
 
-- HTTP 완벽 가이드를 완독했어요.
-- HTTP caching 등등 추가 기술
-- TODO
+- HTTP 완벽 가이드를 완독했어요. [링크](https://github.com/vimkim/http-the-definitive-guide)
+- Cache-Control과 If-Modified-Since, If-None-Match 등의 동작 원리를 알아요.
 
 ### 💾 Database 이론을 깊게 공부했어요
 
-- 정규화에 자신 있어요. 정규화에 대한 공부를 많이 하고, ERD를 설계할 때마다 정규화를 신경 써요.
+- 정규화에 대한 공부를 많이 하고, ERD를 설계할 때마다 정규화를 신경 써요.
 - Phantom Read와 같은 Anomaly가 왜 발생하는지 DB시스템 자료구조를 그리면서 설명할 수 있어요.
-- 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요.
+- 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요. [링크](https://github.com/Break-Books/real-mysql-8.0/blob/main/05%EC%9E%A5%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EC%9E%A0%EA%B8%88/5.4%20MySQL%EC%9D%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80/5.4.3%20REPEATABLE%20READ.md)
 
 ### 🧮 ERD를 읽고 작성하는데에 능숙해요
 
