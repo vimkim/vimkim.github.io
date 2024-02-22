@@ -15,66 +15,72 @@ redirect_from:
 
 ### ⚔️ 백준룸즈
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 
-- GitHub URL: <https://github.com/boostcampwm2023/web15-BaekjoonRooms>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white){:.badge}
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white){:.badge}
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101){:.badge}
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white){:.badge}
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white){:.badge}
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB){:.badge}
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white){:.badge}
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white){:.badge}
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
-### 🏨 Yanullja (Yanolja BE Clone)
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🏨 Yanullja - Yanolja BE Clone
 
-- GitHub URL: <https://github.com/battlecruisers/yanullja>
-- 회고: <https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4>
+숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white){:.badge}
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}
+
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/battlecruisers/yanullja)
+- 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
 
 ### 📝 SurveyIT (진행 중)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+설문조사 및 리워드 관리 플랫폼입니다.
 
-- GitHub URL: <https://github.com/what-surv/what-surv-backend>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white){:.badge}
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white){:.badge}
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white){:.badge}
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB){:.badge}
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white){:.badge}
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white){:.badge}
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
+
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중)
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white){:.badge}
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
 - 🐹 Go언어와 Hugo로 제작 예정
 
 ### 개인 홈페이지 제작 (진행 중)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
 
@@ -158,13 +164,13 @@ redirect_from:
 - 프론트엔드 개발자의 입장에서, 프론트엔드 개발자를 배려하는 코드를 작성할 수 있어요.
 - 신입 프론트엔드 개발자를 위해 api를 사용하는 React 코드를 대신 작성해 줄 수 있어요.
 
-### ➕ 그 외 다양한 언어들 사용할 수 있어요
+### ➕ 그 외 다양한 언어를 사용할 수 있어요
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54){:.badge}
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white){:.badge}
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white){:.badge}
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white){:.badge}
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683){:.badge}
 
 ## 🔎 학력
 
@@ -216,14 +222,17 @@ redirect_from:
 - 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
-  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석하였습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다. 분석 작업은 매우 시간이 소요되었으며, 코드 실행만으로도 한 번에 9시간 이상이 걸렸습니다. 아침에 스스로 작성한 분석 코드를 실행하면 저녁에서야 결과를 확인할 수 있었습니다.
+  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
 
-    연구를 진행하면서 비전공자였던 제가 할 수 있는 최대한의 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠습니다. 이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
+  분석 작업에는 상당히 많은 시간이 소요되었고, 코드를 실행하는 데만 해도 한 번에 9시간 이상이 걸렸습니다. 아침에 제가 직접 작성한 분석 코드를 실행시키고 나면, 결과를 확인하기 위해서는 저녁 시간까지 기다려야 했어요.
+
+  연구를 진행하면서 비전공자였던 제가 할 수 있는 최대한의 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠어요. 이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 - 2014.6)
 
 - 프랑스 파리 소재 국제고등학교
-- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득 (캐나다 대학 1학년 면제, 2학년 입학)
+- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득
+  - 캐나다 대학 1학년 면제, 2학년으로 입학
 
 ### 🚶‍♂️🏫 휘️문고등학교 중퇴 (2011.03 - 2011.07)
 
