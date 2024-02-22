@@ -30,7 +30,11 @@ redirect_from:
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중)
 
+- 🐹 Go언어와 Hugo로 제작 예정
+
 ### 개인 홈페이지 제작 (진행 중)
+
+- 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
 
 - Github URL: <https://github.com/vimkim/vimkim.github.io>
 
