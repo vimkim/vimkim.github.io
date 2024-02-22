@@ -15,24 +15,68 @@ redirect_from:
 
 ### ⚔️ 백준룸즈
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 - GitHub URL: <https://github.com/boostcampwm2023/web15-BaekjoonRooms>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/baekjoonrooms>
 
 ### 🏨 Yanullja (Yanolja BE Clone)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - GitHub URL: <https://github.com/battlecruisers/yanullja>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/yanullja>
 
 ### 📝 SurveyIT
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 - GitHub URL: <https://github.com/what-surv/what-surv-backend>
 - 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/surveyit>
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중)
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
 - 🐹 Go언어와 Hugo로 제작 예정
 
 ### 개인 홈페이지 제작 (진행 중)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
 
@@ -72,7 +116,7 @@ redirect_from:
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
 - E2E Test 코드도 수월하게 짜요.
 
-### 🌐 HTTP를 깊게 공부했어요
+### 🌐 HTTP를 필요한 만큼 공부했어요
 
 - HTTP 완벽 가이드를 완독했어요. [링크](https://github.com/vimkim/http-the-definitive-guide)
 - Cache-Control과 If-Modified-Since, If-None-Match 등의 동작 원리를 알아요.
@@ -93,7 +137,7 @@ redirect_from:
 
 ### ☕ 모던 Java에 능숙해요
 
-- 모던 자바 인 액션을 완독했어요.
+- 모던 자바 인 액션을 완독했어요. [링크](https://github.com/vimkim/modern-java-in-action)
 - 스트림을 좋아해요. Short-curcuiting과 Loop fusion이 매력적이라고 생각해요.
 - 리턴 타입이 Optional인 함수들을 좋아해요. NullPointerException을 싫어해요.
 - 소스 코드의 Binary Compatibility, Source Compatibility를 생각하면서 코드를 작성해요.
@@ -115,6 +159,14 @@ redirect_from:
 - 프론트엔드 개발자가 작성한 리액트 코드를 해석하고 디버깅 할 수 있어요. 기존 코드를 모방하여 간단한 컴포넌트를 만들 수 있어요.
 - 프론트엔드 개발자의 입장에서, 프론트엔드 개발자를 배려하는 코드를 작성할 수 있어요.
 - 신입 프론트엔드 개발자를 위해 api를 사용하는 React 코드를 대신 작성해 줄 수 있어요.
+
+### ➕ 그 외 다양한 언어들 사용할 수 있어요
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
 ## 🔎 학력
 
@@ -166,14 +218,14 @@ redirect_from:
 - 졸업 논문 [링크](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
-  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석하였습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 분석 결과에 대한 최고 평가를 받았습니다. 분석 작업은 매우 시간이 소요되었으며, 코드 실행만으로도 한 번에 9시간 이상이 걸렸습니다. 아침에 작업을 시작하여 저녁에 결과를 확인하는 일정으로 3개월 동안 진행했습니다.
+  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석하였습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다. 분석 작업은 매우 시간이 소요되었으며, 코드 실행만으로도 한 번에 9시간 이상이 걸렸습니다. 아침에 스스로 작성한 분석 코드를 실행하면 저녁에서야 결과를 확인할 수 있었습니다.
 
-    이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성과 미래 연구 및 직업에서의 필요성을 깊이 인식시켜 주었습니다.
+    연구를 진행하면서 비전공자였던 제가 할 수 있는 최대한의 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠습니다. 이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 - 2014.6)
 
 - 프랑스 파리 소재 국제고등학교
-- 2011.9 - 2014.6
+- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득 (캐나다 대학 1학년 면제, 2학년 입학)
 
 ### 🚶‍♂️🏫 휘️문고등학교 중퇴 (2011.03 - 2011.07)
 
@@ -283,6 +335,12 @@ redirect_from:
 ### 등산
 
 - 등산을 좋아해요. 1년 동안 거의 하루도 빠짐없이 부모님과 함께 1시간씩 관악산 둘레길을 등산하고 있어요. 언덕을 올라가도 지치지 않는 체력이 최고의 장점이에요.
+
+### 취미
+
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ## 감사의 인사
 
