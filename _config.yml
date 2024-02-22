@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Daehyun Kim's Portfolio"
+title: "vimkim's Portfolio"
 title_separator: "-"
 name: &name "Daehyun Kim"
 description: &description "Back-End Software Engineer"
@@ -21,8 +21,8 @@ repository: "vimkim/vimkim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "김대현 / Daehyun Kim"
+  avatar: "vim.png"
+  name: "김대현 / vimkim"
   pronouns: # example: "she/her"
   bio: "백엔드 개발자"
   location: "Seoul, South Korea"
