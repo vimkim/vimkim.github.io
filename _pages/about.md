@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💻 Projects
 
-### ⚔️ 백준룸즈 (2023.11 - 2023.12)
+### ⚔️ 백준룸즈 (2023.11 ~ 2023.12)
 
 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 
@@ -49,7 +49,7 @@ redirect_from:
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/battlecruisers/yanullja)
 - 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
 
-### 📝 SurveyIT (진행 중) (2024.2 -)
+### 📝 SurveyIT (진행 중) (2024.2 ~ )
 
 설문조사 및 리워드 관리 플랫폼입니다.
 
@@ -69,7 +69,7 @@ redirect_from:
 
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/what-surv/what-surv-backend)
 
-### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.3 -)
+### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white){:.badge}
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
@@ -77,7 +77,7 @@ redirect_from:
 
 - 🐹 Go언어와 Hugo로 제작 예정
 
-### 개인 홈페이지 제작 (진행 중) (2024.2 -)
+### 개인 홈페이지 제작 (진행 중) (2024.2 ~ )
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
@@ -174,7 +174,7 @@ redirect_from:
 
 ## 🔎 학력
 
-### 🎓 고려대학교, 컴퓨터학과 학부 편입학 및 졸업 (2019.3 - 2023.2)
+### 🎓 고려대학교, 컴퓨터학과 학부 편입학 및 졸업 (2019.3 ~ 2023.2)
 
 - 📍 위치: 서울시 성북구 안암동
 - 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
@@ -212,7 +212,7 @@ redirect_from:
   - 💻 컴퓨터 동아리 KUCC (2022)
   - 🏊 수영 동아리 수호회 (2022)
 
-### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 - 2018.6)
+### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
 
 - 📍 위치: 캐나다 몬트리올
 - 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
@@ -228,19 +228,19 @@ redirect_from:
 
   연구를 진행하면서 비전공자였던 제가 할 수 있는 최대한의 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠어요. 이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
-### 🎓 EIB The Victor Hugo School 졸업 (2011.9 - 2014.6)
+### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
 
 - 프랑스 파리 소재 국제고등학교
 - 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득
   - 캐나다 대학 1학년 면제, 2학년으로 입학
 
-### 🚶‍♂️🏫 휘️문고등학교 중퇴 (2011.03 - 2011.07)
+### 🚶‍♂️🏫 휘️문고등학교 중퇴 (2011.03 ~ 2011.07)
 
 - 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
 
 ## 📚 직업 교육 과정
 
-### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 - 2023.12)
+### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
 
 - 교육 기간 활동:
 
