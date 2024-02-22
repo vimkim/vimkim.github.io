@@ -78,7 +78,7 @@ button, input[type="submit"], input[type="button"] {
   font-family: 'Pretendard-Regular', sans-serif !important;
 }
 
-#main > article > div > section p img {
+#main > article > div > section p img.badge {
     margin: 0.1rem;
     border-radius: 0.4rem;
     border: 1px solid #ddd;
@@ -87,7 +87,7 @@ button, input[type="submit"], input[type="button"] {
     height: 1.5rem;
 }
 
-#main > article > div > section p img:hover {
+#main > article > div > section p img.badge:hover {
     transform: scale(1.1);
     cursor: pointer;
 }
