@@ -31,7 +31,6 @@ redirect_from:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 - GitHub URL: <https://github.com/boostcampwm2023/web15-BaekjoonRooms>
-- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/baekjoonrooms>
 
 ### 🏨 Yanullja (Yanolja BE Clone)
 
@@ -44,9 +43,9 @@ redirect_from:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - GitHub URL: <https://github.com/battlecruisers/yanullja>
-- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/yanullja>
+- 회고: <https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4>
 
-### 📝 SurveyIT
+### 📝 SurveyIT (진행 중)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -63,7 +62,6 @@ redirect_from:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 - GitHub URL: <https://github.com/what-surv/what-surv-backend>
-- 프로젝트 설명 URL: <https://vimkim.github.io/portfolio/surveyit>
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중)
 
@@ -86,10 +84,10 @@ redirect_from:
 
 ### 🚀 배포와 CI/CD에 능숙해요
 
-- Docker compose를 통해 손쉽게 배포할 수 있어요.
+- Docker compose를 통해 손쉽게 배포할 수 있어요. [link](https://github.com/what-surv/what-surv-deploy/pull/4)
 - Nginx와, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
 - Let's Encrypt를 통해 HTTPS를 설정할 수 있어요.
-- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요.
+- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요. [link](https://github.com/battlecruisers/yanullja/pull/89)
 - 필요하다면 bash, zsh, fish, powershell 어떤 쉘이든 쉘스크립트를 작성할 수 있어요.
 
 ### 🌿 팀원의 Git 문제를 해결해 줄 수 있어요
@@ -101,43 +99,43 @@ redirect_from:
 
 ### 🔑 인증, 인가를 제대로 구현할 수 있어요
 
-- OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요.
-- Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요.
+- OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요. [link](https://github.com/what-surv/what-surv-backend/pull/51)
+- Session, Jwt 두 가지 방법 모두 로그인을 구현할 수 있어요. [link](https://github.com/what-surv/what-surv-backend/pull/27)
 - Spring Security와 Passport.js 사용 경험이 있어요.
 
 ### 💬 웹소켓을 통해 채팅을 구현할 수 있어요
 
-- Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요.
+- Socket.IO와 NestJS Gateway를 통해 실시간 채팅방을 구현했어요. [link](https://github.com/boostcampwm2023/web15-BaekjoonRooms/pull/179)
 - 웹소켓 통신을 위한 Nginx 프록시 업그레이드 설정을 할 수 있어요.
 
 ### 🏠 NestJS를 자유롭게 사용해요
 
 - 모듈 시스템과 의존성 주입에 익숙해요.
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
-- E2E Test 코드도 수월하게 짜요.
+- E2E Test 코드도 수월하게 짜요. [link](https://github.com/what-surv/what-surv-backend/pull/40/files)
 
 ### 🌐 HTTP를 필요한 만큼 공부했어요
 
-- HTTP 완벽 가이드를 완독했어요. [링크](https://github.com/vimkim/http-the-definitive-guide)
-- Cache-Control과 If-Modified-Since, If-None-Match 등의 동작 원리를 알아요.
+- HTTP 완벽 가이드를 완독했어요. [link](https://github.com/vimkim/http-the-definitive-guide)
+- Cache-Control과 If-Modified-Since, If-None-Match 등의 동작 원리를 알아요. [link](https://github.com/vimkim/http-the-definitive-guide/commit/c875349fe4c4683bfba44d160501a5b76c89483c)
 
 ### 💾 Database 이론을 깊게 공부했어요
 
 - 정규화에 대한 공부를 많이 하고, ERD를 설계할 때마다 정규화를 신경 써요.
 - Phantom Read와 같은 Anomaly가 왜 발생하는지 DB시스템 자료구조를 그리면서 설명할 수 있어요.
-- 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요. [링크](https://github.com/Break-Books/real-mysql-8.0/blob/main/05%EC%9E%A5%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EC%9E%A0%EA%B8%88/5.4%20MySQL%EC%9D%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80/5.4.3%20REPEATABLE%20READ.md)
+- 트랜잭션 격리 수준에 대해 잘 알아요. Real MySQL 1권을 읽고 격리 수준에 대한 설명에서 오류를 찾아냈어요. [link](https://github.com/Break-Books/real-mysql-8.0/blob/main/05%EC%9E%A5%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EC%9E%A0%EA%B8%88/5.4%20MySQL%EC%9D%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80/5.4.3%20REPEATABLE%20READ.md)
 
 ### 🧮 ERD를 읽고 작성하는데에 능숙해요
 
-- 연관 관계가 복잡하더라도, 괜찮은 ERD 초안을 만들어올 수 있어요.
+- 연관 관계가 복잡하더라도, 괜찮은 ERD 초안을 만들어올 수 있어요. [link](https://github.com/battlecruisers/yanullja?tab=readme-ov-file#erd)
 
 ### 🔄 Spring Data JPA, TypeORM 등 ORM에 익숙해요
 
-- ManyToOne 연관 관계를 설정하고, N+1 문제를 막을 수 있어요.
+- ManyToOne 연관 관계를 설정하고, N+1 문제를 막을 수 있어요. [link](https://github.com/boostcampwm2023/web15-BaekjoonRooms/pull/264#discussion_r1485173448)
 
 ### ☕ 모던 Java에 능숙해요
 
-- 모던 자바 인 액션을 완독했어요. [링크](https://github.com/vimkim/modern-java-in-action)
+- 모던 자바 인 액션을 완독했어요. [link](https://github.com/vimkim/modern-java-in-action)
 - 스트림을 좋아해요. Short-curcuiting과 Loop fusion이 매력적이라고 생각해요.
 - 리턴 타입이 Optional인 함수들을 좋아해요. NullPointerException을 싫어해요.
 - 소스 코드의 Binary Compatibility, Source Compatibility를 생각하면서 코드를 작성해요.
@@ -146,7 +144,7 @@ redirect_from:
 ### 📘 TypeScript
 
 - 타입스크립트는 Null Check가 잘 되는 우아하고 모던한 언어라서 좋아해요. Matt Pocock의 영상을 자주 봐요.
-- Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [링크](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
+- Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [link](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
 ### 🟨 JavaScript
@@ -215,7 +213,7 @@ redirect_from:
 - 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
 - 📊 GPA: 3.11 / 4.0, 총 이수 학점: 121
 - 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
-- 졸업 논문 [링크](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
+- 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
   - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석하였습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다. 분석 작업은 매우 시간이 소요되었으며, 코드 실행만으로도 한 번에 9시간 이상이 걸렸습니다. 아침에 스스로 작성한 분석 코드를 실행하면 저녁에서야 결과를 확인할 수 있었습니다.
@@ -231,7 +229,7 @@ redirect_from:
 
 - 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
 
-## 📚 전문 교육 과정
+## 📚 직업 교육 과정
 
 ### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 - 2023.12)
 
@@ -246,7 +244,7 @@ redirect_from:
   - 👨‍💻 프로젝트 명: 백준룸즈
   - 소개: 평소 트위치에서 해외 개발자들이 'LeetRooms'라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했습니다.
 
-    알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신합니다!
+    알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신해요!
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
@@ -295,11 +293,11 @@ redirect_from:
 - 협업 할 때마다 구성원의 건강 상태를 공유하는 것을 중요하게 생각해요.
 - 영리함 보다는 가독성이 중요하고, 코드 품질보다는 기능 구현이 더 중요하다고 생각해요.
 - 금전적인 인센티브보다, 내가 얼마나 의미 있게 기여할 수 있는지가 더 중요하다고 생각해요.
-- 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. [링크](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5)
+- 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. [link](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5)
 
 ## 📚 CS Studies
 
-매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한지 1년 2개월 정도 흘렀어요. [링크](https://github.com/vimkim#%EC%8A%A4%ED%84%B0%EB%94%94)
+매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한지 1년 2개월 정도 흘렀어요. [link](https://github.com/vimkim#%EC%8A%A4%ED%84%B0%EB%94%94)
 
 아래 순서대로 매주 1, 2 챕터 씩 읽었어요.
 
