@@ -147,16 +147,16 @@ redirect_from:
 - 소스 코드의 Binary Compatibility, Source Compatibility를 생각하면서 코드를 작성해요.
   `invokevirtual` 과 `invokeinterface` 등의 바이트 코드 명령어에 대해서 깊게 파고 들어본 경험이 있어요.
 
-### 📘 TypeScript
+### 📘 TypeScript를 좋아해요
 
 - 타입스크립트는 Null Check가 잘 되는 우아하고 모던한 언어라서 좋아해요. Matt Pocock의 영상을 자주 봐요.
 - Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [link](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
-### 🟨 JavaScript
+### 🟨 JavaScript도 장점이 있어요
 
 - JS async / await의 간결함을 좋아해요. 자바에서 CompletableFuture를 쓸 때는 가독성이 좀 아쉬운데, JS에서는 매우 편해요.
-- ESLint airbnb와 함께 사용한다면 나름 쾌적하게 사용할 수 있는 언어라고 생각해요.
+- JSDoc, ESLint airbnb와 함께 사용한다면 나름 쾌적하게 사용할 수 있는 언어라고 생각해요.
 
 ### ⚛️ 간단한 React 코드 작성과 디버깅을 할 수 있어요
 
