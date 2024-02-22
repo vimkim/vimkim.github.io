@@ -98,7 +98,7 @@ redirect_from:
 ### 📘 TypeScript
 
 - 타입스크립트는 Null Check가 잘 되는 우아하고 모던한 언어라서 좋아해요. Matt Pocock의 영상을 자주 봐요.
-- Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. 블로그에 글을 쓴 적이 있어요. [https://velog.io/@dkvlg/타입스크립트-Enums-공식문서-요약](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
+- Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [링크](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
 ### 🟨 JavaScript
@@ -239,7 +239,7 @@ redirect_from:
 - 협업 할 때마다 구성원의 건강 상태를 공유하는 것을 중요하게 생각해요.
 - 영리함 보다는 가독성이 중요하고, 코드 품질보다는 기능 구현이 더 중요하다고 생각해요.
 - 금전적인 인센티브보다, 내가 얼마나 의미 있게 기여할 수 있는지가 더 중요하다고 생각해요.
-- 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. (블로그 글: [https://velog.io/@dkvlg/mapstruct-오류-다-잡고-도입-성공](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5) )
+- 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. [링크](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5)
 
 ## 📚 CS Studies
 
