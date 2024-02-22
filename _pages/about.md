@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💻 Projects
 
-### ⚔️ 백준룸즈
+### ⚔️ 백준룸즈 (2023.11 - 2023.12)
 
 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 
@@ -34,7 +34,7 @@ redirect_from:
 
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
-### 🏨 Yanullja - Yanolja BE Clone
+### 🏨 Yanullja - Yanolja BE Clone (2024.1)
 
 숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
 
@@ -49,7 +49,7 @@ redirect_from:
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/battlecruisers/yanullja)
 - 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
 
-### 📝 SurveyIT (진행 중)
+### 📝 SurveyIT (진행 중) (2024.2 -)
 
 설문조사 및 리워드 관리 플랫폼입니다.
 
@@ -69,7 +69,7 @@ redirect_from:
 
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/what-surv/what-surv-backend)
 
-### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중)
+### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.3 -)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white){:.badge}
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
@@ -77,7 +77,7 @@ redirect_from:
 
 - 🐹 Go언어와 Hugo로 제작 예정
 
-### 개인 홈페이지 제작 (진행 중)
+### 개인 홈페이지 제작 (진행 중) (2024.2 -)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
