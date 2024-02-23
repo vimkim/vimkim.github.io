@@ -35,6 +35,7 @@ redirect_from:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
 - 팀원: 프론트 3명, 백엔드 2명
+- 자세한 내용: [link](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95)
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
@@ -263,6 +264,8 @@ redirect_from:
   - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
   - 담당하지 않은 업무: Problem / Submission / Tag Domain, Nginx, Web scraping, Front-end, Baekjoon Api
   - 기술적 도전 & 고민 사항: Session or Jwt, WebSocket Https, Room 종료 로직, NestJS에서 Strict TS, TypeORM Lazy Relations과 N+1, OAuth2 access token 보호
+
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
