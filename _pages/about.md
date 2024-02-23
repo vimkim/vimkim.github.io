@@ -184,35 +184,26 @@ redirect_from:
 
 - 📍 위치: 서울시 성북구 안암동
 - 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
-- 📊 GPA: 4.03 / 4.5
-
+- 📊 **GPA: 4.03 / 4.5**
 - 📚 수강 과목 (총 이수 학점: 60):
-
   - 🗓️ 2019년
-
     - 전공 필수:
-
       - 자료구조 (A+)
       - 알고리즘 (A+)
       - 운영체제 (A+)
       - 네트워크 (A)
       - 컴퓨터 구조 (A)
       - 데이터베이스 (B+)
-
-    - 전공 선택: 프로그래밍언어(론), 오토마타, 논리설계
-
+    - 전공 선택: 이산수학, 논리설계, 공학수학
+      - 프로그래밍언어(론): 함수형 ML계열 언어 OCaml로 인터프리터 언어와 타입체커, GC 구현
+      - 오토마타: DFA, NFA, PDA, 튜링 머신과 촘스키 위계
   - 🗓️ 2022년
-
-    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 전산학 특강, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜
-
-- 🔬 연구 활동:
-
+    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜, 전산학 특강
+- 🔬 **연구 활동**:
   - 💾 데이터베이스 연구실 학부연구생 (2022.02 - 2022.05)
     - 🏅 2022 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 우수상
       - 연구 제목: 학습된 색인 구조에서 편중된 삽입 문제와 해결책
-
-- 🏢 동아리 활동:
-
+- 🏢 **동아리 활동**:
   - 🔒 정보보안 동아리 KUICS (2019)
   - 🎮 게임개발 동아리 Cat&Dog (2019)
   - 💻 컴퓨터 동아리 KUCC (2022)
@@ -223,8 +214,11 @@ redirect_from:
 - 📍 위치: 캐나다 몬트리올
 - 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
 - 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
-- 📊 GPA: 3.11 / 4.0, 총 이수 학점: 121
+- 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
 - 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
+
+  컴퓨터 수업에 푹 빠져서 선택 교양으로 컴퓨터 전공 수업을 많이 들었어요.
+
 - 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
