@@ -257,6 +257,7 @@ redirect_from:
 - 프로젝트 기간 활동:
 
   - 👨‍💻 프로젝트 명: 백준룸즈
+    [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
   - 소개: 평소 트위치에서 해외 개발자들이 'LeetRooms'라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
 
     알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신해요!
@@ -264,8 +265,6 @@ redirect_from:
   - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
   - 담당하지 않은 업무: Problem / Submission / Tag Domain, Nginx, Web scraping, Front-end, Baekjoon Api
   - 기술적 도전 & 고민 사항: Session or Jwt, WebSocket Https, Room 종료 로직, NestJS에서 Strict TS, TypeORM Lazy Relations과 N+1, OAuth2 access token 보호
-
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
@@ -323,13 +322,22 @@ redirect_from:
 
 아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
 
-- Modern Java in Action
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/?author=vimkim)
-- Real MySql 8.0
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/?author=vimkim)
-- HTTP 완벽 가이드
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/?author=vimkim)
-- Learning MySQL (현재 진행형)
+- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
+
+  > GitHub가 아닌 Obsidian에 정리되어 추후 내용 업로드 예정
+
+- CS study: [ParkRio](https://github.com/ParkRio)님께서 진행하신 CS 전공지식 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/CS-Study/commits/main/)
+
+- Modern Java in Action: [hongxeob](https://github.com/hongxeob)님께서 시작하시고 제가 물려받은 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/)
+- Real MySql 8.0: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 진행하신 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/)
+- HTTP 완벽 가이드: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 시작하시고 제가 물려받은 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/)
+- Learning MySQL (현재 진행 중)
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
 
 명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
 
