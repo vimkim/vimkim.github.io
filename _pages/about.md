@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "백엔드 개발자 김대현 (vimkim)"
+title: "**김대현 (vimkim)**, *백엔드 개발자*"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-2017년 가을, 금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 여러 우여곡절 끝에 컴퓨터 과학 학위까지 취득하게 되었고, 이제는 경제학과 컴퓨터 과학, 두 분야에서 학사 학위를 갖춘 웹 개발자가 되었습니다.
+금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학 학위까지 취득하게 되었고, 이제는 경제학과 컴퓨터 과학, 두 분야에서 학사 학위를 갖춘 웹 개발자가 되었습니다.
 
-경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간에 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 저는 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
+경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간에 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
 ## 💻 Projects
+
+> 테크 스택이 글자가 너무 작아 잘 안 보이신다면, 뱃지를 마우스 클릭하시면 확대하실 수 있어요.
 
 ### ⚔️ 백준룸즈 (2023.11 ~ 2023.12)
 
@@ -32,6 +34,7 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
+- 팀원: 프론트 3명, 백엔드 2명
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
@@ -46,6 +49,7 @@ redirect_from:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}
 
+- 팀원: 백엔드 5명
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
 - 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
 
@@ -67,6 +71,7 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
+- 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
@@ -75,6 +80,7 @@ redirect_from:
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
+- 인원: 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 예정
 
 ### 개인 홈페이지 제작 (진행 중) (2024.2 ~ )
@@ -84,6 +90,7 @@ redirect_from:
 
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
 
+- 인원: 개인 프로젝트
 - Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/vimkim.github.io)
 
 ## 💪 기술적 역량
@@ -231,8 +238,8 @@ redirect_from:
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
 
 - 프랑스 파리 소재 국제고등학교
-- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득
-  - 캐나다 대학 1학년 면제, 2학년으로 입학
+- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
+- 연극부 활동
 
 ### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
 
@@ -285,17 +292,18 @@ redirect_from:
 
 ## 🙋🏻 How I work
 
-### 🤖 ChatGPT
+### 🤖 ChatGPT는 저의 최고의 비서에요
 
 - ChatGPT를 적극 활용해서 시간을 많이 아끼고 있어요.
 - ChatGPT에게 코드의 퀄리티를 더 높일 방법이 있는지 항상 물어보고 있어요.
 
-### 📁 Git & GitHub
+### 📁 Git & GitHub은 제가 책임지고 관리해요
 
+- main 브랜치에 대한 Branch Protection은 필수이고, PR은 적어도 1명 이상의 리뷰를 받아야 한다고 생각해요.
 - Github Project와 연동하여 GitHub Issue → Branch creation → Pull Request → Squash Merge 워크 플로우로 일하는 것을 선호해요.
 - Git Graph의 모양을 깔끔하게 유지하는 것을 중요하게 생각해요. 항상 적절한 rebase와 squash merge를 통해 그래프의 모양을 정리해요.
 
-### 🤝 협업 습관
+### 🤝 협업 습관: 팀의 성공을 위한 필수 요소
 
 - 함께 정한 기한은 반드시 지키려고 노력해요.
 - 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾으려고 노력해요.
@@ -325,28 +333,26 @@ redirect_from:
 
 ## 👩🏻‍🚀 Extra
 
-🌏 해외 경험 🏊🏻 수영 🏔️등산
+### 🌏 해외 경험
 
-### 해외 경험
-
-- 미국(2년), 프랑스(3년), 캐나다(4년)에서 거주했어요.
+- 미국 워싱턴 DC(2년), 프랑스 파리(3년), 캐나다 몬트리올(4년)에서 거주했어요.
 - 영국, 스위스, 독일, 이탈리아, 크로아티아, 체코, 헝가리, 스페인, 멕시코, 일본 등 다양한 나라를 여행하면서 문화를 체험하고 이해할 수 있었어요.
 - 카투사 통역병 및 선임병장으로서 대구에서 18개월 동안 복무했어요. 이 시간 동안 미군 문화와 용어에 익숙해져, 미군이 등장하는 영화나 넷플릭스 시리즈를 볼 때 특별한 재미를 느껴요.
 - AIESEC 국제 인턴쉽 프로그램에 참여하여, 멕시코 파나메리카 대학에서 2달간 금융학 Research Assistant로 근무했어요. 홈스테이를 하면서 만난 멕시코 친구들과 주말마다 멕시코 전역을 여행하며 견문을 넓힐 수 있었어요.
 
-### 수영
+### 🏊🏻 수영
 
-- 수영에 대한 열정은 제 삶의 중요한 부분을 차지해요. 어린 시절 수영 선수반에서의 꾸준한 훈련과 경쟁은 저에게 끈기와 인내를 가르쳐 주었어요. 4년 동안 꾸준히 주 7일, 주말을 포함해서 매일 2시간 이상의 훈련으로, 하루에 6km, 즉 50미터 수영장을 120바퀴 도는 게 일상적이었어요.
+- 어린 시절 수영 선수반에서의 꾸준한 훈련과 경쟁은 저에게 끈기와 인내를 가르쳐 주었어요. 4년 동안 꾸준히 주 7일, 주말을 포함해서 매일 2시간 이상 수영했고 하루에 6km씩, 왕복 50미터 수영장을 120바퀴 돌며 훈련했어요. 수영에 대한 열정은 제 삶의 중요한 부분을 차지해요.
 
   힘들고 포기하고 싶은 순간이 무척 많았지만, 이러한 과정에서 많은 대회에 출전하고 입상하는 성과를 이루었고, 아무리 힘들어도 결코 포기하지 않는 강인한 정신력을 길렀어요.
 
 - 대학교 수영 동아리 소속으로 서울시 수영 대회에 여러 번 출전하며, 건강한 체력을 유지했어요.
 
-### 등산
+### 🏔️ 산책
 
-- 등산을 좋아해요. 1년 동안 거의 하루도 빠짐없이 부모님과 함께 1시간씩 관악산 둘레길을 등산하고 있어요. 언덕을 올라가도 지치지 않는 체력이 최고의 장점이에요.
+- 산책과 트래킹을 좋아해요. 22년 12월부터 1년 이상 매일 꾸준히 부모님과 1시간씩 관악산 둘레길을 산책하고 있어요. 처음에는 숨이 벅차올라 말 한 마디 하기도 힘들었지만, 이제는 가파른 언덕을 오르면서도 태연하게 일상적인 이야기를 주고받을 수 있을만큼 익숙해졌어요. 덕분에 다져진 지치지 않는 체력이 최고의 장점이에요.
 
-### 취미
+### ⌨️ 취미
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white){:.badge}
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}
@@ -354,7 +360,7 @@ redirect_from:
 
 ## 감사의 인사
 
-제 소개를 읽어주셔서 감사합니다. 추가로 궁금하신 사항이 있으시면 아래 연락처로 언제든지 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
+궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
 
 - 이메일: <kimdhyungg@gmail.com>
 - 전화번호: 010-3284-0075
