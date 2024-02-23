@@ -231,13 +231,13 @@ redirect_from:
 
     분석 작업에는 상당히 많은 시간이 소요되었고, 코드를 실행하는 데만 해도 한 번에 9시간 이상이 걸렸습니다. 아침에 제가 직접 작성한 분석 코드를 실행시키고 나면, 결과를 확인하기 위해서는 저녁 시간까지 기다려야 했어요.
 
-    연구를 진행하면서 비전공자였던 제가 할 수 있는 최대한의 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠어요. 이 연구는 저에게 컴퓨터 과학(CS) 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
+    당시 제 능력이 닿는 대로 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠어요. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었어요.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
 
 - 프랑스 파리 소재 국제고등학교
 - 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
-- 연극부 활동
+- 연극부에서 리어왕과 안티고네의 크레온을 연기했어요. Thou, Thy, Thee 와 같은 고전 영어를 해석하느라 고생했어요 💦
 
 ### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
 
@@ -256,9 +256,13 @@ redirect_from:
 - 프로젝트 기간 활동:
 
   - 👨‍💻 프로젝트 명: 백준룸즈
-  - 소개: 평소 트위치에서 해외 개발자들이 'LeetRooms'라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했습니다.
+  - 소개: 평소 트위치에서 해외 개발자들이 'LeetRooms'라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
 
     알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신해요!
+
+  - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
+  - 담당하지 않은 업무: Problem / Submission / Tag Domain, Nginx, Web scraping, Front-end, Baekjoon Api
+  - 기술적 도전 & 고민 사항: Session or Jwt, WebSocket Https, Room 종료 로직, NestJS에서 Strict TS, TypeORM Lazy Relations과 N+1, OAuth2 access token 보호
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
@@ -312,14 +316,16 @@ redirect_from:
 
 ## 📚 CS Studies
 
-매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한 지 1년 2개월 정도 흘렀어요. [link](https://github.com/vimkim#%EC%8A%A4%ED%84%B0%EB%94%94)
+매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한 지 1년 2개월 정도 흘렀어요.
 
 아래 순서대로 매주 1, 2 챕터 씩 읽었어요.
 
 - Modern Java in Action
-- Operating System Concepts
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/?author=vimkim)
 - Real MySql 8.0
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/?author=vimkim)
 - HTTP 완벽 가이드
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/?author=vimkim)
 - Learning MySQL (현재 진행형)
 
 명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
@@ -335,8 +341,8 @@ redirect_from:
 
 - 미국 워싱턴 D.C.(2년), 프랑스 파리(3년), 캐나다 몬트리올(4년)에서 거주했어요.
 - 영국, 스위스, 독일, 이탈리아, 크로아티아, 체코, 헝가리, 스페인, 멕시코, 일본 등 다양한 나라를 여행하면서 문화를 체험하고 이해할 수 있었어요.
-- 카투사 통역병 및 선임병장으로서 대구에서 18개월 동안 복무했어요. 이 시간 동안 미군 문화와 용어에 익숙해져, 미군이 등장하는 영화나 넷플릭스 시리즈를 볼 때 특별한 재미를 느껴요.
-- AIESEC 국제 인턴쉽 프로그램에 참여하여, 멕시코 파나메리카 대학에서 2달간 금융학 Research Assistant로 근무했어요. 홈스테이를 하면서 만난 멕시코 친구들과 주말마다 멕시코 전역을 여행하며 견문을 넓힐 수 있었어요.
+- 🪖 카투사 통역병 및 선임병장으로서 대구에서 18개월 동안 복무했어요. 이 시간 동안 미군 문화와 용어에 익숙해져, 미군이 등장하는 영화나 넷플릭스 시리즈를 볼 때 특별한 재미를 느껴요.
+- AIESEC 국제 인턴쉽 프로그램에 참여하여, 멕시코 파나메리카나 대학에서 2달간 금융학 Research Assistant로 근무했어요. 홈스테이를 하면서 만난 멕시코 친구들과 주말마다 멕시코 전역을 여행하며 견문을 넓힐 수 있었어요.
 
 ### 🏊🏻 수영
 
