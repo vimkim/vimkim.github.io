@@ -80,18 +80,16 @@ redirect_from:
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
-- 인원: 개인 프로젝트
-- 🐹 Go언어와 Hugo로 제작 예정
+- 개인 프로젝트
+- 🐹 Go언어와 Hugo로 제작 중
 
 ### 개인 홈페이지 제작 (진행 중) (2024.2 ~ )
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
-- 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
-
-- 인원: 개인 프로젝트
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/vimkim.github.io)
+- 개인 프로젝트
+- 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징
 
 ## 💪 기술적 역량
 
@@ -181,7 +179,7 @@ redirect_from:
 
 ## 🔎 학력
 
-### 🎓 고려대학교, 컴퓨터학과 학부 편입학 및 졸업 (2019.3 ~ 2023.2)
+### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
 
 - 📍 위치: 서울시 성북구 안암동
 - 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
