@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💻 Projects
 
-> 테크 스택이 글자가 너무 작아 잘 안 보이신다면, 뱃지를 마우스 클릭하시면 확대하실 수 있어요.
+> 💡 테크 스택이 글자가 너무 작아 잘 안 보이신다면, 뱃지를 마우스 클릭하시면 확대하실 수 있어요.
 
 ### ⚔️ 백준룸즈 (2023.11 ~ 2023.12)
 
@@ -316,9 +316,9 @@ redirect_from:
 
 ## 📚 CS Studies
 
-매주 일요일마다 꾸준히 기술서적 완독 스터디를 진행한 지 1년 2개월 정도 흘렀어요.
+23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
 
-아래 순서대로 매주 1, 2 챕터 씩 읽었어요.
+아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
 
 - Modern Java in Action
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/?author=vimkim)
