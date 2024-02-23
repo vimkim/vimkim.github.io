@@ -91,3 +91,7 @@ button, input[type="submit"], input[type="button"] {
     transform: scale(2);
     cursor: pointer;
 }
+
+body {
+  cursor: url('/images/vim.svg'), auto;
+}
