@@ -78,7 +78,7 @@ redirect_from:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white){:.badge}
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo){:.badge}
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
 - 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 중
@@ -86,7 +86,7 @@ redirect_from:
 ### 개인 홈페이지 제작 (진행 중) (2024.2 ~ )
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}
 
 - 개인 프로젝트
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징
@@ -298,7 +298,7 @@ redirect_from:
 ### 📁 Git & GitHub은 제가 책임지고 관리해요
 
 - main 브랜치에 대한 Branch Protection은 필수이고, PR은 적어도 1명 이상의 리뷰를 받아야 한다고 생각해요.
-- Github Project와 연동하여 GitHub Issue → Branch creation → Pull Request → Squash Merge 워크 플로우로 일하는 것을 선호해요.
+- GitHub Project와 연동하여 GitHub Issue → Branch creation → Pull Request → Squash Merge 워크 플로우로 일하는 것을 선호해요.
 - Git Graph의 모양을 깔끔하게 유지하는 것을 중요하게 생각해요. 항상 적절한 rebase와 squash merge를 통해 그래프의 모양을 정리해요.
 
 ### 🤝 협업 습관: 팀의 성공을 위한 필수 요소
@@ -333,7 +333,7 @@ redirect_from:
 
 ### 🌏 해외 경험
 
-- 미국 워싱턴 DC(2년), 프랑스 파리(3년), 캐나다 몬트리올(4년)에서 거주했어요.
+- 미국 워싱턴 D.C.(2년), 프랑스 파리(3년), 캐나다 몬트리올(4년)에서 거주했어요.
 - 영국, 스위스, 독일, 이탈리아, 크로아티아, 체코, 헝가리, 스페인, 멕시코, 일본 등 다양한 나라를 여행하면서 문화를 체험하고 이해할 수 있었어요.
 - 카투사 통역병 및 선임병장으로서 대구에서 18개월 동안 복무했어요. 이 시간 동안 미군 문화와 용어에 익숙해져, 미군이 등장하는 영화나 넷플릭스 시리즈를 볼 때 특별한 재미를 느껴요.
 - AIESEC 국제 인턴쉽 프로그램에 참여하여, 멕시코 파나메리카 대학에서 2달간 금융학 Research Assistant로 근무했어요. 홈스테이를 하면서 만난 멕시코 친구들과 주말마다 멕시코 전역을 여행하며 견문을 넓힐 수 있었어요.
