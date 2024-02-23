@@ -92,6 +92,12 @@ button, input[type="submit"], input[type="button"] {
     cursor: pointer;
 }
 
+
+#main > article > div > section img.button_image:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
 body {
   cursor: url('/images/vim.svg'), auto;
 }

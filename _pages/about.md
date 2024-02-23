@@ -32,7 +32,7 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
 
@@ -46,7 +46,7 @@ redirect_from:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}
 
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/battlecruisers/yanullja)
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
 - 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
 
 ### 📝 SurveyIT (진행 중) (2024.2 ~ )
@@ -67,7 +67,7 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/what-surv/what-surv-backend)
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
 
@@ -84,7 +84,7 @@ redirect_from:
 
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징.
 
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>](https://github.com/vimkim/vimkim.github.io)
+- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/vimkim.github.io)
 
 ## 💪 기술적 역량
 
