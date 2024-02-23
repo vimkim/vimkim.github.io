@@ -367,7 +367,7 @@ redirect_from:
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white){:.badge}
 
-## 감사의 인사
+## Contact
 
 궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
 
