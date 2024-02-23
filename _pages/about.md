@@ -91,7 +91,7 @@ redirect_from:
 ### 🚀 배포와 CI/CD에 능숙해요
 
 - Docker compose를 통해 손쉽게 배포할 수 있어요. [link](https://github.com/what-surv/what-surv-deploy/pull/4)
-- Nginx와, Caddy를 통해 리버스 프록시를 설정할 수 있어요.
+- Nginx와 Caddy를 통해 리버스 프록시를 설정할 수 있어요.
 - Let's Encrypt를 통해 HTTPS를 설정할 수 있어요.
 - GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요. [link](https://github.com/battlecruisers/yanullja/pull/89)
 - 필요하다면 bash, zsh, fish, powershell 어떤 쉘이든 쉘스크립트를 작성할 수 있어요.
@@ -234,9 +234,9 @@ redirect_from:
 - 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득
   - 캐나다 대학 1학년 면제, 2학년으로 입학
 
-### 🚶‍♂️🏫 휘️문고등학교 중퇴 (2011.03 ~ 2011.07)
+### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
 
-- 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
+- 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
 
 ## 📚 직업 교육 과정
 
