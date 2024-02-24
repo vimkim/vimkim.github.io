@@ -49,7 +49,7 @@
 
 #main {
   margin-top: 5em;
-  max-width: 1600px;
+  max-width: 1400px;
   margin-left: unset;
   margin-right: unset;
 }
@@ -72,16 +72,24 @@ body, button, input, select, textarea {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  margin-top: 1rem;
   line-height: 1.2;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 800; /* Assuming you want headings to be bold */
 }
 
+.page__content h2::before {
+  content: ""; /* This is necessary to create the pseudo-element */
+  display: block; /* This makes the pseudo-element behave like a block-level element */
+  height: 1px; /* This sets the thickness of the line. Adjust as needed */
+  background: rgb(229, 231, 235);
+  margin-bottom: 3rem; /* This creates space between the line and the h2 element */
+}
+
 .page__content h2 {
   font-size: 1.9em;
-  margin-top: 2em;
-  color: #6585b5;
-  border-bottom: 1px solid gray;
+  color:  #862633;
+  border-bottom: none;
 }
 
 p, a, li, span, label { /* Add any other tags as needed */
