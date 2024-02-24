@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💻 Projects
 
-### ⚔️ 백준룸즈 (2023.11 ~ 2023.12, 현재 매주 1일 유지 보수 중)
+### ⚔️ 백준룸즈 (2023.11 ~ 2023.12, 유지보수 2024.1 ~)
 
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}](https://google.com/search?q=NodeJS)
@@ -312,7 +312,7 @@ redirect_from:
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/)
 - HTTP 완벽 가이드: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 시작하시고 제가 물려받은 스터디 완료
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/)
-- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
+- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
   - _추후 내용 업로드 예정_
 - Learning MySQL (현재 진행 중)
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
