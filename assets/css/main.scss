@@ -108,6 +108,21 @@ button, input[type="submit"], input[type="button"] {
   background-color: black;
 }
 
+body > div.masthead {
+  border-bottom: none;
+}
+
+
+#main > div > div > div.author__urls-wrapper > button {
+  display: none;
+}
+
+#main > div > div > div.author__avatar > img {
+  border-radius: 0%;
+  padding: none;
+  border: none;
+}
+
 body {
   cursor: url('/images/vim.svg'), auto;
   color: black;
