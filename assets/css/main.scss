@@ -47,10 +47,13 @@
     font-style: normal;
 }
 
+#main {
+  max-width: 1700px;
+}
+
 body, button, input, select, textarea {
   font-family: 'Pretendard-Regular', sans-serif !important;
 }
-
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
@@ -59,10 +62,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page__content h2 {
-  font-size: 1.7em;
+  font-size: 1.9em;
   margin-top: 2em;
-  color: #3b5998;
-  border-bottom: 1px solid #3b5998;
+  color: #6585b5;
+  border-bottom: 1px solid gray;
 }
 
 p, a, li, span, label { /* Add any other tags as needed */
@@ -122,6 +125,7 @@ body > div.masthead {
   padding: none;
   border: none;
 }
+
 
 body {
   cursor: url('/images/vim.svg'), auto;
