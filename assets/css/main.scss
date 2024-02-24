@@ -98,6 +98,16 @@ button, input[type="submit"], input[type="button"] {
     cursor: pointer;
 }
 
+
+#site-nav > ul.visible-links a {
+  color: black
+}
+
+#site-nav > button {
+  filter: invert(1);
+  background-color: black;
+}
+
 body {
   cursor: url('/images/vim.svg'), auto;
   color: black;
