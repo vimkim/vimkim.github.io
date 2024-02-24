@@ -113,7 +113,7 @@ button, input[type="submit"], input[type="button"] {
 }
 
 #main > article > div > section p img.badge:hover {
-    transform: scale(2);
+    transform: scale(1.5);
     cursor: pointer;
 }
 
@@ -127,11 +127,11 @@ button, input[type="submit"], input[type="button"] {
 
 // https://unused-css.com/blog/css-shake-animation/
 @keyframes tilt-n-move-shaking {
-  0% { transform: scale(1.3) translate(0, 0) rotate(0deg); }
-  25% { transform: scale(1.3) translate(5px, 5px) rotate(5deg); }
-  50% { transform: scale(1.3) translate(0, 0) rotate(0eg); }
-  75% { transform: scale(1.3) translate(-5px, 5px) rotate(-5deg); }
-  100% { transform: scale(1.3) translate(0, 0) rotate(0deg); }
+  0% { transform: scale(1.5) translate(0, 0) rotate(0deg); }
+  25% { transform: scale(1.5) translate(5px, 5px) rotate(5deg); }
+  50% { transform: scale(1.5) translate(0, 0) rotate(0eg); }
+  75% { transform: scale(1.5) translate(-5px, 5px) rotate(-5deg); }
+  100% { transform: scale(1.5) translate(0, 0) rotate(0deg); }
 }
 
 .page__content a {
