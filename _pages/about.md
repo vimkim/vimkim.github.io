@@ -13,8 +13,6 @@ redirect_from:
 
 ## 💻 Projects
 
-> 💡 마우스를 뱃지에 가까이 가져가 확대하실 수 있어요.
-
 ### ⚔️ 백준룸즈 (2023.11 ~ 2023.12, 현재 매주 1일 유지 보수 중)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}
