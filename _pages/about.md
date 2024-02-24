@@ -34,7 +34,7 @@ redirect_from:
 
 - 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 - 팀원: 프론트 3명, 백엔드 2명
-- 자세한 내용: [담당 업무와 기술적 도전](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95),
+- 자세한 내용: [담당 업무와 기술적 도전](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95)
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
