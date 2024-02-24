@@ -70,6 +70,14 @@ redirect_from:
 - 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
+### 개인 홈페이지 제작 (2024.2)
+
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}](https://google.com/search?q=CSS3)
+[![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Pages)
+
+- 개인 프로젝트
+- 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 제작
+
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
 
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white){:.badge}](https://google.com/search?q=Go)
@@ -78,14 +86,6 @@ redirect_from:
 
 - 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 중
-
-### 개인 홈페이지 제작 (진행 중) (2024.2 ~ )
-
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white){:.badge}](https://google.com/search?q=CSS3)
-[![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Pages)
-
-- 개인 프로젝트
-- 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 CSS 커스터마이징
 
 ## 💪 기술적 역량
 
