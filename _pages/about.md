@@ -210,18 +210,14 @@ redirect_from:
 - 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
 - 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
 - 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
-- 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
-
-  컴퓨터 수업에 푹 빠져서 선택 교양으로 컴퓨터 전공 수업을 많이 들었어요.
+- CS 관련 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
 
 - 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf)
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
-  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지, 총 55년간 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
+  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
 
-    분석 작업에는 상당히 많은 시간이 소요되었고, 코드를 실행하는 데만 해도 한 번에 9시간 이상이 걸렸습니다. 아침에 제가 직접 작성한 분석 코드를 실행시키고 나면, 결과를 확인하기 위해서는 저녁 시간까지 기다려야 했어요.
-
-    당시 제 능력이 닿는 대로 최적화를 진행했으나, 여전히 많은 시간이 걸려 아쉬웠어요. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었어요.
+    데이터의 크기가 워낙 커서, 코드를 한 번 실행하는 데 5시간 이상이 걸릴 만큼 상당히 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
 
