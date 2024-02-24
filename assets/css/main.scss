@@ -48,7 +48,21 @@
 }
 
 #main {
-  max-width: 1700px;
+  margin-top: 5em;
+  max-width: 1600px;
+}
+
+.page {
+  padding-left: unset;
+  padding-right: unset;
+}
+
+.masthead__inner-wrap {
+  display:none;
+}
+
+.page__footer {
+  display: none;
 }
 
 body, button, input, select, textarea {
