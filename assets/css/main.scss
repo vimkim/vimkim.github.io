@@ -140,6 +140,7 @@ button, input[type="submit"], input[type="button"] {
   --bg-h: 100%;
   text-decoration: none;
   line-height: 1;
+  border-radius: 8px;
 }
 .page__content a:where(:hover, :focus-visible) {
   background-size: 100% var(--bg-h);
