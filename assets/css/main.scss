@@ -41,10 +41,11 @@
 @import "print";
 
 @font-face {
-    font-family: 'Pretendard-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Pretendard-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: normal;
 }
 
 #main {
@@ -60,83 +61,138 @@
 }
 
 .masthead__inner-wrap {
-  display:none;
+  display: none;
 }
 
 .page__footer {
   display: none;
 }
 
-body, button, input, select, textarea {
-  font-family: 'Pretendard-Regular', sans-serif !important;
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Pretendard-Regular", sans-serif !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 1rem;
   line-height: 1.2;
-  font-family: 'Pretendard-Regular', sans-serif;
+  font-family: "Pretendard-Regular", sans-serif;
   font-weight: 800; /* Assuming you want headings to be bold */
+}
+
+.page__title {
+  display: none;
+  // color: #4f161e;
+  font-size: 2.5rem;
 }
 
 .page__content h2::before {
   content: ""; /* This is necessary to create the pseudo-element */
   display: block; /* This makes the pseudo-element behave like a block-level element */
-  height: 1px; /* This sets the thickness of the line. Adjust as needed */
-  background: rgb(229, 231, 235);
-  margin-bottom: 3rem; /* This creates space between the line and the h2 element */
+  height: 1.5px; /* This sets the thickness of the line. Adjust as needed */
+  background: #4f161e;
+  margin-bottom: 3.5rem; /* This creates space between the line and the h2 element */
 }
 
 .page__content h2 {
-  font-size: 1.9em;
-  color:  #862633;
+  margin-top: 1.5rem;
+  font-size: 1.9rem;
+  color: #862633;
   border-bottom: none;
 }
 
-p, a, li, span, label { /* Add any other tags as needed */
-  font-family: 'Pretendard-Regular', sans-serif;
+.page__content h3::before {
+  content: ""; /* This is necessary to create the pseudo-element */
+  display: block; /* This makes the pseudo-element behave like a block-level element */
+  height: 1px; /* This sets the thickness of the line. Adjust as needed */
+  background: rgb(229, 231, 235);
+  margin-bottom: 1rem; /* This creates space between the line and the h2 element */
+}
+
+.page__content h3 {
+  font-size: 1.1rem;
+  border-bottom: none;
+  margin-bottom: 1rem;
+  color: #270b0f;
+}
+
+p,
+a,
+li,
+span,
+label {
+  /* Add any other tags as needed */
+  font-family: "Pretendard-Regular", sans-serif;
 }
 
 /* Ensure buttons and inputs match the text style */
-button, input[type="submit"], input[type="button"] {
-  font-family: 'Pretendard-Regular', sans-serif;
+button,
+input[type="submit"],
+input[type="button"] {
+  font-family: "Pretendard-Regular", sans-serif;
 }
 
-.sidebar .author__bio, .author__name, li, a {
-  font-family: 'Pretendard-Regular', sans-serif !important;
+.sidebar .author__bio,
+.author__name,
+li,
+a {
+  font-family: "Pretendard-Regular", sans-serif !important;
 }
 
-#main > article > div > section p img.badge {
-    margin: 0.2rem;
-    border-radius: 0.4rem;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-    height: 2rem;
-    width: 7rem;
+#main > article > div > section img.badge {
+  position: relative;
+  margin: 0.2rem;
+  border-radius: 0.4rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  height: 2rem;
+  width: 7rem;
+  filter: grayscale(60%);
 }
 
-#main > article > div > section p img.badge:hover {
-    transform: scale(1.5);
-    cursor: pointer;
+#main > article > div > section img.badge:hover {
+  filter: none;
+  transform: scale(1.5);
+  z-index: 100;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
 }
-
 
 #main > article > div > section img.button_image:hover {
-    box-shadow: unset;
-    animation: tilt-n-move-shaking 0.25s infinite;
-    cursor: pointer;
+  box-shadow: unset;
+  animation: tilt-n-move-shaking 0.25s infinite;
+  cursor: pointer;
 }
-
 
 // https://unused-css.com/blog/css-shake-animation/
 @keyframes tilt-n-move-shaking {
-  0% { transform: scale(1.5) translate(0, 0) rotate(0deg); }
-  25% { transform: scale(1.5) translate(5px, 5px) rotate(5deg); }
-  50% { transform: scale(1.5) translate(0, 0) rotate(0eg); }
-  75% { transform: scale(1.5) translate(-5px, 5px) rotate(-5deg); }
-  100% { transform: scale(1.5) translate(0, 0) rotate(0deg); }
+  0% {
+    transform: scale(1.5) translate(0, 0) rotate(0deg);
+  }
+  25% {
+    transform: scale(1.5) translate(5px, 5px) rotate(5deg);
+  }
+  50% {
+    transform: scale(1.5) translate(0, 0) rotate(0eg);
+  }
+  75% {
+    transform: scale(1.5) translate(-5px, 5px) rotate(-5deg);
+  }
+  100% {
+    transform: scale(1.5) translate(0, 0) rotate(0deg);
+  }
 }
 
 .page__content a {
-  background: linear-gradient(to right, #ffc83d,#EAECC6) no-repeat right bottom / 0 var(--bg-h);
+  background: linear-gradient(to right, #ffc83d, #eaecc6) no-repeat right bottom /
+    0 var(--bg-h);
   transition: background-size 350ms;
   --bg-h: 100%;
   text-decoration: none;
@@ -153,9 +209,8 @@ button, input[type="submit"], input[type="button"] {
   --bg-h: 2px;
 }
 
-
 #site-nav > ul.visible-links a {
-  color: black
+  color: black;
 }
 
 #site-nav > button {
@@ -167,7 +222,6 @@ body > div.masthead {
   border-bottom: none;
 }
 
-
 #main > div > div > div.author__urls-wrapper > button {
   display: none;
 }
@@ -178,8 +232,7 @@ body > div.masthead {
   border: none;
 }
 
-
 body {
-  cursor: url('/images/vim.svg'), auto;
+  cursor: url("/images/vim.svg"), auto;
   color: black;
 }
