@@ -13,11 +13,9 @@ redirect_from:
 
 ## 💻 Projects
 
-> 💡 테크 스택이 글자가 너무 작아 잘 안 보이신다면, 뱃지를 마우스 클릭하시면 확대하실 수 있어요.
+> 💡 테크 스택이 글자가 너무 작아 잘 안 보이신다면, 마우스를 뱃지에 가까이 가져가 확대하실 수 있어요.
 
 ### ⚔️ 백준룸즈 (2023.11 ~ 2023.12, 현재 매주 1일 유지 보수 중)
-
-백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}
@@ -34,13 +32,12 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
+- 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 - 팀원: 프론트 3명, 백엔드 2명
-- 자세한 내용: [link](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95)
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
+- 자세한 내용: [담당 업무와 기술적 도전](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95),
+- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
-
-숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white){:.badge}
@@ -50,13 +47,12 @@ redirect_from:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}
 
+- 숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
 - 팀원: 백엔드 5명
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
-- 회고: [노션 링크](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
+- 회고: [Yanullja Backend 프로젝트 회고 (노션)](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
+- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
 
 ### 📝 SurveyIT (진행 중) (2024.2 ~ )
-
-설문조사 및 리워드 관리 플랫폼입니다.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}
@@ -72,8 +68,9 @@ redirect_from:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white){:.badge}
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}
 
+- 설문조사 및 리워드 관리 플랫폼입니다.
 - 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
-- Go To GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
+- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
 
