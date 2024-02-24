@@ -313,20 +313,16 @@ redirect_from:
 
 아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
 
-- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
-
-  > GitHub가 아닌 Obsidian에 정리되어 추후 내용 업로드 예정
-
 - CS study: [ParkRio](https://github.com/ParkRio)님께서 진행하신 CS 전공지식 스터디 완료
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/CS-Study/commits/main/)
-
 - Modern Java in Action: [hongxeob](https://github.com/hongxeob)님께서 시작하시고 제가 물려받은 스터디 완료
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/)
 - Real MySql 8.0: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 진행하신 스터디 완료
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/)
 - HTTP 완벽 가이드: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 시작하시고 제가 물려받은 스터디 완료
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/)
+- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
+  - _추후 내용 업로드 예정_
 - Learning MySQL (현재 진행 중)
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
 
