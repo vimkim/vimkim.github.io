@@ -66,10 +66,10 @@ redirect_from:
 - 기술적 도전 & 고민 사항:
   - Session or JWT 무엇을 선택할까요? 꼭 Session을 도입해야 하는 이유가 무엇인가요? NestJS 공식 문서에는 Session을 Passport.js와 연동해서 사용하는 예시가 부실한데 어떻게 해결할 수 있나요?
   - Https에서 WebSocket이 작동을 안하는 이유가 뭘까요?
-  - N+1 문제를 어떻게 해결할 수 있나요?
   - OAuth2 Access Token을 누출하지 않고 보호할 수 있는 방법이 무엇인가요?
-  - TypeORM의 Lazy Relations가 무엇인가요? 왜 사용하지 말아야 할까요?
+  - TypeORM의 Lazy Relations가 무엇인가요? 왜 사용하지 말아야 할까요? N+1 문제를 어떻게 해결할 수 있나요?
   - NestJS에서 기본 TS 설정 말고 좀 더 Strict하게 사용하는 방법의 장단점이 무엇일까요?
+  - NestJS에서 isNil 타입 구현이 잘못된 것 같은데 어떻게 해결할 수 있나요? NestJS 개발자에게 직접 연락해서 물어본 결과는 무엇인가요?
   - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
