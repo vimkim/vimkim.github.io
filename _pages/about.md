@@ -64,7 +64,7 @@ redirect_from:
 - 팀원: 프론트 3명, 백엔드 2명
 - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
 - 기술적 도전 & 고민 사항:
-  - Session or Jwt 무엇을 선택할까요? 꼭 Session을 도입해야 하는 이유가 무엇인가요? NestJS 공식 문서에는 Session을 Passport.js와 연동해서 사용하는 예시가 부실한데 어떻게 해결할 수 있나요?
+  - Session or JWT 무엇을 선택할까요? 꼭 Session을 도입해야 하는 이유가 무엇인가요? NestJS 공식 문서에는 Session을 Passport.js와 연동해서 사용하는 예시가 부실한데 어떻게 해결할 수 있나요?
   - Https에서 WebSocket이 작동을 안하는 이유가 뭘까요?
   - N+1 문제를 어떻게 해결할 수 있나요?
   - OAuth2 Access Token을 누출하지 않고 보호할 수 있는 방법이 무엇인가요?
@@ -104,6 +104,14 @@ redirect_from:
   [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}](https://google.com/search?q=Vite)
 - 설문조사 및 리워드 관리 플랫폼입니다.
 - 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
+- 담당 업무: JWT, Docker, GitHub Actions CI/CD, CRUD
+- 기술적 도전 & 고민 사항:
+  - JWT를 어떻게 사용해야 가장 보안에 덜 위협적일까요? Cookie, Auth Header, Query String 등 다양한 방법이 있는데 무엇이 좋을까요?
+  - JWT 토큰을 어디에 저장해야 할까요? Cookie, LocalStorage, SessionStorage?
+  - 토큰으로 인한 CSRF, XSS 공격을 예방할 수 있는 방법이 무엇일까요?
+  - Frontend, Backend간의 API 형상 관리를 할 수 있는 방법이 무엇일까요?
+- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
+
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 개인 포트폴리오 홈페이지 제작 (2024.2)
