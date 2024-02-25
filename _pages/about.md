@@ -284,10 +284,6 @@ redirect_from:
 
     알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신해요!
 
-  - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
-  - 담당하지 않은 업무: Problem / Submission / Tag Domain, Nginx, Web scraping, Front-end, Baekjoon Api
-  - 기술적 도전 & 고민 사항: Session or Jwt, WebSocket Https, Room 종료 로직, NestJS에서 Strict TS, TypeORM Lazy Relations과 N+1, OAuth2 access token 보호
-
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
 ### Redis
