@@ -71,6 +71,8 @@ redirect_from:
   - NestJS에서 기본 TS 설정 말고 좀 더 Strict하게 사용하는 방법의 장단점이 무엇일까요?
   - NestJS에서 isNil 타입 구현이 잘못된 것 같은데 어떻게 해결할 수 있나요? NestJS 개발자에게 직접 연락해서 물어본 결과는 무엇인가요?
   - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
+  - TypeORM이 EntityRepository를 deprecate했는데 대안은 무엇인가요?
+  - TypeORM이 Transactional 데코레이터를 deprecate했는데, 가장 적절한 트랜잭션 관리 기법은 무엇인가요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
