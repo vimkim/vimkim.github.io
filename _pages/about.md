@@ -13,7 +13,7 @@ redirect_from:
 
 ## 💻 Projects
 
-### ⚔️ 백준룸즈 (2023.11 ~ 2023.12, 유지보수 2024.1 ~)
+### ⚔️ 백준룸즈 (개발 기간: 2023.11 ~ 2023.12, 유지보수: 2024.1 ~ 현재)
 
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}](https://google.com/search?q=NodeJS)
@@ -31,6 +31,8 @@ redirect_from:
   [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}](https://google.com/search?q=Vite)
 - 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 - 팀원: 프론트 3명, 백엔드 2명
+- 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
+- 기술적 도전 & 고민 사항: Session or Jwt, WebSocket Https, Room 종료 로직, NestJS에서 Strict TS, TypeORM Lazy Relations과 N+1, OAuth2 access token 보호
 - 자세한 내용: [담당 업무와 기술적 도전](/#-%EC%A7%81%EC%97%85-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95)
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
