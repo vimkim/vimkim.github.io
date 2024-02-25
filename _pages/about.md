@@ -17,7 +17,6 @@ redirect_from:
 
 - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java)
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
-  [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white){:.badge}](https://google.com/search?q=NestJS)
 
 ### 익숙한 기술
 
