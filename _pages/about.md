@@ -13,6 +13,8 @@ redirect_from:
 
 ## 💻 Projects
 
+대표 프로젝트: 백준룸즈
+
 ### ⚔️ 백준룸즈 (개발 기간: 2023.11 ~ 2023.12, 유지보수: 2024.1 ~ 현재)
 
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
