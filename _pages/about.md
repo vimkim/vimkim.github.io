@@ -110,8 +110,6 @@ redirect_from:
   - JWT 토큰을 어디에 저장해야 할까요? Cookie, LocalStorage, SessionStorage?
   - 토큰으로 인한 CSRF, XSS 공격을 예방할 수 있는 방법이 무엇일까요?
   - Frontend, Backend간의 API 형상 관리를 할 수 있는 방법이 무엇일까요?
-- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
-
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
 ### 개인 포트폴리오 홈페이지 제작 (2024.2)
