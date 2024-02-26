@@ -301,6 +301,17 @@ h2 {
 @media print {
   nav, footer, .no-print { display: none; }
   .sidebar { font-size : 20pt; }
-  body, article { font-size: 14pt;}
+  body, article { font-size: 10pt;}
+
+  #main > article > div > section img.badge {
+  position: relative;
+  margin: 0.2rem;
+  border-radius: 0.4rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  height: 1.8rem;
+  width: 6rem;
+  filter: grayscale(30%);
+}
+
 
 }
