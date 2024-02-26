@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-안녕하세요. 백엔드 개발자 김대현입니다. 금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학 학위까지 취득하게 되었고, 이제는 경제학과 컴퓨터 과학, 두 분야에서 학사 학위를 갖춘 웹 개발자가 되었습니다.
+안녕하세요. 백엔드 개발자 김대현입니다. 어떤 문제든 집요하게 해결책을 찾습니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다.
+
+금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학 학위까지 취득하게 되었고, 이제는 경제학과 컴퓨터 과학, 두 분야에서 학사 학위를 갖춘 웹 개발자가 되었습니다.
 
 경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
@@ -15,9 +17,11 @@ redirect_from:
 
 ### 대표 기술
 
-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java)
-  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54){:.badge}](https://google.com/search?q=Python)
+- [![영어](https://img.shields.io/badge/%EC%98%81%EC%96%B4-000000?style=for-the-badge&logoColor=black&label=ENG&color=white){:.badge}](https://google.com/search?q=English): 오픈 소스 라이브러리에서 버그가 발생할 시 공식 문서와 GitHub Issues를 빠르게 훑고 메인테이너를 컨택하는 역할을 담당하고 있습니다. 공식 문서에 없는 문제가 생길 경우 해당 레포에 관련된 디스코드, 슬랙, 레딧, 위키, Customer Support, 유튜브, 유트랙, 미디엄 등 가능한 모든 커뮤니티에서 해결책을 찾습니다.
+- [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white){:.badge}](https://google.com/search?q=Git): 팀의 모든 Git 문제를  커밋 그래프 해석, 생성, 수정 및 삭제 가능합니다. `reset --hard`, `reflog`, `stash -u -k`, `rebase --onto` 에 능합니다.
+- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript): **대표 언어 1**: 대부분의 프로젝트를 진행한 언어이며 Type Narrowing, Interface Merging, Object Literal, Decorator에 대한 이해가 있습니다.
+- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java): **대표 언어 2**: 프로그래밍을 처음 시작한 언어이며 Modern java (stream, lambda, Optional)에 대한 이해가 있습니다.
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54){:.badge}](https://google.com/search?q=Python): 스크립팅과 크롤링 용도로 빠르게 PoC를 만들어내는 데에 능합니다. 600개 이상의 알고리즘 문제를 풀어 구현 속도가 특히 빠릅니다.
 
 ### 익숙한 기술
 
