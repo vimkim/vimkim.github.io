@@ -47,6 +47,7 @@ redirect_from:
   [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white){:.badge}](https://google.com/search?q=MySQL)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E){:.badge}](https://google.com/search?q=JavaScript)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white){:.badge}](https://google.com/search?q=c%2B%2B)
+  [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white){:.badge}](https://google.com/search?q=bash)
 
 ### 경험해 본 기술
 
@@ -57,9 +58,10 @@ redirect_from:
   [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white){:.badge}](https://google.com/search?q=Nginx)
   [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}](https://google.com/search?q=Postgres)
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}](https://google.com/search?q=AWS)
-  [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=Hibernate)
+  [![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=JPA)
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB){:.badge}](https://google.com/search?q=React)
   [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101){:.badge}](https://google.com/search?q=Socket.io)
+  [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white){:.badge}](https://google.com/search?q=powershell)
 
 ## 💻 Projects
 
@@ -104,7 +106,7 @@ redirect_from:
   [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white){:.badge}](https://google.com/search?q=Spring)
   [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}](https://google.com/search?q=Postgres)
   [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
-  [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=Hibernate)
+  [![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=JPA)
   [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Actions)
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}](https://google.com/search?q=AWS)
 - 숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
