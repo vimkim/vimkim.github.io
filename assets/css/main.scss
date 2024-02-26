@@ -283,6 +283,15 @@ body {
     margin-bottom: 8px; /* Reduced space between items */
 }
 
+.table-of-contents a.active {
+    font-weight: bold; /* Makes text bolder */
+    color: #862633;
+    background-color: #f9f9f9; /* Light background for the active item */
+    border-left: 3px solid #862633; /* Adds a side border to highlight */
+    padding-left: 5px; /* Adjust padding to align text properly */
+}
+
+
 
 .sidebar {
   // max-width: 8vw;
@@ -305,13 +314,11 @@ h2 {
 
   #main > article > div > section img.badge {
   position: relative;
-  margin: 0.2rem;
-  border-radius: 0.4rem;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-  height: 1.8rem;
-  width: 6rem;
-  filter: grayscale(30%);
-}
-
-
+    margin: 0.2rem;
+    border-radius: 0.4rem;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    height: 1.8rem;
+    width: 6rem;
+    filter: grayscale(30%);
+  }
 }
