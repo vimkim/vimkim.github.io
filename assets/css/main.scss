@@ -293,3 +293,14 @@ body {
 .sidebar img {
   max-width: 5vw;
 }
+
+h2 {
+  page-break-before: always;
+}
+
+@media print {
+  nav, footer, .no-print { display: none; }
+  .sidebar { font-size : 20pt; }
+  body, article { font-size: 14pt;}
+
+}

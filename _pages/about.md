@@ -9,6 +9,8 @@ redirect_from:
 
 <div id="page-top"></div>
 
+## Introduction
+
 안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
 금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학도 전공하게 되었고, 서로 다른 두 대학으로부터 경제학과 컴퓨터 과학 학사 학위를 받은 웹 개발자가 되었습니다.
@@ -100,6 +102,8 @@ redirect_from:
   - TypeORM이 Transactional 데코레이터를 deprecate했는데, 가장 적절한 트랜잭션 관리 기법은 무엇인가요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
+<div style="page-break-after: always;"></div>
+
 ### 🏨 Yanullja - Yanolja BE Clone (2024.1)
 
 - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java)
@@ -139,6 +143,8 @@ redirect_from:
   - 토큰으로 인한 CSRF, XSS 공격을 예방할 수 있는 방법이 무엇일까요?
   - Frontend, Backend간의 API 형상 관리를 할 수 있는 방법이 무엇일까요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
+
+<div style="page-break-after: always;"></div>
 
 ### 개인 포트폴리오 홈페이지 제작 (2024.2)
 
@@ -198,6 +204,8 @@ redirect_from:
 - Filter, Pipe, Guard, Interceptor와 같은 코어 기능들의 공식 문서를 모두 읽었고 잘 다뤄요.
 - E2E Test 코드도 수월하게 짜요. [link](https://github.com/what-surv/what-surv-backend/pull/40/files)
 
+<div style="page-break-after: always;"></div>
+
 ### 🌐 HTTP를 필요한 만큼 공부했어요
 
 - HTTP 완벽 가이드를 완독했어요. [link](https://github.com/vimkim/http-the-definitive-guide)
@@ -234,6 +242,8 @@ redirect_from:
 - 타입스크립트는 Null Check가 잘 되는 우아하고 모던한 언어라서 좋아해요. Matt Pocock의 영상을 자주 봐요.
 - Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [link](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
+
+<div style="page-break-after: always;"></div>
 
 ### ☕📄 JavaScript도 사용할 수 있어요
 
@@ -285,6 +295,8 @@ redirect_from:
   - 🎮 게임개발 동아리 Cat&Dog (2019)
   - 💻 컴퓨터 동아리 KUCC (2022)
   - 🏊 수영 동아리 수호회 (2022)
+
+<div style="page-break-after: always;"></div>
 
 ### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
 
