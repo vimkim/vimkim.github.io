@@ -157,7 +157,7 @@ redirect_from:
 - [원본 사이트](https://academicpages.github.io/)를 참고했으나, 스타일이 마음에 들지 않아 결국 CSS를 처음부터 끝까지 스스로 작성했습니다.
   - CSS 애니메이션 (Link, GitHub Button)
   - H2, H3 border, margin 설정
-  - 목차 레이아웃 생성, viewport width 설정
+  - 목차 레이아웃 생성, viewport width 설정, 현재 위치 시각화
   - Pretendard로 폰트 교체
   - PDF 변환이 용이하도록, @media print 설정
 
@@ -460,38 +460,8 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-    const navLinks = document.querySelectorAll('.table-of-contents li a');
-    const headers = Array.from(document.querySelectorAll('h2'));
-
-    function changeLinkState() {
-        let index = -1; // Start with -1 to indicate no headers are past the scroll point
-        let scrollPosition = window.scrollY + 300; // Adjust based on your fixed header or offset
-
-        headers.forEach((header, i) => {
-            // Log the header and its offset for debugging
-            // console.log(`Header ${i}: ${header.offsetTop}, Scroll: ${scrollPosition}`);
-
-            if (scrollPosition >= header.offsetTop) {
-                index = i;
-            }
-        });
-
-        // Log the index for debugging
-        // console.log(`Active index: ${index}`);
-
-        navLinks.forEach((link, i) => {
-            if (i === index) {
-                link.classList.add('active');
-            } else {
-                link.classList.remove('active');
-            }
-        });
-    }
-
-    window.addEventListener('scroll', changeLinkState);
-    changeLinkState(); // Call initially to set the active section
-});
-</script>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
