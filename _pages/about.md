@@ -17,7 +17,7 @@ redirect_from:
 
 ### 대표 기술
 
-- [![영어](https://img.shields.io/badge/%EC%98%81%EC%96%B4-000000?style=for-the-badge&logoColor=black&label=ENG&color=white){:.badge}](https://google.com/search?q=English): 오픈 소스 라이브러리에서 버그가 발생할 시 공식 문서와 GitHub Issues를 빠르게 훑고 메인테이너를 컨택하는 역할을 담당하고 있습니다. 공식 문서에 없는 문제가 생길 경우 해당 레포에 관련된 디스코드, 슬랙, 레딧, 위키, Customer Support, 유튜브, 유트랙, 미디엄 등 가능한 모든 커뮤니티에서 해결책을 찾습니다.
+- [![영어](https://img.shields.io/badge/%EC%98%81%EC%96%B4-000000?style=for-the-badge&logoColor=black&label=EN&color=white){:.badge}](https://google.com/search?q=English): 오픈 소스 라이브러리에서 버그가 발생할 시 공식 문서와 GitHub Issues를 빠르게 훑고 메인테이너를 컨택하는 역할을 담당하고 있습니다. 공식 문서에 없는 문제가 생길 경우 해당 레포에 관련된 디스코드, 슬랙, 레딧, 위키, Customer Support, 유튜브, 유트랙, 미디엄 등 가능한 모든 커뮤니티에서 해결책을 찾습니다.
 - [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white){:.badge}](https://google.com/search?q=Git): 팀의 모든 Git 문제를  커밋 그래프 해석, 생성, 수정 및 삭제 가능합니다. `reset --hard`, `reflog`, `stash -u -k`, `rebase --onto` 에 능합니다.
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript): **대표 언어 1**: 대부분의 프로젝트를 진행한 언어이며 Type Narrowing, Interface Merging, Object Literal, Decorator에 대한 이해가 있습니다.
 - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java): **대표 언어 2**: 프로그래밍을 처음 시작한 언어이며 Modern java (stream, lambda, Optional)에 대한 이해가 있습니다.
@@ -35,6 +35,7 @@ redirect_from:
 ### 경험해 본 기술
 
 - [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Actions)
+  [![TypeORM](https://img.shields.io/badge/typeorm-000000?style=for-the-badge&label=%7B%7D&labelColor=white&color=white){:.badge}](https://google.com/search?q=TypeORM)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white){:.badge}](https://google.com/search?q=Docker)
   [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
   [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white){:.badge}](https://google.com/search?q=Nginx)
@@ -53,6 +54,7 @@ redirect_from:
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}](https://google.com/search?q=NodeJS)
   [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white){:.badge}](https://google.com/search?q=NestJS)
+  [![TypeORM](https://img.shields.io/badge/typeorm-000000?style=for-the-badge&label=%7B%7D&labelColor=white&color=white){:.badge}](https://google.com/search?q=TypeORM)
   [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white){:.badge}](https://google.com/search?q=MySQL)
   [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
   [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101){:.badge}](https://google.com/search?q=Socket.io)
@@ -98,6 +100,7 @@ redirect_from:
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white){:.badge}](https://google.com/search?q=NodeJS)
   [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white){:.badge}](https://google.com/search?q=NestJS)
+  [![TypeORM](https://img.shields.io/badge/typeorm-000000?style=for-the-badge&label=%7B%7D&labelColor=white&color=white){:.badge}](https://google.com/search?q=TypeORM)
   [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}](https://google.com/search?q=Postgres)
   [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white){:.badge}](https://google.com/search?q=Docker)
