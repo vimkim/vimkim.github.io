@@ -13,6 +13,20 @@ redirect_from:
 
 경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
+<!-- ---
+
+- [기술 스택](/#skills)
+- [프로젝트](/#-projects)
+- [기술적 역량](/#-기술적-역량)
+- [학력](/#-학력)
+- [직업 교육 과정](/#-직업-교육-과정)
+- [일하는 방식](/#-how-i-work)
+- [스터디](/#-cs-studies)
+- [블로그](/#-my-blog)
+- [취미](/#-extra)
+- [연락처](/#-contact)
+{:.table-of-contents} -->
+
 ## Skills
 
 ### 대표 기술
@@ -292,7 +306,7 @@ redirect_from:
     [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
   - 소개: 평소 트위치에서 해외 개발자들이 'LeetRooms'라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
 
-    알고리즘 학습에 몰두하는 학생들 사이에서 인기 있을 거라고 확신해요!
+    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#-projects)
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
@@ -391,7 +405,7 @@ redirect_from:
 
 - 산책과 트래킹을 좋아해요. 22년 12월부터 1년 이상 매일 꾸준히 부모님과 1시간씩 관악산 둘레길을 산책하고 있어요. 처음에는 숨이 벅차올라 말 한 마디 하기도 힘들었지만, 이제는 가파른 언덕을 오르면서도 태연하게 일상적인 이야기를 주고받을 수 있을만큼 익숙해졌어요. 덕분에 다져진 지치지 않는 체력이 최고의 장점이에요.
 
-### ⌨️ 취미
+### ⌨️ 개발 관련 취미
 
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white){:.badge}](https://google.com/search?q=Vim)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}](https://google.com/search?q=Neovim)

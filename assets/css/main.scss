@@ -209,6 +209,7 @@ a {
   }
 }
 
+.table-of-contents a,
 .page__content a {
   background: linear-gradient(to right, #ffc83d, #eaecc6) no-repeat right bottom /
     0 var(--bg-h);
@@ -216,11 +217,20 @@ a {
   --bg-h: 100%;
   text-decoration: none;
   line-height: 1;
+  color:#407EC9;
   border-radius: 8px;
 }
+
+.table-of-contents a:where(:hover, :focus-visible),
 .page__content a:where(:hover, :focus-visible) {
   background-size: 100% var(--bg-h);
   background-position-x: left;
+}
+
+/* Visited link styles */
+.page__content a:visited,
+.table-of-contents a:visited {
+  color: #663399; /* Example: a different color for visited links */
 }
 
 .underline {
@@ -255,3 +265,21 @@ body {
   cursor: url("/images/vim.svg"), auto;
   color: black;
 }
+
+/* Table of Contents Container */
+.table-of-contents {
+    padding: 10px; /* Reduced padding */
+    // background-color: #f9f9f9; /* Light grey background */
+    border-radius: 5px; /* Rounded corners */
+    max-width: 200px; /* Reduced maximum width for a more compact look */
+    margin-top: 10px; /* Smaller top margin */
+    // box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Lighter shadow for subtlety */
+    // font-size: 14px; /* Smaller font size for all text */
+}
+
+/* Table of Contents List Styles */
+.table-of-contents li {
+    list-style: none; /* Remove default list styling */
+    margin-bottom: 8px; /* Reduced space between items */
+}
+
