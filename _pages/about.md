@@ -148,6 +148,11 @@ redirect_from:
 - 현재 보고 계신 사이트입니다.
 - 개인 프로젝트
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 제작
+- [원본 사이트](https://academicpages.github.io/)를 참고했으나, 스타일이 마음에 들지 않아 결국 CSS를 처음부터 끝까지 스스로 작성했습니다.
+  - CSS 애니메이션 (Link, GitHub Button)
+  - H2, H3 border, margin 설정
+  - 목차 레이아웃 생성, viewport width 설정
+  - Pretendard로 폰트 교체
 
 ### 연세대학교 객원교수 개인 홈페이지 제작 외주 (진행 중) (2024.2 ~ )
 
