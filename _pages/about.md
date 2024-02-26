@@ -9,9 +9,9 @@ redirect_from:
 
 <div id="page-top"></div>
 
-안녕하세요. 백엔드 개발자 김대현입니다. 어떤 문제든 집요하게 해결책을 찾습니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다.
+안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
-금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학 학위까지 취득하게 되었고, 이제는 경제학과 컴퓨터 과학, 두 분야에서 학사 학위를 갖춘 웹 개발자가 되었습니다.
+금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학도 전공하게 되었고, 서로 다른 두 대학으로부터 경제학과 컴퓨터 과학 학사 학위를 받은 웹 개발자가 되었습니다.
 
 경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
@@ -134,7 +134,7 @@ redirect_from:
 - 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
 - 담당 업무: JWT, Docker, GitHub Actions CI/CD, CRUD
 - 기술적 도전 & 고민 사항:
-  - JWT를 어떻게 사용해야 가장 보안에 덜 위협적일까요? Cookie, Auth Header, Query String 등 다양한 방법이 있는데 무엇이 좋을까요?
+  - JWT를 어떻게 사용해야 가장 보안에 덜 위협적일까요? Cookie, Auth Header 등 다양한 방법이 있는데 무엇이 좋을까요?
   - JWT 토큰을 어디에 저장해야 할까요? Cookie, LocalStorage, SessionStorage?
   - 토큰으로 인한 CSRF, XSS 공격을 예방할 수 있는 방법이 무엇일까요?
   - Frontend, Backend간의 API 형상 관리를 할 수 있는 방법이 무엇일까요?
@@ -185,6 +185,7 @@ redirect_from:
 - OAuth2를 통한 회원가입을 구현할 수 있어요. Access Token과 Client Secret를 프론트로 보내지 않고, 백엔드에서 모든 작업을 처리하는 방식으로 구현해요. [link](https://github.com/what-surv/what-surv-backend/pull/51)
 - Session, JWT 두 가지 방법 모두 로그인을 구현할 수 있어요. [link](https://github.com/what-surv/what-surv-backend/pull/27)
 - Spring Security와 Passport.js 사용 경험이 있어요.
+- OWASP를 가이드라인에 대해 인지하고 있어요.
 
 ### 💬 웹소켓을 통해 채팅을 구현할 수 있어요
 
@@ -201,6 +202,11 @@ redirect_from:
 
 - HTTP 완벽 가이드를 완독했어요. [link](https://github.com/vimkim/http-the-definitive-guide)
 - Cache-Control과 If-Modified-Since, If-None-Match 등의 동작 원리를 알아요. [link](https://github.com/vimkim/http-the-definitive-guide/commit/c875349fe4c4683bfba44d160501a5b76c89483c)
+- XSS, CSRF의 개념과 예방책을 알아요.
+- HTTPS의 동작 원리를 알아요.
+- 1.1과 2.0의 차이를 설명할 수 있어요.
+- Preflight, CORS의 필요성에 대해 설명할 수 있어요.
+- HATEOAS에 관심이 있어요.
 
 ### 💾 Database 이론을 깊게 공부했어요
 
@@ -220,7 +226,6 @@ redirect_from:
 
 - 모던 자바 인 액션을 완독했어요. [link](https://github.com/vimkim/modern-java-in-action)
 - 스트림을 좋아해요. Short-curcuiting과 Loop fusion이 매력적이라고 생각해요.
-- 리턴 타입이 Optional인 함수들을 좋아해요. NullPointerException을 싫어해요.
 - 소스 코드의 Binary Compatibility, Source Compatibility를 생각하면서 코드를 작성해요.
   `invokevirtual` 과 `invokeinterface` 등의 바이트 코드 명령어에 대해서 깊게 파고 들어본 경험이 있어요.
 
@@ -230,11 +235,17 @@ redirect_from:
 - Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [link](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD)
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
+### ☕📄 JavaScript도 사용할 수 있어요
+
+- this와 call, apply, bind에 대해 설명할 수 있어요.
+- Closure와 Prototype, Object.defineProperty에 대해 설명할 수 있어요.
+
 ### ⚛️ 간단한 React 코드 작성과 디버깅을 할 수 있어요
 
 - 프론트엔드 개발자가 작성한 리액트 코드를 해석하고 디버깅 할 수 있어요. 기존 코드를 모방하여 간단한 컴포넌트를 만들 수 있어요.
 - 프론트엔드 개발자의 입장에서, 프론트엔드 개발자를 배려하는 코드를 작성할 수 있어요.
 - 신입 프론트엔드 개발자를 위해 API를 사용하는 React 코드를 대신 작성해 줄 수 있어요.
+- Velog 개발자 김민준님의 'React를 다루는 기술'을 완독했어요.
 
 ### ➕ 그 외 다양한 언어를 사용할 수 있어요
 
@@ -287,8 +298,7 @@ redirect_from:
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
   - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
-
-    데이터의 크기가 워낙 커서, 코드를 한 번 실행하는 데 5시간 이상이 걸릴 만큼 상당히 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
+    데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
 
