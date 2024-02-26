@@ -298,6 +298,7 @@ redirect_from:
 
   - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
   - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
+
     데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
 
 ### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
