@@ -148,39 +148,25 @@ a {
   font-family: "Pretendard-Regular", sans-serif !important;
 }
 
-// #main > article > div > section img.badge {
-//   position: relative;
-//   margin: 0.2rem;
-//   border-radius: 0.4rem;
-//   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-//   height: 2rem;
-//   width: 7rem;
-//   filter: grayscale(60%);
-// }
-
-// #main > article > div > section img.badge:hover {
-//   filter: none;
-//   transform: scale(1.5);
-//   z-index: 100;
-//   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-//   cursor: pointer;
-// }
-
 #main > article > div > section img.badge {
   position: relative;
   margin: 0.2rem;
   border-radius: 0.4rem;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  // box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Slightly darker shadow for better contrast */
   height: 2rem;
   width: 7rem;
   filter: grayscale(30%);
+  border: 1px solid #ddd; /* Light grey border, adjust color as needed */
 }
+
+
 
 #main > article > div > section img.badge:hover {
   filter: none;
   transform: scale(1.5);
   z-index: 100;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Slightly darker shadow for better contrast */
   cursor: pointer;
 }
 
