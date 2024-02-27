@@ -27,7 +27,7 @@ author:
   bio: "백엔드 개발자"
   location: "Seoul, South Korea"
   employer:
-  uri: https://vimkim.github.io
+  uri: # https://vimkim.github.io
   email: "kimdhyungg@gmail.com"
 
   # Repositories and software development
