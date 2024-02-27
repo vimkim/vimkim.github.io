@@ -447,6 +447,25 @@ redirect_from:
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}](https://google.com/search?q=Neovim)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white){:.badge}](https://google.com/search?q=Obsidian)
 
+## ✈️ Timeline
+
+<div class="mermaid">
+gantt
+    dateFormat  YYYY-MM
+
+    section Education
+      🏫 고등학교: done, edu0, 2011-09, 2014-07
+      📈 McGill University 경제학과: done, edu1, 2014-09, 2018-07
+      🛠️ 고려대 3학년:done, edu2, 2019-03, 2020-03
+      🎖️ 군 복무 :done, mil1, 2020-06, 2022-01
+      🛠️ 고려대 4학년:done, edu2, 2022-03, 2023-03
+
+    section Experience
+      💼 데이터베이스 연구실 학부연구생:done, work0, 2022-02, 2022-05
+      🚀 네이버 커넥트재단 부스트캠프 웹·모바일 :done, work1, 2023-06, 2023-12
+
+</div>
+
 ## 📞 Contact
 
 궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!

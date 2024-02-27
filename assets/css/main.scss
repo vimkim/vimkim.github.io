@@ -320,3 +320,44 @@ h2 {
     filter: grayscale(30%);
   }
 }
+
+.mermaid {
+  background-color: #f9f9f9 !important;
+  /* Light grey background */
+  color: #333 !important;
+  /* Dark grey text for better readability */
+}
+
+/* Gantt chart bars */
+.mermaid .task {
+  fill: #F08080 !important;
+  /* Change bar color */
+}
+
+.mermaid .taskText {
+  fill: #fff !important;
+  /* Change text color inside bars */
+  text-anchor: middle;
+}
+
+/* Grid and lines */
+.mermaid .grid .tick {
+  stroke: #bbb !important;
+  /* Lighter lines in the grid */
+}
+
+/* Section titles */
+.mermaid .sectionTitle {
+  fill: #6A9A8C !important;
+  /* Change section title color */
+}
+
+
+/* Critical tasks */
+.mermaid .criticalTask {
+  fill: #f88 !important;
+  /* Highlight critical tasks with a different color */
+}
+
+
+/* General background and text color */
