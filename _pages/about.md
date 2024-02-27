@@ -447,7 +447,7 @@ redirect_from:
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}](https://google.com/search?q=Neovim)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white){:.badge}](https://google.com/search?q=Obsidian)
 
-## ✈️ Timeline
+## Timeline
 
 <div class="mermaid">
 gantt
