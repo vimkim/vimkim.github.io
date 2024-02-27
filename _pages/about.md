@@ -449,22 +449,7 @@ redirect_from:
 
 ## Timeline
 
-<div class="mermaid">
-gantt
-    dateFormat  YYYY-MM
-
-    section Education
-      🏫 고등학교: done, edu0, 2011-09, 2014-07
-      📈 McGill University 경제학과: done, edu1, 2014-09, 2018-07
-      🛠️ 고려대 3학년:done, edu2, 2019-03, 2020-03
-      🎖️ 군 복무 :done, mil1, 2020-06, 2022-01
-      🛠️ 고려대 4학년:done, edu2, 2022-03, 2023-03
-
-    section Experience
-      💼 데이터베이스 연구실 학부연구생:done, work0, 2022-02, 2022-05
-      🚀 네이버 커넥트재단 부스트캠프 웹·모바일 :done, work1, 2023-06, 2023-12
-
-</div>
+![timeline](/images/timeline.png)
 
 ## 📞 Contact
 
