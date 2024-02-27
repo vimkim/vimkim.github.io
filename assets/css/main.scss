@@ -277,16 +277,28 @@ body {
     padding-left: 5px; /* Adjust padding to align text properly */
 }
 
-
-
 .sidebar {
-  // max-width: 8vw;
+  /* max-width: 8vw; Commented out as we will control this differently for mobile */
   font-size: 1vw;
-    /* Other styles for your sidebar */
+  /* Other styles for your sidebar */
 }
 
 .sidebar img {
   max-width: 5vw;
+}
+
+/* Media queries for mobile devices */
+@media (max-width: 57.8125em){
+  .sidebar {
+    max-width: 80vw; /* Increase the sidebar width on small screens */
+    font-size: 4vw; /* Increase the font size on small screens */
+    // min-font-size: 16px; /* Ensure the font does not become too small */
+  }
+
+  .sidebar img {
+    max-width: 20vw; /* Increase image size on small screens */
+    min-width: 50px; /* Ensure images do not become too small */
+  }
 }
 
 h2 {
