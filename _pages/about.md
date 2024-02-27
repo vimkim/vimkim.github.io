@@ -90,16 +90,23 @@ redirect_from:
 - 팀원: 프론트 3명, 백엔드 2명
 - 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
 - 기술적 도전 & 고민 사항:
-  - Session or JWT 무엇을 선택할까요? 꼭 Session을 도입해야 하는 이유가 무엇인가요? NestJS 공식 문서에는 Session을 Passport.js와 연동해서 사용하는 예시가 부실한데 어떻게 해결할 수 있나요?
-  - Https에서 WebSocket이 작동을 안하는 이유가 뭘까요?
-  - WebSocket은 쿠키를 안 보내는데 어떻게 세션을 통한 인증/인가를 처리할 수 있을까요?
-  - OAuth2 Access Token을 누출하지 않고 보호할 수 있는 방법이 무엇인가요?
-  - TypeORM의 Lazy Relations가 무엇인가요? 왜 사용하지 말아야 할까요? N+1 문제를 어떻게 해결할 수 있나요?
-  - NestJS에서 기본 TS 설정 말고 좀 더 Strict하게 사용하는 방법의 장단점이 무엇일까요?
-  - NestJS에서 isNil 타입 구현이 잘못된 것 같은데 어떻게 해결할 수 있나요? NestJS 개발자에게 직접 연락해서 물어본 결과는 무엇인가요?
-  - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
-  - TypeORM이 EntityRepository를 deprecate했는데 대안은 무엇인가요?
-  - TypeORM이 Transactional 데코레이터를 deprecate했는데, 가장 적절한 트랜잭션 관리 기법은 무엇인가요?
+  - NestJS:
+    - 어떻게 모듈 간 결합도를 낮추고 Circular Dependency를 피할 수 있나요? `forwardRef` 사용을 피하는 방법은?
+    - NestJS에서 isNil 타입 구현이 잘못된 것 같은데 어떻게 해결할 수 있나요? NestJS 개발자에게 직접 연락해서 물어본 결과는 무엇인가요?
+    - NestJS에서 기본 TS 설정 말고 좀 더 Strict하게 사용하는 방법의 장단점이 무엇일까요?
+  - TypeORM:
+    - TypeORM이 EntityRepository를 deprecate했는데 대안은 무엇인가요?
+    - TypeORM이 Transactional 데코레이터를 deprecate했는데, 가장 적절한 트랜잭션 관리 기법은 무엇인가요?
+    - TypeORM의 Lazy Relations가 무엇인가요? 왜 사용하지 말아야 할까요? N+1 문제를 어떻게 해결할 수 있나요?
+    - 우리 프로젝트는 Active Record, Data Mapper 패턴 둘 중 무엇이 어울릴까요?
+  - Auth:
+    - Session or JWT 무엇을 선택할까요? 꼭 Session을 도입해야 하는 이유가 무엇인가요? NestJS 공식 문서에는 Session을 Passport.js와 연동해서 사용하는 예시가 부실한데 어떻게 해결할 수 있나요?
+    - OAuth2 Access Token을 누출하지 않고 보호할 수 있는 방법이 무엇인가요?
+  - WebSocket:
+    - WebSocket은 쿠키를 안 보내는데 어떻게 세션을 통한 인증/인가를 처리할 수 있을까요?
+    - Https에서 WebSocket이 작동을 안 한 버그의 원인은 무엇인가요?
+  - Git:
+    - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 <div style="page-break-after: always;"></div>
@@ -154,10 +161,9 @@ redirect_from:
 - 현재 보고 계신 사이트입니다.
 - 개인 프로젝트
 - 💎 Jekyll과 Ruby Gem, Bundler를 이용한 [acamedicpages](https://github.com/academicpages/academicpages.github.io) 템플릿을 이용해 제작
-- [원본 사이트](https://academicpages.github.io/)를 참고했으나, 스타일이 마음에 들지 않아 결국 CSS를 처음부터 끝까지 스스로 작성했습니다.
-  - CSS 애니메이션 (Link, GitHub Button)
-  - H2, H3 border, margin 설정
-  - 목차 레이아웃 생성, viewport width 설정, 현재 위치 시각화
+- [원본 사이트](https://academicpages.github.io/)를 참고했으나, 결국 CSS를 처음부터 끝까지 스스로 작성했습니다.
+  - CSS 애니메이션 (Link, Skill Badge, GitHub Button)
+  - 목차 레이아웃, 유저가 현재 읽고 있는 섹션 시각화, 모바일 환경 가시성 고려
   - Pretendard로 폰트 교체
   - PDF 변환이 용이하도록, @media print 설정 (ctrl+p로 웹에서 pdf 형식으로 출력 가능)
 
