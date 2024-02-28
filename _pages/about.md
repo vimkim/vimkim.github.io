@@ -110,22 +110,6 @@ redirect_from:
     - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
-<div style="page-break-after: always;"></div>
-
-### 🏨 Yanullja - Yanolja BE Clone (2024.1)
-
-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java)
-  [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white){:.badge}](https://google.com/search?q=Spring)
-  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}](https://google.com/search?q=Postgres)
-  [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
-  [![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=JPA)
-  [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Actions)
-  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}](https://google.com/search?q=AWS)
-- 숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
-- 팀원: 백엔드 5명
-- 회고: [Yanullja Backend 프로젝트 회고 (노션)](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
-- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
-
 ### 📝 SurveyIT (진행 중) (2024.2 ~ )
 
 - [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:.badge}](https://google.com/search?q=TypeScript)
@@ -152,7 +136,19 @@ redirect_from:
   - Frontend, Backend간의 API 형상 관리를 할 수 있는 방법이 무엇일까요?
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/what-surv/what-surv-backend)
 
-<div style="page-break-after: always;"></div>
+### 🏨 Yanullja - Yanolja BE Clone (2024.1)
+
+- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white){:.badge}](https://google.com/search?q=Java)
+  [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white){:.badge}](https://google.com/search?q=Spring)
+  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white){:.badge}](https://google.com/search?q=Postgres)
+  [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white){:.badge}](https://google.com/search?q=Redis)
+  [![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white){:.badge}](https://google.com/search?q=JPA)
+  [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white){:.badge}](https://google.com/search?q=GitHub%20Actions)
+  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:.badge}](https://google.com/search?q=AWS)
+- 숙박 서비스 야놀자의 백엔드 클론 프로젝트입니다.
+- 팀원: 백엔드 5명
+- 회고: [Yanullja Backend 프로젝트 회고 (노션)](https://abalone-coneflower-269.notion.site/Yanullja-Backend-a9a8719eccfe4146a50e4fe10da8fa40?pvs=4)
+- Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/battlecruisers/yanullja)
 
 ### 개인 포트폴리오 홈페이지 제작 (2024.2)
 
