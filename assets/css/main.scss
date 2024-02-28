@@ -179,7 +179,6 @@ a {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Enhanced shadow for depth */
   height: 3rem;
   width: 8rem;
-  filter: grayscale(30%);
   border: 1px solid #ddd; /* Light grey border */
   background: linear-gradient(145deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0)), #2156FA; /* Glossy effect */
   overflow: hidden;
@@ -189,7 +188,6 @@ a {
 
 #main>article>div>section img.badge:hover {
   transform: scale(1.1); /* Make it scale bigger on hover */
-  filter: grayscale(0%); /* Full color on hover */
   box-shadow: 0 0 15px rgba(33, 86, 250, 0.75); /* Glowing shadow for dynamic effect */
 }
 
@@ -383,7 +381,6 @@ body * {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     height: 1.8rem;
     width: 6rem;
-    filter: grayscale(30%);
   }
 
   body * {
