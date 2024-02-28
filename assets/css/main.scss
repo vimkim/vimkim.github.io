@@ -162,6 +162,10 @@ a {
   font-family: "Pretendard-Regular", sans-serif !important;
 }
 
+.author__avatar {
+  display:none !important;
+}
+
 #main>article>div>section img.button_image:hover {
   box-shadow: unset;
   animation: tilt-n-move-shaking 0.25s infinite;
@@ -277,10 +281,6 @@ body>div.masthead {
   border: none;
 }
 
-body {
-  cursor: url("/images/vim.svg"), auto;
-  color: black;
-}
 
 /* Table of Contents Container */
 .table-of-contents {
