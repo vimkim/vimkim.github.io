@@ -373,3 +373,16 @@ h2 {
     filter: grayscale(30%);
   }
 }
+
+/* Initial state of all elements */
+body * {
+  opacity: 0;
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  transform: translateY(20px); /* Optional: for slide-up effect */
+}
+
+/* State of elements when they become visible */
+.is-visible {
+  opacity: 1;
+  transform: translateY(0); /* Reset to original position */
+}
