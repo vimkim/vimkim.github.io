@@ -337,7 +337,7 @@ redirect_from:
     [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
   - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
 
-    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#-projects){:.no-print}
+    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
 
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
