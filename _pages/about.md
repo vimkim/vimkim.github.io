@@ -249,11 +249,6 @@ redirect_from:
 - Enum을 싫어하고, 정적 분석이 잘 되는 Object Literal을 좋아해요. [link](https://velog.io/@dkvlg/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Enums-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9A%94%EC%95%BD){:.no-print}
 - 타입스크립트 스터디를 진행했고, 공식 문서와 TSConfig Reference를 읽고 많은 버그를 해결하며 산전수전을 겪었어요.
 
-### ☕📄 JavaScript도 사용할 수 있어요
-
-- this와 call, apply, bind에 대해 설명할 수 있어요.
-- Closure와 Prototype, Object.defineProperty에 대해 설명할 수 있어요.
-
 ### ⚛️ 간단한 React 코드 작성과 디버깅을 할 수 있어요
 
 - 프론트엔드 개발자가 작성한 리액트 코드를 해석하고 디버깅 할 수 있어요. 기존 코드를 모방하여 간단한 컴포넌트를 만들 수 있어요.
