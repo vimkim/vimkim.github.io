@@ -162,35 +162,44 @@ a {
   font-family: "Pretendard-Regular", sans-serif !important;
 }
 
-#main>article>div>section img.badge {
-  position: relative;
-  margin: 0.2rem;
-  border-radius: 0.4rem;
-  // box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-  /* Slightly darker shadow for better contrast */
-  height: 2rem;
-  width: 7rem;
-  filter: grayscale(30%);
-  border: 1px solid #ddd;
-  /* Light grey border, adjust color as needed */
-}
-
-
-
-#main>article>div>section img.badge:hover {
-  filter: none;
-  transform: scale(1.5);
-  z-index: 100;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-  /* Slightly darker shadow for better contrast */
-  cursor: pointer;
-}
-
 #main>article>div>section img.button_image:hover {
   box-shadow: unset;
   animation: tilt-n-move-shaking 0.25s infinite;
   cursor: pointer;
+}
+
+#main>article>div>section img.badge {
+  position: relative;
+  margin: 0.2rem;
+  border-radius: 0.4rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Enhanced shadow for depth */
+  height: 3rem;
+  width: 8rem;
+  filter: grayscale(30%);
+  border: 1px solid #ddd; /* Light grey border */
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0)), #2156FA; /* Glossy effect */
+  overflow: hidden;
+  transition: all 0.3s ease; /* Smooth transition for all effects */
+  box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.3), 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#main>article>div>section img.badge:hover {
+  transform: scale(1.1); /* Make it scale bigger on hover */
+  filter: grayscale(0%); /* Full color on hover */
+  box-shadow: 0 0 15px rgba(33, 86, 250, 0.75); /* Glowing shadow for dynamic effect */
+}
+
+/* Add a reflection for extra glossiness (optional) */
+#main>article>div>section img.badge::after {
+  content: '';
+  position: absolute;
+  top: -30%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.4) 0%, transparent 100%);
+  border-radius: 0.4rem; /* Match the badge's border-radius */
+  opacity: 0.5;
 }
 
 // https://unused-css.com/blog/css-shake-animation/
