@@ -1,7 +1,8 @@
 // Function to check if element is in view
 function isInViewport(element) {
   const rect = element.getBoundingClientRect();
-  return rect.top < window.innerHeight && rect.bottom >= 0;
+  console.log(rect);
+  return rect.top <= window.innerHeight + 100 && rect.bottom >= -100;
 }
 
 // Function to run when scrolling

@@ -351,7 +351,7 @@ h2 {
 /* Initial state of all elements */
 body * {
   opacity: 0;
-  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  transition: opacity 0.3s ease-out, transform 0.5s ease-out;
   transform: translateY(20px); /* Optional: for slide-up effect */
 }
 
