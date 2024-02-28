@@ -47,6 +47,10 @@
   font-style: normal;
 }
 
+:root {
+  --main-color: #4c669a;
+}
+
 #main {
   margin-top: 5em;
   max-width: 1510px;
@@ -99,9 +103,10 @@ h6 {
   /* This is necessary to create the pseudo-element */
   display: block;
   /* This makes the pseudo-element behave like a block-level element */
-  height: 1.5px;
+  height: 1px;
   /* This sets the thickness of the line. Adjust as needed */
-  background: #4f161e;
+  // background: #4f161e;
+  background: #EAEAEA;
   margin-bottom: 3.5rem;
   /* This creates space between the line and the h2 element */
 }
@@ -109,7 +114,8 @@ h6 {
 .page__content h2 {
   margin-top: 1.5rem;
   font-size: 1.9rem;
-  color: #862633;
+  // color: #862633;
+  color: var(--main-color);
   border-bottom: none;
 }
 
@@ -120,7 +126,7 @@ h6 {
   /* This makes the pseudo-element behave like a block-level element */
   height: 1px;
   /* This sets the thickness of the line. Adjust as needed */
-  background: rgb(229, 231, 235);
+  background: #EAEAEA;
   margin-bottom: 1rem;
   /* This creates space between the line and the h2 element */
 }
@@ -293,13 +299,10 @@ body {
 .table-of-contents a.active {
   font-weight: bold;
   /* Makes text bolder */
-  color: #862633;
-  background-color: #f9f9f9;
-  /* Light background for the active item */
-  border-left: 3px solid #862633;
-  /* Adds a side border to highlight */
+  color: var(--main-color);
+  background-color: #D4F4FA;
+  border-left: 3px solid var(--main-color);
   padding-left: 5px;
-  /* Adjust padding to align text properly */
 }
 
 .sidebar {

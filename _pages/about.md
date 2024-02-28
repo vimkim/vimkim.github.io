@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="page-break-after: always;"></div>
 
-## Introduction
+## DAEHYUN KIM
 
 안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
@@ -31,7 +31,7 @@ redirect_from:
 - [연락처](/#-contact)
 {:.table-of-contents} -->
 
-## Skills
+## SKILLS
 
 ### 대표 기술
 
@@ -66,7 +66,7 @@ redirect_from:
   [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101){:.badge}](https://google.com/search?q=Socket.io)
   [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white){:.badge}](https://google.com/search?q=powershell)
 
-## 💻 Projects
+## PROJECTS
 
 대표 프로젝트: 백준룸즈
 
@@ -177,7 +177,7 @@ redirect_from:
 - 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 중
 
-## 💪 기술적 역량
+## 기술적 역량
 
 ### 🚀 배포와 CI/CD에 능숙해요
 
@@ -269,7 +269,7 @@ redirect_from:
 [![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white){:.badge}](https://google.com/search?q=OCaml)
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683){:.badge}](https://google.com/search?q=Octave)
 
-## 🔎 학력
+## EDUCATION
 
 ### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
 
@@ -326,7 +326,7 @@ redirect_from:
 
 - 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
 
-## 📚 직업 교육 과정
+## 직업 교육 과정
 
 ### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
 
@@ -372,7 +372,7 @@ redirect_from:
 
 ### 대용량 트래픽 처리 경험 -->
 
-## 🙋🏻 How I work
+## HOW I WORK
 
 ### 🤖 인공지능은 저의 최고의 비서에요
 
@@ -394,7 +394,7 @@ redirect_from:
 - 금전적인 인센티브보다, 내가 얼마나 의미 있게 기여할 수 있는지가 더 중요하다고 생각해요.
 - 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. [link](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5){:.no-print}
 
-## 📚 CS Studies
+## CS STUDIES
 
 23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
 
@@ -415,12 +415,12 @@ redirect_from:
 
 명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
 
-## 💫 My Blog
+## BLOG
 
 - **[구글링 실패한 개발자가 남들의 시간을 아껴줌](https://velog.io/@dkvlg) 이라는 블로그를 운영하고 있어요**
   - 구글링을 해도 도무지 해결책을 찾을 수 없었고, 결국 직접 여러 시도 끝에 스스로 해결한 이슈들만 정리해서 글을 쓰는 `구글링에_실패한_개발자` 블로그를 운영하고 있어요.
 
-## 👩🏻‍🚀 Extra
+## EXTRA
 
 ### 🌏 해외 경험
 
@@ -447,11 +447,11 @@ redirect_from:
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}](https://google.com/search?q=Neovim)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white){:.badge}](https://google.com/search?q=Obsidian)
 
-## Timeline
+## TIMELINE
 
 ![timeline](/images/timeline.png)
 
-## 📞 Contact
+## CONTACT
 
 궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
 
