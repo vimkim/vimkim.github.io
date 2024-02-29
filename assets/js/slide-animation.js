@@ -17,8 +17,25 @@ function checkVisibility() {
   });
 }
 
-// Listen for scroll events
-window.addEventListener("scroll", checkVisibility);
+let checkVisibilityDebounced;
+
+function debounce(func, wait, immediate) {
+  return function () {
+    const context = this,
+      args = arguments;
+    clearTimeout(checkVisibilityDebounced);
+    checkVisibilityDebounced = setTimeout(function () {
+      checkVisibilityDebounced = null;
+      if (!immediate) func.apply(context, args);
+    }, wait);
+    if (immediate && !checkVisibilityDebounced) {
+      func.apply(context, args);
+    }
+  };
+}
+
+// Throttle scroll event
+window.addEventListener("scroll", debounce(checkVisibility, 20));
 
 // Initial check in case elements are in viewport on page load
 document.addEventListener("DOMContentLoaded", checkVisibility);
