@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-## TODO
+<!-- ## TODO
 1. [문제점과 반성, 추후 개선해 나아갈 점 (coming soon)]()
 2. 기술적 도전에 대한 답변이 있었으면 좋겠다.
 3. 도커 컴포즈 링크 단 것 처럼 다른 기술적 도전들도 링크를 달아서 답변해보자
-4. TODO: 리팩토링 기록 (coming soon)
+4. TODO: 리팩토링 기록 (coming soon) -->
 
 <div style="page-break-after: always;"></div>
 
