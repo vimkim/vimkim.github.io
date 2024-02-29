@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+## TODO
+1. [문제점과 반성, 추후 개선해 나아갈 점 (coming soon)]()
+2. 기술적 도전에 대한 답변이 있었으면 좋겠다.
+3. 도커 컴포즈 링크 단 것 처럼 다른 기술적 도전들도 링크를 달아서 답변해보자
+4. TODO: 리팩토링 기록 (coming soon)
+
 <div style="page-break-after: always;"></div>
 
 ## DAEHYUN KIM
@@ -108,6 +114,7 @@ redirect_from:
     - Https에서 WebSocket이 작동을 안 한 버그의 원인은 무엇인가요?
   - Git:
     - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
+- 배포 링크: <https://baekjoonrooms.com>
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 📝 SurveyIT (진행 중) (2024.2 ~ )
