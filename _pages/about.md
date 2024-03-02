@@ -23,7 +23,11 @@ redirect_from:
     <table class="info-table">
         <tr>
             <td>-</td>
-            <td>포트폴리오 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td>
+            <td>이력서 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>이력서 PDF: <a href="https://vimkim.github.io/files/resume.pdf">https://vimkim.github.io/files/resume.pdf</a></td>
         </tr>
         <tr>
             <td>-</td>
@@ -39,7 +43,7 @@ redirect_from:
         </tr>
     </table>
 </div>
-
+<br />
 
 안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
@@ -48,8 +52,7 @@ redirect_from:
 경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 이력서와 웹사이트에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim)
-이 깃헙 아이콘 버튼은 웹사이트에서 클릭 가능합니다.
-이력서 PDF에서도 버튼을 누르실 수 있습니다.
+이 깃헙 아이콘 버튼은 웹사이트와 [이력서 PDF](https://vimkim.github.io/files/resume.pdf) 둘 모두에서 마우스로 클릭하실 수 있습니다.
 
 ## SKILLS
 
@@ -196,6 +199,8 @@ redirect_from:
 
 ## EDUCATION
 
+![timeline](/images/timeline.png)
+
 ### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
 
 - 📍 위치: 서울시 성북구 안암동
@@ -266,11 +271,6 @@ redirect_from:
   - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
 
     [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
-
-### 타임라인
-
-![timeline](/images/timeline.png)
-
 
 ## 기술적 역량
 
