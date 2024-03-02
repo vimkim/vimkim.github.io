@@ -75,8 +75,11 @@ body,
 button,
 input,
 select,
+table,
 textarea {
+  font-size: 1em;
   font-family: "Pretendard-Regular", sans-serif !important;
+  color: black;
 }
 
 h1,
@@ -142,15 +145,11 @@ p,
 a,
 li,
 span,
-label {
-  /* Add any other tags as needed */
-  font-family: "Pretendard-Regular", sans-serif;
-}
-
-/* Ensure buttons and inputs match the text style */
 button,
 input[type="submit"],
-input[type="button"] {
+input[type="button"],
+label {
+  /* Add any other tags as needed */
   font-family: "Pretendard-Regular", sans-serif;
 }
 
@@ -362,9 +361,39 @@ body * {
   transform: translateY(0); /* Reset to original position */
 }
 
+// Custom styles for right-aligned table without borders
+.right-aligned-info {
+  text-align: right;
+
+  .info-table {
+    width: auto;
+    margin-left: auto;
+    border-collapse: collapse;
+    border: none;
+
+    td {
+      padding: 4px;
+      vertical-align: top;
+      border: none;
+      &:first-child {
+        // Styles for the first column, typically holding the '-' character
+      }
+      &:not(:first-child) {
+        // Styles for other columns
+        text-align: left;
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: blue; // Change this as needed
+    }
+  }
+}
+
 @media print {
 
-  nav,
+G  nav,
   footer,
   .no-print {
     display: none;
@@ -393,3 +422,4 @@ body * {
     transform: translateY(0); /* Reset to original position */
   }
 }
+

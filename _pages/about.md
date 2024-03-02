@@ -12,32 +12,44 @@ redirect_from:
 2. 기술적 도전에 대한 답변이 있었으면 좋겠다.
 3. 도커 컴포즈 링크 단 것 처럼 다른 기술적 도전들도 링크를 달아서 답변해보자
 4. TODO: 리팩토링 기록 (coming soon) -->
-
-<div style="page-break-after: always;"></div>
-
 ## DAEHYUN KIM
+
+<!-- - 개인 이력서 / 포트폴리오 웹사이트: <https://vimkim.github.io>
+- GitHub: <https://github.com/vimkim>
+- 이메일: <kimdhyungg@gmail.com>
+- 전화번호: 010-3284-0075 -->
+
+<div class="right-aligned-info">
+    <table class="info-table">
+        <tr>
+            <td>-</td>
+            <td>포트폴리오 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>GitHub: <a href="https://github.com/vimkim">https://github.com/vimkim</a></td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>이메일: <a href="mailto:kimdhyungg@gmail.com">kimdhyungg@gmail.com</a></td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>전화번호: 010-3284-0075</td>
+        </tr>
+    </table>
+</div>
+
 
 안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
 금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학도 전공하게 되었고, 서로 다른 두 대학으로부터 경제학과 컴퓨터 과학 학사 학위를 받은 웹 개발자가 되었습니다.
 
-경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 포트폴리오에 가능한 많은 정보를 담으려고 노력했습니다. 😄
+경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 이력서와 웹사이트에 가능한 많은 정보를 담으려고 노력했습니다. 😄
 
-포트폴리오 링크: https://vimkim.github.io
-
-<!-- ---
-
-- [기술 스택](/#skills)
-- [프로젝트](/#-projects)
-- [기술적 역량](/#-기술적-역량)
-- [학력](/#-학력)
-- [직업 교육 과정](/#-직업-교육-과정)
-- [일하는 방식](/#-how-i-work)
-- [스터디](/#-cs-studies)
-- [블로그](/#-my-blog)
-- [취미](/#-extra)
-- [연락처](/#-contact)
-{:.table-of-contents} -->
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim)
+이 깃헙 아이콘 버튼은 웹사이트에서 클릭 가능합니다.
+이력서 PDF에서도 버튼을 누르실 수 있습니다.
 
 ## SKILLS
 
@@ -97,7 +109,7 @@ redirect_from:
   [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}](https://google.com/search?q=Vite)
 - 백준문제로 대결하는 실시간 알고리즘 경쟁 플랫폼입니다.
 - 팀원: 프론트 3명, 백엔드 2명
-- 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI/CD, User / Room / Auth Domain, Logger, Redis
+- 담당 업무: SocketIO, NestJS Gateway, OAuth2, Passport.js, GitHub Actions CI, User / Room / Auth Domain, Logger, Redis
 - 기술적 도전 & 고민 사항:
   - NestJS:
     - 어떻게 모듈 간 결합도를 낮추고 Circular Dependency를 피할 수 있나요? `forwardRef` 사용을 피하는 방법은?
@@ -137,7 +149,7 @@ redirect_from:
   [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white){:.badge}](https://google.com/search?q=Vite)
 - 설문조사 및 리워드 관리 플랫폼입니다.
 - 팀원: 프론트 2명, 백엔드 2명, 기획 1명, 디자인 1명
-- 담당 업무: JWT, Docker, GitHub Actions CI/CD, CRUD
+- 담당 업무: JWT, Docker, GitHub Actions CI, 배포 자동화, CRUD
 - 기술적 도전 & 고민 사항:
   - JWT를 어떻게 사용해야 가장 보안에 덜 위협적일까요? Cookie, Auth Header 등 다양한 방법이 있는데 무엇이 좋을까요?
   - JWT 토큰을 어디에 저장해야 할까요? Cookie, LocalStorage, SessionStorage?
@@ -182,14 +194,92 @@ redirect_from:
 - 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 중
 
+## EDUCATION
+
+### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
+
+- 📍 위치: 서울시 성북구 안암동
+- 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
+- 📊 **GPA: 4.03 / 4.5**
+- 📚 수강 과목 (총 이수 학점: 60):
+  - 🗓️ 2019년
+    - 전공 필수:
+      - 자료구조 (A+)
+      - 알고리즘 (A+)
+      - 운영체제 (A+)
+      - 네트워크 (A)
+      - 컴퓨터 구조 (A)
+      - 데이터베이스 (B+)
+    - 전공 선택: 이산수학, 논리설계, 공학수학
+      - 프로그래밍언어(론): 함수형 ML계열 언어 OCaml로 인터프리터 언어와 타입체커, GC 구현
+      - 오토마타: DFA, NFA, PDA, 튜링 머신과 촘스키 위계
+  - 🗓️ 2022년
+    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜, 전산학 특강
+- 🔬 **연구 활동**:
+  - 💾 데이터베이스 연구실 학부연구생 (2022.02 - 2022.05)
+    - 🏅 2022 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 우수상
+      - 연구 제목: 학습된 색인 구조에서 편중된 삽입 문제와 해결책
+- 🏢 **동아리 활동**:
+  - 🔒 정보보안 동아리 KUICS (2019)
+  - 🎮 게임개발 동아리 Cat&Dog (2019)
+  - 💻 컴퓨터 동아리 KUCC (2022)
+  - 🏊 수영 동아리 수호회 (2022)
+
+<div style="page-break-after: always;"></div>
+
+### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
+
+- 📍 위치: 캐나다 몬트리올
+- 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
+- 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
+- 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
+- CS 관련 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
+
+- 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf){:.no-print}
+
+  - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
+  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
+
+    데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
+
+### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
+
+- 프랑스 파리 소재 국제고등학교
+- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
+
+### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
+
+- 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
+
+### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
+
+- 교육 기간 활동:
+
+  - Vanilla TypeScript로 운영체제, 버전 컨트롤 시스템, 인터프리터 언어, 데이터베이스, WAS 구현
+  - 프레임워크를 쓰지 않고 Vanilla TypeScript로 스스로의 힘으로 React와 Express.js 구현
+  - 웹 서비스 스스로의 힘으로 처음부터 끝까지 설계 및 배포
+
+- 프로젝트 기간 활동:
+
+  - 👨‍💻 프로젝트 명: 백준룸즈
+    [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
+  - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
+
+    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
+
+### 타임라인
+
+![timeline](/images/timeline.png)
+
+
 ## 기술적 역량
 
-### 🚀 배포와 CI/CD에 능숙해요
+### 🚀 CI와 배포 자동화에 익숙해요
 
 - Docker compose를 통해 손쉽게 배포할 수 있어요. [link](https://github.com/what-surv/what-surv-deploy/pull/4){:.no-print}
 - Nginx와 Caddy를 통해 리버스 프록시를 설정할 수 있어요.
 - Let's Encrypt를 통해 HTTPS를 설정할 수 있어요.
-- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동으로 배포하는 CD를 설정할 수 있어요. [link](https://github.com/battlecruisers/yanullja/pull/89){:.no-print}
+- GitHub Actions를 통해 PR을 검증하는 CI와 성공 시 자동 배포를 설정할 수 있어요. [link](https://github.com/battlecruisers/yanullja/pull/89){:.no-print}
 - 필요하다면 bash, zsh, fish, powershell 어떤 쉘이든 쉘스크립트를 작성할 수 있어요.
 
 ### 🌿 팀원의 Git 문제를 해결해 줄 수 있어요
@@ -269,81 +359,6 @@ redirect_from:
 [![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white){:.badge}](https://google.com/search?q=OCaml)
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683){:.badge}](https://google.com/search?q=Octave)
 
-## EDUCATION
-
-### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
-
-- 📍 위치: 서울시 성북구 안암동
-- 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
-- 📊 **GPA: 4.03 / 4.5**
-- 📚 수강 과목 (총 이수 학점: 60):
-  - 🗓️ 2019년
-    - 전공 필수:
-      - 자료구조 (A+)
-      - 알고리즘 (A+)
-      - 운영체제 (A+)
-      - 네트워크 (A)
-      - 컴퓨터 구조 (A)
-      - 데이터베이스 (B+)
-    - 전공 선택: 이산수학, 논리설계, 공학수학
-      - 프로그래밍언어(론): 함수형 ML계열 언어 OCaml로 인터프리터 언어와 타입체커, GC 구현
-      - 오토마타: DFA, NFA, PDA, 튜링 머신과 촘스키 위계
-  - 🗓️ 2022년
-    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜, 전산학 특강
-- 🔬 **연구 활동**:
-  - 💾 데이터베이스 연구실 학부연구생 (2022.02 - 2022.05)
-    - 🏅 2022 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 우수상
-      - 연구 제목: 학습된 색인 구조에서 편중된 삽입 문제와 해결책
-- 🏢 **동아리 활동**:
-  - 🔒 정보보안 동아리 KUICS (2019)
-  - 🎮 게임개발 동아리 Cat&Dog (2019)
-  - 💻 컴퓨터 동아리 KUCC (2022)
-  - 🏊 수영 동아리 수호회 (2022)
-
-<div style="page-break-after: always;"></div>
-
-### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
-
-- 📍 위치: 캐나다 몬트리올
-- 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
-- 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
-- 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
-- CS 관련 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
-
-- 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf){:.no-print}
-
-  - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
-  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
-
-    데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
-
-### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
-
-- 프랑스 파리 소재 국제고등학교
-- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
-
-### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
-
-- 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
-
-## 직업 교육 과정
-
-### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
-
-- 교육 기간 활동:
-
-  - Vanilla TypeScript로 운영체제, 버전 컨트롤 시스템, 인터프리터 언어, 데이터베이스, WAS 구현
-  - 프레임워크를 쓰지 않고 Vanilla TypeScript로 스스로의 힘으로 React와 Express.js 구현
-  - 웹 서비스 스스로의 힘으로 처음부터 끝까지 설계 및 배포
-
-- 프로젝트 기간 활동:
-
-  - 👨‍💻 프로젝트 명: 백준룸즈
-    [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
-  - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
-
-    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
-
 <!-- ## 부족한 역량 & 앞으로 개선해 나아갈 사항
 
 ### Redis
@@ -396,6 +411,8 @@ redirect_from:
 
 ## CS STUDIES
 
+### COLLABORATIVE READINGS
+
 23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
 
 아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
@@ -415,7 +432,7 @@ redirect_from:
 
 명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
 
-## BLOG
+### BLOG
 
 - **[구글링 실패한 개발자가 남들의 시간을 아껴줌](https://velog.io/@dkvlg) 이라는 블로그를 운영하고 있어요**
   - 구글링을 해도 도무지 해결책을 찾을 수 없었고, 결국 직접 여러 시도 끝에 스스로 해결한 이슈들만 정리해서 글을 쓰는 `구글링에_실패한_개발자` 블로그를 운영하고 있어요.
@@ -447,11 +464,7 @@ redirect_from:
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white){:.badge}](https://google.com/search?q=Neovim)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white){:.badge}](https://google.com/search?q=Obsidian)
 
-## TIMELINE
-
-![timeline](/images/timeline.png)
-
-## CONTACT
+### CONTACT
 
 궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
 
@@ -459,18 +472,3 @@ redirect_from:
 - 전화번호: 010-3284-0075
 
 부담 없이 연락 주시기 바랍니다!
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
