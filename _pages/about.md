@@ -272,6 +272,34 @@ redirect_from:
 
     [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
 
+## CS STUDIES
+
+### COLLABORATIVE READINGS
+
+23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
+
+아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
+
+- CS study: [ParkRio](https://github.com/ParkRio)님께서 진행하신 CS 전공지식 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/CS-Study/commits/main/)
+- Modern Java in Action: [hongxeob](https://github.com/hongxeob)님께서 시작하시고 제가 물려받은 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/)
+- Real MySql 8.0: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 진행하신 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/)
+- HTTP 완벽 가이드: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 시작하시고 제가 물려받은 스터디 완료
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/)
+- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
+  - _추후 내용 업로드 예정_
+- Learning MySQL (현재 진행 중)
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
+
+명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
+
+### BLOG
+
+- **[구글링 실패한 개발자가 남들의 시간을 아껴줌](https://velog.io/@dkvlg) 이라는 블로그를 운영하고 있어요**
+  - 구글링을 해도 도무지 해결책을 찾을 수 없었고, 결국 직접 여러 시도 끝에 스스로 해결한 이슈들만 정리해서 글을 쓰는 `구글링에_실패한_개발자` 블로그를 운영하고 있어요.
+
 ## 기술적 역량
 
 ### 🚀 CI와 배포 자동화에 익숙해요
@@ -408,34 +436,6 @@ redirect_from:
 - 영리함 보다는 가독성이 중요하고, 코드 품질보다는 기능 구현이 더 중요하다고 생각해요.
 - 금전적인 인센티브보다, 내가 얼마나 의미 있게 기여할 수 있는지가 더 중요하다고 생각해요.
 - 신기술은 필요하다면 도입하지만, 예상치 못한 버그에 책임지고 해결할 수 있도록 스스로 충분한 공부와 단단히 대비를 해둬야 한다고 생각해요. 제 의견대로 팀프로젝트에 MapStruct 매퍼 라이브러리를 도입했다가 발생한 버그에 대해 끝까지 책임을 지고 해결한 적이 있어요. [link](https://velog.io/@dkvlg/mapstruct-%EC%98%A4%EB%A5%98-%EB%8B%A4-%EC%9E%A1%EA%B3%A0-%EB%8F%84%EC%9E%85-%EC%84%B1%EA%B3%B5){:.no-print}
-
-## CS STUDIES
-
-### COLLABORATIVE READINGS
-
-23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
-
-아래 순서대로 4명이서 개인당 매주 약 10페이지씩 정리해서, 총 40페이지를 발표 요약하는 식으로 진행했어요. 랜덤 요소와 커피값 벌금도 도입하는 등 참여율을 높이기 위해 다양한 시도와 실험을 병행해서 노하우가 많이 쌓였어요.
-
-- CS study: [ParkRio](https://github.com/ParkRio)님께서 진행하신 CS 전공지식 스터디 완료
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/CS-Study/commits/main/)
-- Modern Java in Action: [hongxeob](https://github.com/hongxeob)님께서 시작하시고 제가 물려받은 스터디 완료
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/modern-java-in-action/commits/main/)
-- Real MySql 8.0: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 진행하신 스터디 완료
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/real-mysql-8.0/commits/main/)
-- HTTP 완벽 가이드: [Hellojihyoung](https://github.com/Hellojihyoung)님께서 시작하시고 제가 물려받은 스터디 완료
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/http-the-definitive-guide/commits/main/)
-- Operating System Concepts: [TaehwanGo](https://github.com/TaehwanGo)님께서 진행하신 공룡책 완독 스터디 완료 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/Metacognition-Polymath/operating-system-concepts)
-  - _추후 내용 업로드 예정_
-- Learning MySQL (현재 진행 중)
-  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
-
-명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
-
-### BLOG
-
-- **[구글링 실패한 개발자가 남들의 시간을 아껴줌](https://velog.io/@dkvlg) 이라는 블로그를 운영하고 있어요**
-  - 구글링을 해도 도무지 해결책을 찾을 수 없었고, 결국 직접 여러 시도 끝에 스스로 해결한 이슈들만 정리해서 글을 쓰는 `구글링에_실패한_개발자` 블로그를 운영하고 있어요.
 
 ## EXTRA
 
