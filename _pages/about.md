@@ -131,7 +131,7 @@ redirect_from:
     - Https에서 WebSocket이 작동을 안 한 버그의 원인은 무엇인가요?
   - Git:
     - 중간 점검을 해보니 Git Graph가 너무 복잡한데 브랜칭 전략을 어떻게 수정해야 협업에 더 효율적일까요?
-- 배포 링크: <https://baekjoonrooms.com>
+- 배포 링크: <https://baekjoonrooms.com/intro>
 - Go to GitHub: [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
 
 ### 📝 SurveyIT (진행 중) (2024.2 ~ )
