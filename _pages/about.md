@@ -54,6 +54,81 @@ redirect_from:
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim)
 이 깃헙 아이콘 버튼은 웹사이트와 [이력서 PDF](https://vimkim.github.io/files/resume.pdf) 둘 모두에서 마우스로 클릭하실 수 있습니다.
 
+## EDUCATION
+
+![timeline](/images/timeline.png)
+
+### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
+
+- 📍 위치: 서울시 성북구 안암동
+- 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
+- 📊 **GPA: 4.03 / 4.5**
+- 📚 수강 과목 (총 이수 학점: 60):
+  - 🗓️ 2019년
+    - 전공 필수:
+      - 자료구조 (A+)
+      - 알고리즘 (A+)
+      - 운영체제 (A+)
+      - 네트워크 (A)
+      - 컴퓨터 구조 (A)
+      - 데이터베이스 (B+)
+    - 전공 선택: 이산수학, 논리설계, 공학수학
+      - 프로그래밍언어(론): 함수형 ML계열 언어 OCaml로 인터프리터 언어와 타입체커, GC 구현
+      - 오토마타: DFA, NFA, PDA, 튜링 머신과 촘스키 위계
+  - 🗓️ 2022년
+    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜, 전산학 특강
+- 🔬 **연구 활동**:
+  - 💾 데이터베이스 연구실 학부연구생 (2022.02 - 2022.05)
+    - 🏅 2022 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 우수상
+      - 연구 제목: 학습된 색인 구조에서 편중된 삽입 문제와 해결책
+- 🏢 **동아리 활동**:
+  - 🔒 정보보안 동아리 KUICS (2019)
+  - 🎮 게임개발 동아리 Cat&Dog (2019)
+  - 💻 컴퓨터 동아리 KUCC (2022)
+  - 🏊 수영 동아리 수호회 (2022)
+
+<div style="page-break-after: always;"></div>
+
+### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
+
+- 📍 위치: 캐나다 몬트리올
+- 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
+- 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
+- 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
+- CS 관련 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
+
+- 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf){:.no-print}
+
+  - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
+  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
+
+    데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
+
+### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
+
+- 프랑스 파리 소재 국제고등학교
+- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
+
+### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
+
+- 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
+
+### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
+
+- 교육 기간 활동:
+
+  - Vanilla TypeScript로 운영체제, 버전 컨트롤 시스템, 인터프리터 언어, 데이터베이스, WAS 구현
+  - 프레임워크를 쓰지 않고 Vanilla TypeScript로 스스로의 힘으로 React와 Express.js 구현
+  - 웹 서비스 스스로의 힘으로 처음부터 끝까지 설계 및 배포
+
+- 프로젝트 기간 활동:
+
+  - 👨‍💻 프로젝트 명: 백준룸즈
+    [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
+  - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
+
+    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
+
 ## SKILLS
 
 ### 대표 기술
@@ -197,84 +272,17 @@ redirect_from:
 - 개인 프로젝트
 - 🐹 Go언어와 Hugo로 제작 중
 
-## EDUCATION
-
-![timeline](/images/timeline.png)
-
-### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
-
-- 📍 위치: 서울시 성북구 안암동
-- 📅 학업 기간: 2019년 3월 편입학 후, 2020년 2월까지 학업. (2020년부터 2021년까지 🪖 군 휴학), 이어서 2022년 3월부터 2023년 2월까지 학업 재개 및 졸업.
-- 📊 **GPA: 4.03 / 4.5**
-- 📚 수강 과목 (총 이수 학점: 60):
-  - 🗓️ 2019년
-    - 전공 필수:
-      - 자료구조 (A+)
-      - 알고리즘 (A+)
-      - 운영체제 (A+)
-      - 네트워크 (A)
-      - 컴퓨터 구조 (A)
-      - 데이터베이스 (B+)
-    - 전공 선택: 이산수학, 논리설계, 공학수학
-      - 프로그래밍언어(론): 함수형 ML계열 언어 OCaml로 인터프리터 언어와 타입체커, GC 구현
-      - 오토마타: DFA, NFA, PDA, 튜링 머신과 촘스키 위계
-  - 🗓️ 2022년
-    - 전공 선택: 인공지능, 머신러닝, 딥러닝, 임베디드 시스템, 컴퓨터 그래픽스, 컴퓨터학 콜로키움, 기업과 정신과 리더십, 인터넷 프로토콜, 전산학 특강
-- 🔬 **연구 활동**:
-  - 💾 데이터베이스 연구실 학부연구생 (2022.02 - 2022.05)
-    - 🏅 2022 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 우수상
-      - 연구 제목: 학습된 색인 구조에서 편중된 삽입 문제와 해결책
-- 🏢 **동아리 활동**:
-  - 🔒 정보보안 동아리 KUICS (2019)
-  - 🎮 게임개발 동아리 Cat&Dog (2019)
-  - 💻 컴퓨터 동아리 KUCC (2022)
-  - 🏊 수영 동아리 수호회 (2022)
-
-<div style="page-break-after: always;"></div>
-
-### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
-
-- 📍 위치: 캐나다 몬트리올
-- 🏆 입학 당시 QS 세계 대학 랭킹 [18위](https://www.topuniversities.com/university-rankings/world-university-rankings/2012?page=1), 캐나다 1위
-- 📅 학업 기간: 2014년 9월 입학, 2018년 6월 졸업
-- 📊 GPA: **3.11 / 4.0, 총 이수 학점: 121**
-- CS 관련 수강 과목: COMP 102 Computers and Computing, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 250 Intro to Computer Science, FINE 452 Applied Quantitative Finance, FINE 547 Advanced Finance Seminar, etc.
-
-- 졸업 논문 [link](https://github.com/vimkim/skewnessInvestmentHorizon/blob/master/main.pdf){:.no-print}
-
-  - 제목: Empirical Research on Skewness in Individual U.S. Stock Log Returns at Different Investment Time Horizon
-  - 내용: 본 연구는 투자 기간에 따라 변하는 주식 수익률 분포의 3차 모멘트(비대칭성)에 대해 실증적으로 분석했습니다. 1960년부터 2015년까지 미국 내 3200여 개 기업의 주식 수익률 변화를 상세히 조사하여, 최고 점수를 받았습니다.
-
-    데이터의 크기가 워낙 커서, 코드를 한 번 실행할 경우 적어도 5시간 이상의 많은 시간이 소요되었습니다. 능력이 닿는 대로 최적화를 진행했으나, 운영체제와 데이터베이스에 대해 잘 몰랐기에 한계가 있었습니다. 이 경험은 CS 전공 역량의 중요성을 깊이 인식시켜 주었고, 컴퓨터학과에 진학하는 계기가 되었습니다.
-
-### 🎓 EIB The Victor Hugo School 졸업 (2011.9 ~ 2014.6)
-
-- 프랑스 파리 소재 국제고등학교
-- 국제 바칼로레아 (International Baccalaureate) 디플로마 학위 취득. 맥길 대학교에서 1학년을 면제받고 2학년으로 입학했어요.
-
-### 🚶‍♂️🏫 휘️문고등학교 (2011.03 ~ 2011.07)
-
-- 1학기가 끝나고 부모님의 3년 장기 해외 출장이 결정되어, 가족 구성원 모두 프랑스로 이사했어요.
-
-### 🎓 네이버 커넥트재단 부스트캠프 웹・모바일 8기 수료 (2023.06 ~ 2023.12)
-
-- 교육 기간 활동:
-
-  - Vanilla TypeScript로 운영체제, 버전 컨트롤 시스템, 인터프리터 언어, 데이터베이스, WAS 구현
-  - 프레임워크를 쓰지 않고 Vanilla TypeScript로 스스로의 힘으로 React와 Express.js 구현
-  - 웹 서비스 스스로의 힘으로 처음부터 끝까지 설계 및 배포
-
-- 프로젝트 기간 활동:
-
-  - 👨‍💻 프로젝트 명: 백준룸즈
-    [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/boostcampwm2023/web15-BaekjoonRooms)
-  - 소개: 평소 트위치에서 해외 개발자들이 ['LeetRooms'](https://leetrooms.com/)라는 크롬 익스텐션을 활용해 시청자들과 함께 알고리즘 대결을 펼치는 모습을 보며, 같은 경험을 한국인들과도 공유하고 싶다는 생각을 자주 했습니다. 이런 생각을 바탕으로, 네이버 부스트캠프에서 만난 훌륭한 동료들과 손을 잡고 '백준룸즈' 프로젝트를 시작했어요.
-
-    [기술적 도전과 고민 사항 다시 보기 (뒤로 가기 버튼으로 다시 돌아오실 수 있습니다.)](/#projects){:.no-print}
-
 ## CS STUDIES
 
-### COLLABORATIVE READINGS
+### 동아리 스터디
+
+- 정보보안 동아리: 시스템 보안 스터디, SICP (마법사책) 스터디, 64비트 운영체제 직접 만들기 1권 완독 스터디
+- 게임개발 동아리: 언리얼 스터디, 게임 개발을 위한 비동기 C# 스터디
+- 알고리즘 동아리: 알고리즘 고급 스터디 (4주)
+- 컴퓨터 동아리: 웹개발 세미나 (8주), linux & bash & zsh & vim 스터디 (7주)
+- 네이버 부스트캠프: 멤버십 대비 타입스크립트 스터디 (9회)
+
+### 기술서적 완독 스터디
 
 23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
 
