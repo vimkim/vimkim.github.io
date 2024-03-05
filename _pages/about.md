@@ -56,7 +56,11 @@ redirect_from:
 
 ## EDUCATION
 
-![timeline](/images/timeline.png)
+<!-- ![timeline](/images/timeline.png) -->
+<p align="center">
+  <img src="/images/timeline.svg" alt="timeline">
+</p>
+<!-- <div id="visualization"></div> -->
 
 ### 🎓 고려대학교, 컴퓨터학과 학부 졸업 (2019.3 ~ 2023.2)
 
