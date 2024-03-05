@@ -6,19 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!-- ## TODO
 1. [문제점과 반성, 추후 개선해 나아갈 점 (coming soon)]()
 2. 기술적 도전에 대한 답변이 있었으면 좋겠다.
 3. 도커 컴포즈 링크 단 것 처럼 다른 기술적 도전들도 링크를 달아서 답변해보자
 4. TODO: 리팩토링 기록 (coming soon) -->
 ## DAEHYUN KIM
-
 <!-- - 개인 이력서 / 포트폴리오 웹사이트: <https://vimkim.github.io>
 - GitHub: <https://github.com/vimkim>
 - 이메일: <kimdhyungg@gmail.com>
 - 전화번호: 010-3284-0075 -->
-
 <div class="right-aligned-info">
     <table class="info-table">
         <tr>
@@ -44,7 +41,6 @@ redirect_from:
     </table>
 </div>
 <br />
-
 안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
 금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학도 전공하게 되었고, 서로 다른 두 대학으로부터 경제학과 컴퓨터 과학 학사 학위를 받은 웹 개발자가 되었습니다.
@@ -90,8 +86,7 @@ redirect_from:
   - 🎮 게임개발 동아리 Cat&Dog (2019)
   - 💻 컴퓨터 동아리 KUCC (2022)
   - 🏊 수영 동아리 수호회 (2022)
-
-<div style="page-break-after: always;"></div>
+<!-- <div style="page-break-after: always;"></div> -->
 
 ### 🎓 McGill University, 경제학과 학부 졸업 (2014.9 ~ 2018.6)
 
@@ -278,14 +273,6 @@ redirect_from:
 
 ## CS STUDIES
 
-### 동아리 스터디
-
-- 정보보안 동아리: 시스템 보안 스터디, SICP (마법사책) 스터디, 64비트 운영체제 직접 만들기 1권 완독 스터디
-- 게임개발 동아리: 언리얼 스터디, 게임 개발을 위한 비동기 C# 스터디
-- 알고리즘 동아리: 알고리즘 고급 스터디 (4주)
-- 컴퓨터 동아리: 웹개발 세미나 (8주), linux & bash & zsh & vim 스터디 (7주)
-- 네이버 부스트캠프: 멤버십 대비 타입스크립트 스터디 (9회)
-
 ### 기술서적 완독 스터디
 
 23년 1월부터 매주 일요일마다 꾸준히 여러 기술서적 완독 스터디에 참여했어요. 전 팀장님이셨던 [Hellojihyoung](https://github.com/Hellojihyoung)님께 24년 1월에 스터디를 물려받아 스터디장을 맡고 있어요.
@@ -306,6 +293,14 @@ redirect_from:
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim/sql-study)
 
 명절을 제외하고는 한 주도 빠지지 않고 모두 꾸준히 성실하게 참여해 주셨어요.
+
+### 동아리 스터디
+
+- 정보보안 동아리: 시스템 보안 스터디, SICP (마법사책) 스터디, 64비트 운영체제 직접 만들기 1권 완독 스터디
+- 게임개발 동아리: 언리얼 스터디, 게임 개발을 위한 비동기 C# 스터디
+- 알고리즘 동아리: 알고리즘 고급 스터디 (4주)
+- 컴퓨터 동아리: 웹개발 세미나 (8주), linux & bash & zsh & vim 스터디 (7주)
+- 네이버 부스트캠프: 멤버십 대비 타입스크립트 스터디 (9회)
 
 ### BLOG
 
