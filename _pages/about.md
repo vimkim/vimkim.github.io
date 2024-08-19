@@ -42,21 +42,15 @@ redirect_from:
 </div>
 <br />
 
-DBMS와 PL, 그리고 vim에 관심 많은 개발자 김대현(**vimkim**)입니다.
+안녕하세요! 개발자 김대현(vimkim)입니다.
 
-요즘은 CLI 개발자 도구를 환경 설정하는 재미에 푹 빠져있습니다.
+DBMS와 프로그래밍 언어(PL)에 관심이 많고, 요즘은 CLI 개발자 도구 환경 설정에 푹 빠져있어요. 2015년부터 vim, tmux, emacs에 빠져서 .vimrc와 init.el 설정 파일을 7천 줄 넘게 작성했던 추억이 있습니다. 2017년 3월부터는 neovim을 사용하기 시작했고, 지금까지 9년 가까이 100개 이상의 플러그인을 써봤습니다. 요즘은 folke의 lazyvim으로 정착해서 아주 잘 쓰고 있어요.
 
-- 2015년부터 vim과 tmux, emacs에 푹 빠졌고, .vimrc와 init.el 설정 파일을 7천줄 이상 작성했습니다.
-- 2017년 3월부터 **neovim**을 사용하면서, 9년에 가까운 시간 동안 100개 이상의 플러그인을 설치한 경험이 있습니다.
-- 현재는 folke의 lazyvim에 정착해 있습니다.
+neovim과 lazygit의 손맛을 아는 분이라면, 언제든지 같이 이야기 나누고 싶어요.
 
-neovim과 lazygit의 손맛을 아는 분이라면 누구나 친하게 지내고 싶고, 밥 한끼를 대접할 의향이 있습니다.
+fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace 같은 도구들을 적절히 조합해 빠르게 사용하다보면 어느새 하루 8시간의 근무가 끝나 있는데,  그때의 몰입감을 좋아합니다.
 
-하루 8시간의 근무 시간동안
-
-fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace를 번갈아가며 사용하는 것이 저의 개발 일상입니다.
-
-이 모든 개발자 도구들의 설정은 제 깃허브 프로필의 Pinned 항목에서 살펴보실 수 있습니다.
+제 모든 설정 파일은 GitHub 프로필의 Pinned 항목에서 확인할 수 있습니다.
 
 ### 요즘 관심사
 
