@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**김대현 (vimkim)**, *백엔드 개발자*"
+title: "**김대현 (vimkim)**, *개발자*"
 author_profile: true
 redirect_from:
   - /about/
@@ -18,14 +18,14 @@ redirect_from:
 - 전화번호: 010-3284-0075 -->
 <div class="right-aligned-info">
     <table class="info-table">
-        <tr>
-            <td>-</td>
-            <td>이력서 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td>
-        </tr>
-        <tr>
-            <td>-</td>
-            <td>이력서 PDF: <a href="https://vimkim.github.io/files/resume.pdf">https://vimkim.github.io/files/resume.pdf</a></td>
-        </tr>
+        <!-- <tr> -->
+        <!--     <td>-</td> -->
+        <!--     <td>이력서 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td> -->
+        <!-- </tr> -->
+        <!-- <tr> -->
+        <!--     <td>-</td> -->
+        <!--     <td>이력서 PDF: <a href="https://vimkim.github.io/files/resume.pdf">https://vimkim.github.io/files/resume.pdf</a></td> -->
+        <!-- </tr> -->
         <tr>
             <td>-</td>
             <td>GitHub: <a href="https://github.com/vimkim">https://github.com/vimkim</a></td>
@@ -41,14 +41,31 @@ redirect_from:
     </table>
 </div>
 <br />
-안녕하세요. 어떤 문제든 집요하게 해결책을 찾는 백엔드 개발자 김대현입니다. 쉽게 해결하지 못한 문제를 결국 해결하면서 큰 성취감을 느낍니다. 남들보다 좀 더 쉽고 빠르게 해결책을 찾을 수 있다는 믿음과 자부심을 가지고 있습니다.
 
-금융공학 과제를 최적화하면서 자료구조와 데이터베이스에 대해 공부하기 시작했습니다. 그 과정이 너무 재미있어서, 원래 주 전공이었던 경제학보다 이 분야에 더 많은 시간을 투자하게 되었습니다. 결국, 컴퓨터 과학도 전공하게 되었고, 서로 다른 두 대학으로부터 경제학과 컴퓨터 과학 학사 학위를 받은 웹 개발자가 되었습니다.
+DBMS와 PL, 그리고 vim에 관심 많은 개발자 김대현(**vimkim**)입니다.
 
-경제학을 공부하며, 채용 시장에서 정보의 비대칭성 문제에 대해 배웠습니다. 고용주와 피고용인 간의 정보가 완전히 공유되지 않아 종종 잘못된 결정이 내려진다는 이론입니다. 이러한 문제를 방지하기 위해, 이력서와 웹사이트에 가능한 많은 정보를 담으려고 노력했습니다. 😄
+요즘은 CLI 개발자 도구를 환경 설정하는 재미에 푹 빠져있습니다.
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" class="button_image"/>](https://github.com/vimkim)
-이 깃헙 아이콘 버튼은 웹사이트와 [이력서 PDF](https://vimkim.github.io/files/resume.pdf) 둘 모두에서 마우스로 클릭하실 수 있습니다.
+- 2015년부터 vim과 tmux, emacs daemon을 사용해 개발했고,
+- 2017년 3월부터 **neovim**을 full-time으로 사용했으며, 9년에 가까운 시간 동안 100개 이상의 플러그인을 설치한 경험이 있습니다.
+- 현재는 folke의 lazyvim에 정착해 있습니다.
+
+neovim과 lazygit의 손맛을 아는 분이라면 누구나 친하게 지내고 싶고, 밥 한끼를 대접할 의향이 있습니다.
+
+하루 8시간의 근무 시간동안
+
+fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace를 번갈아가며 사용하는 것이 저의 개발 일상입니다.
+
+이 모든 개발자 도구들의 설정은 제 깃허브 프로필의 Pinned 항목에서 살펴보실 수 있습니다.
+
+### 요즘 관심사
+
+- rust
+- NixOS
+- Kubernetes
+- Kernel
+
+주말에 같이 공부하실 분들을 모집하고 있습니다. 사당 근처에 사신다면 편하게 연락 주세요!
 
 ## EDUCATION
 
