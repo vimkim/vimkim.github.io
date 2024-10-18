@@ -6,19 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <!-- ## TODO
 1. [문제점과 반성, 추후 개선해 나아갈 점 (coming soon)]()
 2. 기술적 도전에 대한 답변이 있었으면 좋겠다.
 3. 도커 컴포즈 링크 단 것 처럼 다른 기술적 도전들도 링크를 달아서 답변해보자
 4. TODO: 리팩토링 기록 (coming soon) -->
+
 ## DAEHYUN KIM
+
 <!-- - 개인 이력서 / 포트폴리오 웹사이트: <https://vimkim.github.io>
 - GitHub: <https://github.com/vimkim>
 - 이메일: <kimdhyungg@gmail.com>
-- 전화번호: 010-3284-0075 -->
 <div class="right-aligned-info">
     <table class="info-table">
         <!-- <tr> -->
+
         <!--     <td>-</td> -->
         <!--     <td>이력서 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td> -->
         <!-- </tr> -->
@@ -34,11 +37,8 @@ redirect_from:
             <td>-</td>
             <td>이메일: <a href="mailto:kimdhyungg@gmail.com">kimdhyungg@gmail.com</a></td>
         </tr>
-        <tr>
-            <td>-</td>
-            <td>전화번호: 010-3284-0075</td>
-        </tr>
     </table>
+
 </div>
 <br />
 
@@ -48,7 +48,7 @@ DBMS와 프로그래밍 언어(PL)에 관심이 많고, 요즘은 CLI 개발자 
 
 neovim과 lazygit의 손맛을 아는 분이라면, 언제든지 같이 이야기 나누고 싶어요.
 
-fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace 같은 도구들을 적절히 조합해 빠르게 사용하다보면 어느새 하루 8시간의 근무가 끝나 있는데,  그때의 몰입감을 좋아합니다.
+fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace 같은 도구들을 적절히 조합해 빠르게 사용하다보면 어느새 하루 8시간의 근무가 끝나 있는데, 그때의 몰입감을 좋아합니다.
 
 제 모든 설정 파일은 GitHub 프로필의 Pinned 항목에서 확인할 수 있습니다.
 
@@ -470,6 +470,7 @@ fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace 같은 도구들
 - 어린 시절 수영 선수반에서의 꾸준한 훈련과 경쟁은 저에게 끈기와 인내를 가르쳐 주었어요. 4년 동안 꾸준히 주 7일, 주말을 포함해서 매일 2시간 이상 수영했고 하루에 6km씩, 왕복 50미터 수영장을 120바퀴 돌며 훈련했어요. 수영에 대한 열정은 제 삶의 중요한 부분을 차지해요.
 
   힘들고 포기하고 싶은 순간이 무척 많았지만, 이러한 과정에서 많은 대회에 출전하고 입상하는 성과를 이루었고, 아무리 힘들어도 결코 포기하지 않는 강인한 정신력을 길렀어요.
+
 - 대학교 수영 동아리 소속으로 서울시 수영 대회에 여러 번 출전하며, 건강한 체력을 유지했어요.
 
 ### 🏔️ 산책
@@ -487,4 +488,3 @@ fd, rg, fzf, parallel, zoxide, bat, lazygit, nvim, gdb, uftrace 같은 도구들
 궁금하신 사항이 있으시면 아래 연락처로 편하게 문의해 주세요. 이른 시일 안에 답변 드리겠습니다!
 
 - 이메일: <kimdhyungg@gmail.com>
-- 전화번호: 010-3284-0075
