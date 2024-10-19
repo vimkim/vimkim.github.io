@@ -15,20 +15,12 @@ redirect_from:
 
 ## DAEHYUN KIM
 
-<!-- - 개인 이력서 / 포트폴리오 웹사이트: <https://vimkim.github.io>
-- GitHub: <https://github.com/vimkim>
-- 이메일: <kimdhyungg@gmail.com>
+<!-- - 개인 이력서 / 포트폴리오 웹사이트: <https://vimkim.github.io> -->
+<!-- - GitHub: <https://github.com/vimkim> -->
+<!-- - 이메일: <kimdhyungg@gmail.com> -->
+
 <div class="right-aligned-info">
     <table class="info-table">
-        <!-- <tr> -->
-
-        <!--     <td>-</td> -->
-        <!--     <td>이력서 웹사이트: <a href="https://vimkim.github.io">https://vimkim.github.io</a></td> -->
-        <!-- </tr> -->
-        <!-- <tr> -->
-        <!--     <td>-</td> -->
-        <!--     <td>이력서 PDF: <a href="https://vimkim.github.io/files/resume.pdf">https://vimkim.github.io/files/resume.pdf</a></td> -->
-        <!-- </tr> -->
         <tr>
             <td>-</td>
             <td>GitHub: <a href="https://github.com/vimkim">https://github.com/vimkim</a></td>
@@ -38,8 +30,8 @@ redirect_from:
             <td>이메일: <a href="mailto:kimdhyungg@gmail.com">kimdhyungg@gmail.com</a></td>
         </tr>
     </table>
-
 </div>
+
 <br />
 
 안녕하세요! 개발자 김대현(vimkim)입니다.
