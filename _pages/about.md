@@ -26,7 +26,7 @@ redirect_from:
 
 Software engineer with a strong foundation in computer science, focused on systems programming, databases, and low-level performance engineering. Interested in building reliable, efficient software in Rust and C++.
 
-Currently exploring: **Rust**, **C++**, **Linux kernel internals**, **DBMS internals**, **NixOS**.
+Currently exploring: **Rust**, **C++**, **Linux kernel internals**, **DBMS internals**.
 
 ---
 
@@ -62,7 +62,7 @@ Currently exploring: **Rust**, **C++**, **Linux kernel internals**, **DBMS inter
 
 ### Systems & Tooling
 
-- Linux (NixOS, RHEL), shell scripting (bash/zsh/fish/nushell)
+- Linux, shell scripting (bash/zsh/fish/nushell)
 - GDB, uftrace, perf — profiling and debugging
 - Git internals (`cat-file`, `rebase --onto`, `worktree`, `reflog`)
 - Docker, Nginx, GitHub Actions CI/CD
@@ -79,24 +79,6 @@ Currently exploring: **Rust**, **C++**, **Linux kernel internals**, **DBMS inter
 ### Database Index Research (2022)
 
 Investigated biased insertion behavior in learned index structures (e.g., RMI, PGM-Index). Proposed mitigation strategies and presented at KIISE 2022 undergraduate competition — awarded Best Paper.
-
-### BaekjoonRooms (2023)
-
-Real-time competitive programming platform where users race to solve Baekjoon problems. Led backend architecture: NestJS, Socket.IO, OAuth2 session auth, Redis, MySQL, Docker, GitHub Actions CI.
-
-- [GitHub](https://github.com/boostcampwm2023/web15-BaekjoonRooms) · [Live](https://baekjoonrooms.com/intro)
-
-### Systems from Scratch (Naver Boostcamp, 2023)
-
-Implemented OS scheduler, version control system, interpreter, database engine, and WAS from scratch using Vanilla TypeScript — no frameworks.
-
----
-
-## EXPERIENCE
-
-### Naver Connect Foundation — Boostcamp Web & Mobile 8th (2023)
-
-Intensive 6-month software engineering program. Focused on building systems from first principles and shipping a full-stack product end-to-end.
 
 ---
 
