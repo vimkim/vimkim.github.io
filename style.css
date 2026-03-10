@@ -143,6 +143,15 @@ section h2 {
   margin-top: 12px;
 }
 
+#about blockquote {
+  margin-top: 20px;
+  padding-left: 14px;
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
 /* Skills */
 .skill-group {
   display: flex;
