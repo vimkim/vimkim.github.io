@@ -3,184 +3,277 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daehyun Kim</title>
-  <meta name="description" content="Software engineer focused on systems programming, Rust, and C++." />
-  <link rel="icon" href="/images/favicon.ico" />
+  <title>Daehyun Kim | CV</title>
+  <meta name="description" content="Daehyun Kim's CV: software engineer focused on systems programming, database internals, developer tooling, Rust, C, and C++." />
+  <meta name="author" content="Daehyun Kim" />
+  <meta property="og:title" content="Daehyun Kim | CV" />
+  <meta property="og:description" content="Software engineer focused on systems programming, database internals, and developer tooling." />
+  <meta property="og:type" content="profile" />
+  <meta property="og:url" content="https://vimkim.dev/" />
+  <meta property="og:image" content="https://vimkim.dev/images/bio-photo.jpg" />
+  <link rel="canonical" href="https://vimkim.dev/" />
+  <link rel="icon" href="images/favicon.ico" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <nav class="quick-links">
-    <a href="https://vimkim.dev/my-cubrid-doxygen/">CUBRID Doxygen</a>
-    <a href="https://vimkim.dev/markdown-to-jira-confluence-online/">Markdown to Jira/Confluence</a>
-    <a href="https://vimkim.dev/cubrid-oos-vault/">CUBRID OOS Project Knowledge Base</a>
-    <a href="https://vimkim.dev/cubrid-code-analysis/">CUBRID Code Analysis</a>
-  </nav>
-  <div class="container">
+  <svg class="icon-sprite" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon-mail" viewBox="0 0 24 24">
+      <rect x="2" y="4" width="20" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="2" />
+      <path d="m2 7 10 7 10-7" fill="none" stroke="currentColor" stroke-width="2" />
+    </symbol>
+    <symbol id="icon-linkedin" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zM7.119 20.452H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+    </symbol>
+    <symbol id="icon-github" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z" />
+    </symbol>
+    <symbol id="icon-blog" viewBox="0 0 24 24">
+      <path d="M6 3h9l3 3v15H6z" fill="none" stroke="currentColor" stroke-width="2" />
+      <path d="M14 3v4h4M9 11h6M9 15h6M9 19h4" fill="none" stroke="currentColor" stroke-width="2" />
+    </symbol>
+    <symbol id="icon-download" viewBox="0 0 24 24">
+      <path d="M12 3v12m0 0 4-4m-4 4-4-4M4 19h16" fill="none" stroke="currentColor" stroke-width="2" />
+    </symbol>
+  </svg>
+  <header class="site-header">
+    <nav class="top-nav" aria-label="Primary">
+      <a href="#summary">Summary</a>
+      <a href="#work">Work</a>
+      <a href="#education">Education</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
 
-    <header>
-      <div class="header-inner">
-        <img class="avatar" src="/images/vim.svg" alt="Daehyun Kim" />
-        <div class="header-text">
-          <h1>Daehyun Kim</h1>
-          <p class="title">Software Engineer &mdash; Systems Programming</p>
-          <nav class="links">
-            <a href="https://github.com/vimkim" target="_blank" rel="noopener">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
-              GitHub
-            </a>
-            <a href="mailto:kimdhyungg@gmail.com">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7 10-7"/></svg>
-              kimdhyungg@gmail.com
-            </a>
-          </nav>
+    <div class="masthead">
+      <img class="avatar" src="images/vim.svg" alt="Daehyun Kim" />
+      <div class="intro">
+        <p class="eyebrow">CV / Resume</p>
+        <h1>Daehyun Kim</h1>
+        <p class="headline">Software engineer focused on systems programming, database internals, and developer tooling.</p>
+        <div class="contact-strip" aria-label="Contact links">
+          <a class="icon-link" href="mailto:kimdhyungg@gmail.com"><svg class="link-icon"><use href="#icon-mail" /></svg>kimdhyungg@gmail.com</a>
+          <a class="icon-link" href="https://www.linkedin.com/in/daehyun-kim-519419107/" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-linkedin" /></svg>LinkedIn</a>
+          <a class="icon-link" href="https://github.com/vimkim" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-github" /></svg>github.com/vimkim</a>
+          <a class="icon-link" href="https://velog.io/@dkvlg" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-blog" /></svg>Technical blog</a>
+          <a class="button-link icon-link" href="Daehyun-Kim-CV.pdf" download><svg class="link-icon"><use href="#icon-download" /></svg>Download PDF</a>
         </div>
       </div>
-    </header>
+    </div>
+  </header>
 
-    <section id="about">
-      <h2>About</h2>
-      <p>
-        Software engineer with a strong foundation in CS, focused on systems programming,
-        database internals, and low-level performance engineering.
-      </p>
-      <p>
-        I enjoy building reliable, efficient software close to the metal &mdash; memory management,
-        concurrency, compiler internals, and the kind of problems where understanding the hardware matters.
-        Currently deepening my work in <strong>Rust</strong> and <strong>C++</strong>.
-      </p>
-      <p>
-        The terminal is my primary interface for everything. I live in the CLI &mdash; composability,
-        minimal tooling, and sharp feedback loops are what make me productive and keep things fun.
-        I daily-drive <strong>Arch Linux</strong> and am equally fluent in <strong>RHEL</strong> and <strong>Ubuntu</strong> for production environments.
-      </p>
-      <blockquote>"What I cannot create, I do not understand" &mdash; Richard Feynman</blockquote>
-    </section>
-
-    <section id="skills">
-      <h2>Skills</h2>
-      <div class="skill-group">
-        <div class="skill-row">
-          <span class="skill-label">Primary</span>
-          <div class="skill-items">
-            <span class="tag primary">Rust</span>
-            <span class="tag primary">C++</span>
-            <span class="tag primary">C</span>
-          </div>
-        </div>
-        <div class="skill-row">
-          <span class="skill-label">Systems</span>
-          <div class="skill-items">
-            <span class="tag">Arch Linux</span>
-            <span class="tag">RHEL / Fedora</span>
-            <span class="tag">Ubuntu</span>
-            <span class="tag">GDB</span>
-            <span class="tag">perf</span>
-            <span class="tag">uftrace</span>
-            <span class="tag">POSIX</span>
-            <span class="tag">make / cmake</span>
-          </div>
-        </div>
-        <div class="skill-row">
-          <span class="skill-label">CLI / TUI</span>
-          <div class="skill-items">
-            <span class="tag">Neovim</span>
-            <span class="tag">lazygit</span>
-            <span class="tag">fzf</span>
-            <span class="tag">fd</span>
-            <span class="tag">rg</span>
-            <span class="tag">zoxide</span>
-            <span class="tag">atuin</span>
-            <span class="tag">delta</span>
-            <span class="tag">jq</span>
-            <span class="tag">direnv</span>
-          </div>
-        </div>
-        <div class="skill-row">
-          <span class="skill-label">Tooling</span>
-          <div class="skill-items">
-            <span class="tag">Git</span>
-            <span class="tag">Docker</span>
-            <span class="tag">GitHub Actions</span>
-            <span class="tag">bash / zsh / nushell</span>
-          </div>
-        </div>
-        <div class="skill-row">
-          <span class="skill-label">Familiar</span>
-          <div class="skill-items">
-            <span class="tag">Python</span>
-            <span class="tag">Go</span>
-            <span class="tag">TypeScript</span>
-            <span class="tag">Java</span>
-            <span class="tag">OCaml</span>
-            <span class="tag">SQL</span>
-          </div>
-        </div>
+  <main>
+    <section id="summary" class="section-grid">
+      <div class="section-label">
+        <h2>Summary</h2>
       </div>
-    </section>
-
-    <section id="education">
-      <h2>Education</h2>
-      <div class="edu-list">
-
-        <div class="edu-item">
-          <h3>Korea University</h3>
-          <p class="meta">B.S. Computer Science &mdash; 2019–2023 &middot; GPA 4.03 / 4.5</p>
-          <ul>
-            <li>Operating Systems, Algorithms, Computer Architecture, Databases, Networks</li>
-            <li>Programming Languages (OCaml) &mdash; implemented interpreter, type checker, GC</li>
-          </ul>
-        </div>
-
-        <div class="edu-item">
-          <h3>McGill University</h3>
-          <p class="meta">B.A. Economics &mdash; 2014–2018 &middot; GPA 3.11 / 4.0 &middot; QS #18 (2012)</p>
-          <ul>
-            <li>CS coursework: Software Systems, Computer Science, Foundations of Programming</li>
-            <li>
-              Thesis: <em>Skewness in Individual U.S. Stock Log Returns at Different Investment Horizons</em>
-              &mdash; processing a 55-year dataset of 3,200+ companies led me to pursue CS
-            </li>
-          </ul>
-        </div>
-
-        <div class="edu-item">
-          <h3>EIB The Victor Hugo School, Paris</h3>
-          <p class="meta">International Baccalaureate Diploma &mdash; 2011–2014</p>
-          <ul>
-            <li>Entered McGill as a sophomore via IB credits</li>
-          </ul>
-        </div>
-
-      </div>
-    </section>
-
-    <section id="projects">
-      <h2>Projects</h2>
-      <div class="research-item">
-        <h3><a href="https://github.com/vimkim/patchers" target="_blank" rel="noopener">patchers</a></h3>
-        <p class="venue">TUI tool &mdash; Rust &middot; actively maintained</p>
-        <p>
-          Terminal-based interactive tool for reviewing and slicing large diff/patch files.
-          Lets you select specific hunks to include or exclude, then generates a minimal partial patch.
-          Useful for breaking down large patches and preparing clean, review-friendly diffs.
+      <div class="section-body">
+        <p class="lead">
+          I build reliable, inspectable software close to the system boundary: storage engines, concurrency,
+          memory management, compiler/runtime internals, and command-line tools. My current technical direction
+          is database systems and low-level engineering in Rust, C, and C++.
         </p>
+        <div class="highlight-grid">
+          <div class="highlight">
+            <span class="metric">B.Eng.</span>
+            <span>Computer Science and Engineering, Korea University; minor in Finance</span>
+          </div>
+          <div class="highlight">
+            <span class="metric">B.A.</span>
+            <span>Economics, McGill University</span>
+          </div>
+          <div class="highlight">
+            <span class="metric">Focus</span>
+            <span>Database internals, systems, tooling</span>
+          </div>
+          <div class="highlight">
+            <span class="metric">Builds</span>
+            <span>CUBRID automation, CLI/TUI tools, AI-assisted dev workflows</span>
+          </div>
+        </div>
       </div>
     </section>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Open to systems programming roles &mdash; C++, Rust, infrastructure, or database engineering.</p>
-      <div class="contact-links">
-        <a href="mailto:kimdhyungg@gmail.com">kimdhyungg@gmail.com</a>
-        <a href="https://github.com/vimkim" target="_blank" rel="noopener">github.com/vimkim</a>
-        <a href="https://velog.io/@dkvlg" target="_blank" rel="noopener">blog</a>
+    <section id="work" class="section-grid">
+      <div class="section-label">
+        <h2>Selected Work</h2>
+      </div>
+      <div class="section-body timeline">
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>CUBRID Database Internals &amp; Automation</h3>
+            <span class="period">Systems / database tooling</span>
+          </div>
+          <p>
+            Maintain a collection of tools and references around CUBRID internals, test analysis, source navigation,
+            and AI-assisted development workflows.
+          </p>
+          <ul>
+            <li><a href="https://vimkim.dev/my-cubrid-doxygen/">CUBRID Doxygen</a> for searchable source-level API exploration.</li>
+            <li><a href="https://vimkim.dev/cubrid-code-analysis/">CUBRID Code Analysis</a> for architecture and implementation notes.</li>
+            <li><a href="https://vimkim.dev/cubrid-oos-vault/">CUBRID OOS Project Knowledge Base</a> for storage-engine design context.</li>
+            <li><a href="https://github.com/vimkim/cubrid-oos-search" target="_blank" rel="noopener">cubrid-oos-search</a>, <a href="https://github.com/vimkim/cubrid-test-ai-reporter" target="_blank" rel="noopener">cubrid-test-ai-reporter</a>, and <a href="https://github.com/vimkim/my-cubrid-skills" target="_blank" rel="noopener">my-cubrid-skills</a> for search, CI triage, and agent workflows.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3><a href="https://github.com/vimkim/patchers" target="_blank" rel="noopener">patchers</a></h3>
+            <span class="period">Rust / terminal UI</span>
+          </div>
+          <p>
+            Terminal-based interactive tool for reviewing and slicing large diff/patch files. It helps turn
+            broad changes into smaller, reviewable patches by selecting or excluding specific hunks.
+          </p>
+          <ul>
+            <li>Designed around fast keyboard-driven workflows for people who live in Git and the CLI.</li>
+            <li>Targets practical code-review cleanup: smaller diffs, tighter commits, and easier patch sharing.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3><a href="https://vimkim.dev/markdown-to-jira-confluence-online/">Markdown to Jira/Confluence</a></h3>
+            <span class="period">Rust / WebAssembly</span>
+          </div>
+          <p>
+            Browser-based utility for converting Markdown into Jira/Confluence-friendly markup, aimed at reducing
+            friction when moving technical notes into team documentation systems.
+          </p>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>CUBRID CLI Utilities</h3>
+            <span class="period">Rust / Shell / Linux</span>
+          </div>
+          <p>
+            Small focused tools for database development and operations: one-click HA setup, broker-log rebinding,
+            memmon dump diffing, CircleCI fail-case fetching, and CUBRID development containers.
+          </p>
+          <ul>
+            <li><a href="https://github.com/vimkim/cubrid-ha-oneclick" target="_blank" rel="noopener">cubrid-ha-oneclick</a>, <a href="https://github.com/vimkim/cubrid-logtopbind-rs" target="_blank" rel="noopener">cubrid-logtopbind-rs</a>, <a href="https://github.com/vimkim/cubrid-memmondiff" target="_blank" rel="noopener">cubrid-memmondiff</a>, and <a href="https://github.com/vimkim/cubrid-dev2-pr" target="_blank" rel="noopener">cubrid-dev2-pr</a>.</li>
+          </ul>
+        </article>
       </div>
     </section>
 
-    <footer>
-      <p>vimkim.dev</p>
-    </footer>
+    <section id="education" class="section-grid">
+      <div class="section-label">
+        <h2>Education</h2>
+      </div>
+      <div class="section-body timeline">
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>Korea University</h3>
+            <span class="period">2019.03 &ndash; 2023.02</span>
+          </div>
+          <p class="meta">B.Eng. in Computer Science and Engineering &middot; Minor in Finance &middot; GPA 4.03 / 4.5</p>
+          <ul>
+            <li>Coursework: operating systems, algorithms, computer architecture, databases, networks.</li>
+            <li>Programming languages coursework included an interpreter, type checker, and garbage collector.</li>
+          </ul>
+        </article>
 
-  </div>
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>McGill University</h3>
+            <span class="period">2014.09 &ndash; 2018.06</span>
+          </div>
+          <p class="meta">B.A. in Economics &middot; GPA 3.11 / 4.0</p>
+          <ul>
+            <li>Completed CS coursework in software systems, computer science, and foundations of programming.</li>
+            <li>Thesis: <em>Skewness in Individual U.S. Stock Log Returns at Different Investment Horizons</em>.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>Naver Connect Foundation Boostcamp</h3>
+            <span class="period">2023.06 &ndash; 2023.12</span>
+          </div>
+          <p class="meta">Web/Mobile 8th cohort</p>
+          <ul>
+            <li>Team project: <a href="https://github.com/boostcampwm2023/web15-BaekjoonRooms" target="_blank" rel="noopener">BaekjoonRooms</a>.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>EIB The Victor Hugo School, Paris</h3>
+            <span class="period">2011.09 &ndash; 2014.06</span>
+          </div>
+          <p class="meta">International Baccalaureate Diploma</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="interests" class="section-grid">
+      <div class="section-label">
+        <h2>Interests</h2>
+      </div>
+      <div class="section-body">
+        <div class="interest-list">
+          <span>Database systems</span>
+          <span>Storage engines</span>
+          <span>MVCC and concurrency</span>
+          <span>Runtime systems</span>
+          <span>Programming languages</span>
+          <span>Developer tooling</span>
+          <span>AI-assisted software engineering</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="section-grid">
+      <div class="section-label">
+        <h2>Skills</h2>
+      </div>
+      <div class="section-body skill-table">
+        <div class="skill-row">
+          <h3>Primary</h3>
+          <p>Rust, C++, C, SQL</p>
+        </div>
+        <div class="skill-row">
+          <h3>Systems</h3>
+          <p>Linux, POSIX, GDB, perf, uftrace, strace, valgrind, make, CMake, Docker</p>
+        </div>
+        <div class="skill-row">
+          <h3>Tooling</h3>
+          <p>Git, GitHub Actions, Bash, zsh, Nushell, Neovim, fzf, ripgrep, jq, direnv, just</p>
+        </div>
+        <div class="skill-row">
+          <h3>Platforms</h3>
+          <p>Arch Linux, Rocky Linux, Ubuntu, Nix, Dev Containers</p>
+        </div>
+        <div class="skill-row">
+          <h3>Familiar</h3>
+          <p>Python, Go, TypeScript, Java, OCaml, Node.js, MySQL, LlamaIndex, ChromaDB</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section-grid">
+      <div class="section-label">
+        <h2>Contact</h2>
+      </div>
+      <div class="section-body closing">
+        <p>
+          Open to software engineering roles, research engineering roles, and graduate programs where systems,
+          databases, or programming languages are central.
+        </p>
+        <div class="contact-links">
+          <a class="icon-link" href="mailto:kimdhyungg@gmail.com"><svg class="link-icon"><use href="#icon-mail" /></svg>kimdhyungg@gmail.com</a>
+          <a class="icon-link" href="https://www.linkedin.com/in/daehyun-kim-519419107/" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-linkedin" /></svg>linkedin.com/in/daehyun-kim-519419107</a>
+          <a class="icon-link" href="https://github.com/vimkim" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-github" /></svg>github.com/vimkim</a>
+          <a class="icon-link" href="https://velog.io/@dkvlg" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-blog" /></svg>velog.io/@dkvlg</a>
+          <a class="button-link icon-link" href="Daehyun-Kim-CV.pdf" download><svg class="link-icon"><use href="#icon-download" /></svg>Download PDF</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>vimkim.dev</p>
+  </footer>
 </body>
 </html>
