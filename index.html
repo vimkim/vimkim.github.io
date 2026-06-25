@@ -4,10 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Daehyun Kim | CV</title>
-  <meta name="description" content="Daehyun Kim's CV: software engineer focused on systems programming, database internals, developer tooling, Rust, C, and C++." />
+  <meta name="description" content="Daehyun Kim's CV: CUBRID database engineer focused on storage-engine internals, vector search, systems programming, Rust, C, and C++." />
   <meta name="author" content="Daehyun Kim" />
   <meta property="og:title" content="Daehyun Kim | CV" />
-  <meta property="og:description" content="Software engineer focused on systems programming, database internals, and developer tooling." />
+  <meta property="og:description" content="CUBRID database engineer focused on storage-engine internals, vector search, and systems programming." />
   <meta property="og:type" content="profile" />
   <meta property="og:url" content="https://vimkim.dev/" />
   <meta property="og:image" content="https://vimkim.dev/images/bio-photo.jpg" />
@@ -49,7 +49,7 @@
       <div class="intro">
         <p class="eyebrow">CV / Resume</p>
         <h1>Daehyun Kim</h1>
-        <p class="headline">Software engineer focused on systems programming, database internals, and developer tooling.</p>
+        <p class="headline">CUBRID database engineer focused on storage-engine internals, vector search, and systems programming.</p>
         <div class="contact-strip" aria-label="Contact links">
           <a class="icon-link" href="mailto:kimdhyungg@gmail.com"><svg class="link-icon"><use href="#icon-mail" /></svg>kimdhyungg@gmail.com</a>
           <a class="icon-link" href="https://www.linkedin.com/in/daehyun-kim-519419107/" target="_blank" rel="noopener"><svg class="link-icon"><use href="#icon-linkedin" /></svg>LinkedIn</a>
@@ -68,9 +68,9 @@
       </div>
       <div class="section-body">
         <p class="lead">
-          I build reliable, inspectable software close to the system boundary: storage engines, concurrency,
-          memory management, compiler/runtime internals, and command-line tools. My current technical direction
-          is database systems and low-level engineering in Rust, C, and C++.
+          I work on CUBRID database engine features across storage, SQL semantics, vector search, and performance.
+          My recent work includes the OOS epic for out-of-line large-column storage and vector type/operator/function
+          support, with side projects in CLI tooling and AI-assisted development workflows.
         </p>
         <div class="highlight-grid">
           <div class="highlight">
@@ -83,11 +83,11 @@
           </div>
           <div class="highlight">
             <span class="metric">Focus</span>
-            <span>Database internals, systems, tooling</span>
+            <span>CUBRID engine development, storage internals, vector search</span>
           </div>
           <div class="highlight">
             <span class="metric">Builds</span>
-            <span>CUBRID automation, CLI/TUI tools, AI-assisted dev workflows</span>
+            <span>OOS storage, vector SQL support, profiling-driven performance fixes</span>
           </div>
         </div>
       </div>
@@ -100,59 +100,72 @@
       <div class="section-body timeline">
         <article class="entry">
           <div class="entry-heading">
-            <h3>CUBRID Database Internals &amp; Automation</h3>
-            <span class="period">Systems / database tooling</span>
+            <h3>CUBRID Out-of-line Overflow Storage</h3>
+            <span class="period">CBRD-26357 &middot; CUBRID database engine</span>
           </div>
           <p>
-            Maintain a collection of tools and references around CUBRID internals, test analysis, source navigation,
-            and AI-assisted development workflows.
+            Driving the OOS epic to store large column values out of line instead of always keeping every column
+            inline in heap records, reducing unnecessary I/O and improving heap page density for projection-heavy
+            scans.
           </p>
           <ul>
-            <li><a href="https://vimkim.dev/my-cubrid-doxygen/">CUBRID Doxygen</a> for searchable source-level API exploration.</li>
-            <li><a href="https://vimkim.dev/cubrid-code-analysis/">CUBRID Code Analysis</a> for architecture and implementation notes.</li>
-            <li><a href="https://vimkim.dev/cubrid-oos-vault/">CUBRID OOS Project Knowledge Base</a> for storage-engine design context.</li>
-            <li><a href="https://github.com/vimkim/cubrid-oos-search" target="_blank" rel="noopener">cubrid-oos-search</a>, <a href="https://github.com/vimkim/cubrid-test-ai-reporter" target="_blank" rel="noopener">cubrid-test-ai-reporter</a>, and <a href="https://github.com/vimkim/my-cubrid-skills" target="_blank" rel="noopener">my-cubrid-skills</a> for search, CI triage, and agent workflows.</li>
+            <li>Designed around heap records holding compact OOS references while large values live in a separate OOS area.</li>
+            <li>Worked through MVCC, recovery, HA, and existing overflow-record consistency constraints.</li>
+            <li>Maintained <a href="https://vimkim.dev/cubrid-oos-vault/">CUBRID OOS Project Knowledge Base</a> and <a href="https://vimkim.dev/cubrid-code-analysis/">CUBRID Code Analysis</a> notes to make the design reviewable.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>CUBRID Vector Type, Operators, and ANN Performance</h3>
+            <span class="period">CUBVEC &middot; vector search</span>
+          </div>
+          <p>
+            Implemented vector type support and vector-related SQL operators/functions in CUBRID, then worked on
+            ANN benchmark performance as vector dimensionality increased.
+          </p>
+          <ul>
+            <li>Added database-facing vector semantics: type handling plus vector operators/functions for SQL use.</li>
+            <li>Investigated CUBVEC-99 performance gaps between 20-dimensional and 256-dimensional ANN queries.</li>
+            <li>Applied SIMD/vectorization build options to the usearch distance metric path in CUBVEC-108.</li>
+          </ul>
+        </article>
+
+        <article class="entry">
+          <div class="entry-heading">
+            <h3>CUBRID Development Tooling</h3>
+            <span class="period">Side projects &middot; Rust / Shell / AI automation</span>
+          </div>
+          <p>
+            Built supporting tools around day-to-day CUBRID development: code navigation, test triage, JIRA/CI
+            automation, OOS knowledge search, and operational utilities.
+          </p>
+          <ul>
+            <li><a href="https://vimkim.dev/my-cubrid-doxygen/">CUBRID Doxygen</a>, <a href="https://github.com/vimkim/cubrid-oos-search" target="_blank" rel="noopener">cubrid-oos-search</a>, <a href="https://github.com/vimkim/cubrid-test-ai-reporter" target="_blank" rel="noopener">cubrid-test-ai-reporter</a>, and <a href="https://github.com/vimkim/my-cubrid-skills" target="_blank" rel="noopener">my-cubrid-skills</a>.</li>
+            <li><a href="https://github.com/vimkim/cubrid-ha-oneclick" target="_blank" rel="noopener">cubrid-ha-oneclick</a>, <a href="https://github.com/vimkim/cubrid-logtopbind-rs" target="_blank" rel="noopener">cubrid-logtopbind-rs</a>, <a href="https://github.com/vimkim/cubrid-memmondiff" target="_blank" rel="noopener">cubrid-memmondiff</a>, and <a href="https://github.com/vimkim/cubrid-dev2-pr" target="_blank" rel="noopener">cubrid-dev2-pr</a>.</li>
           </ul>
         </article>
 
         <article class="entry">
           <div class="entry-heading">
             <h3><a href="https://github.com/vimkim/patchers" target="_blank" rel="noopener">patchers</a></h3>
-            <span class="period">Rust / terminal UI</span>
+            <span class="period">Side project &middot; Rust / terminal UI</span>
           </div>
           <p>
-            Terminal-based interactive tool for reviewing and slicing large diff/patch files. It helps turn
-            broad changes into smaller, reviewable patches by selecting or excluding specific hunks.
+            Terminal-based interactive tool for reviewing and slicing large diff/patch files into smaller,
+            reviewable hunks for cleaner commits and patch sharing.
           </p>
-          <ul>
-            <li>Designed around fast keyboard-driven workflows for people who live in Git and the CLI.</li>
-            <li>Targets practical code-review cleanup: smaller diffs, tighter commits, and easier patch sharing.</li>
-          </ul>
         </article>
 
         <article class="entry">
           <div class="entry-heading">
             <h3><a href="https://vimkim.dev/markdown-to-jira-confluence-online/">Markdown to Jira/Confluence</a></h3>
-            <span class="period">Rust / WebAssembly</span>
+            <span class="period">Side project &middot; Rust / WebAssembly</span>
           </div>
           <p>
             Browser-based utility for converting Markdown into Jira/Confluence-friendly markup, aimed at reducing
             friction when moving technical notes into team documentation systems.
           </p>
-        </article>
-
-        <article class="entry">
-          <div class="entry-heading">
-            <h3>CUBRID CLI Utilities</h3>
-            <span class="period">Rust / Shell / Linux</span>
-          </div>
-          <p>
-            Small focused tools for database development and operations: one-click HA setup, broker-log rebinding,
-            memmon dump diffing, CircleCI fail-case fetching, and CUBRID development containers.
-          </p>
-          <ul>
-            <li><a href="https://github.com/vimkim/cubrid-ha-oneclick" target="_blank" rel="noopener">cubrid-ha-oneclick</a>, <a href="https://github.com/vimkim/cubrid-logtopbind-rs" target="_blank" rel="noopener">cubrid-logtopbind-rs</a>, <a href="https://github.com/vimkim/cubrid-memmondiff" target="_blank" rel="noopener">cubrid-memmondiff</a>, and <a href="https://github.com/vimkim/cubrid-dev2-pr" target="_blank" rel="noopener">cubrid-dev2-pr</a>.</li>
-          </ul>
         </article>
       </div>
     </section>
@@ -216,6 +229,7 @@
           <span>Database systems</span>
           <span>Storage engines</span>
           <span>MVCC and concurrency</span>
+          <span>Vector search</span>
           <span>Runtime systems</span>
           <span>Programming languages</span>
           <span>Developer tooling</span>
