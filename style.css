@@ -39,6 +39,17 @@ a:hover {
   text-decoration-color: currentColor;
 }
 
+code {
+  padding: 0.08rem 0.28rem;
+  border: 1px solid rgba(15, 118, 110, 0.14);
+  border-radius: 4px;
+  background: rgba(15, 118, 110, 0.07);
+  color: var(--ink);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.92em;
+  white-space: nowrap;
+}
+
 .icon-sprite {
   display: none;
 }
@@ -429,6 +440,12 @@ footer {
   .contact-links a,
   .interest-list span {
     min-height: 0;
+    border: 0;
+    padding: 0;
+    background: transparent;
+  }
+
+  code {
     border: 0;
     padding: 0;
     background: transparent;

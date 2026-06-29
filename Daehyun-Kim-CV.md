@@ -31,10 +31,10 @@ Database engineer focused on CUBRID engine development, storage internals, vecto
 
 ## Education
 
-**Korea University** — B.Eng. in Computer Science and Engineering, Minor in Finance, GPA 4.03 / 4.5 \hfill 2019.03--2023.02  
+**Korea University** — B.Eng. in Computer Science and Engineering, GPA 4.03 / 4.5 \hfill 2019.03--2022.02\
 Coursework: operating systems, algorithms, computer architecture, databases, networks. Programming languages coursework included an interpreter, type checker, and garbage collector.
 
-**McGill University** — B.A. Economics, GPA 3.11 / 4.0 \hfill 2014.09--2018.06  
+**McGill University** — B.A. Economics, Minor in Finance, GPA 3.11 / 4.0 \hfill 2014.09--2018.08\
 CS coursework in software systems, computer science, and foundations of programming. Thesis: *Skewness in Individual U.S. Stock Log Returns at Different Investment Horizons*.
 
 **Naver Connect Foundation Boostcamp** — Web/Mobile 8th cohort \hfill 2023.06--2023.12  
@@ -72,7 +72,7 @@ Team project: \href{https://github.com/boostcampwm2023/web15-BaekjoonRooms}{Baek
 ## Technical Skills
 
 **Primary:** Rust, C++, C, SQL  
-**Systems:** Linux, POSIX, GDB, perf, uftrace, strace, valgrind, make, CMake, Docker  
-**Tooling:** Git, GitHub Actions, Bash, zsh, Nushell, Neovim, fzf, ripgrep, jq, direnv, just  
+**Systems:** Linux, POSIX, `gdb`, `perf`, `uftrace`, `strace`, `valgrind`, `make`, `cmake`, `docker`\
+**Tooling:** `nushell`, `git`, GitHub Actions, `bash`, `zsh`, Neovim, `fzf`, `rg`, `jq`, `direnv`, `just`\
 **Platforms:** Arch Linux, Rocky Linux, Ubuntu, Nix, Dev Containers  
 **Familiar:** Python, Go, TypeScript, Java, OCaml, Node.js, MySQL, LlamaIndex, ChromaDB
