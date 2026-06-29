@@ -168,6 +168,54 @@ h1 {
   color: var(--accent);
 }
 
+.cv-download {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  align-items: center;
+  margin-top: 0.85rem;
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.download-label {
+  display: inline-flex;
+  gap: 0.42rem;
+  align-items: center;
+  margin-right: 0.15rem;
+  color: var(--accent-dark);
+  font-weight: 750;
+}
+
+.download-size {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 5.2rem;
+  min-height: 2.4rem;
+  border: 1px solid var(--accent-dark);
+  border-radius: var(--radius);
+  padding: 0.45rem 0.95rem;
+  color: var(--paper);
+  background: var(--accent-dark);
+  font-weight: 800;
+  line-height: 1;
+  text-decoration: none;
+  box-shadow: 0 1px 0 rgba(19, 78, 74, 0.18);
+}
+
+.download-size:hover {
+  border-color: var(--accent);
+  color: var(--paper);
+  background: var(--accent);
+  text-decoration: none;
+}
+
+.download-size:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.22);
+  outline-offset: 3px;
+}
+
 .section-grid {
   display: grid;
   grid-template-columns: 210px minmax(0, 1fr);
@@ -406,6 +454,7 @@ footer {
 
   .top-nav,
   .button-link,
+  .cv-download,
   footer {
     display: none;
   }
@@ -431,18 +480,24 @@ footer {
   }
 
   .contact-strip,
-  .contact-links {
+  .contact-links,
+  .cv-download {
     gap: 0.35rem;
     margin-top: 0.6rem;
   }
 
   .contact-strip a,
   .contact-links a,
+  .download-size,
   .interest-list span {
     min-height: 0;
     border: 0;
     padding: 0;
     background: transparent;
+  }
+
+  .download-label {
+    color: var(--ink);
   }
 
   code {
