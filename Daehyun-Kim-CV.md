@@ -38,7 +38,6 @@ Coursework: operating systems, algorithms, computer architecture, databases, net
 CS coursework in software systems, computer science, and foundations of programming. Thesis: *Skewness in Individual U.S. Stock Log Returns at Different Investment Horizons*.
 
 **Naver Connect Foundation Boostcamp** — Web/Mobile 8th cohort \hfill 2023.06--2023.12  
-Team project: \href{https://github.com/boostcampwm2023/web15-BaekjoonRooms}{BaekjoonRooms}.
 
 ## Selected Work
 
@@ -74,5 +73,5 @@ Team project: \href{https://github.com/boostcampwm2023/web15-BaekjoonRooms}{Baek
 **Primary:** Rust, C++, C, SQL  
 **Systems:** Linux, POSIX, `gdb`, `perf`, `uftrace`, `strace`, `valgrind`, `make`, `cmake`, `docker`\
 **Tooling:** `nushell`, `git`, GitHub Actions, `bash`, `zsh`, Neovim, `fzf`, `rg`, `jq`, `direnv`, `just`\
-**Platforms:** Arch Linux, Rocky Linux, Ubuntu, Nix, Dev Containers  
-**Familiar:** Python, Go, TypeScript, Java, OCaml, Node.js, MySQL, LlamaIndex, ChromaDB
+**Platforms:** Arch Linux, Rocky Linux, Ubuntu\
+**Familiar:** Python, Go, TypeScript, Java, OCaml, Node.js, MySQL

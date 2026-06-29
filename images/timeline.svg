@@ -900,7 +900,7 @@
                                                 <g data-tag="ul" id="ul17" data-z-index="auto" data-stacking-context="true" role="list" aria-owns="li54 li55">
                                                     <g data-tag="li" id="li54" data-z-index="auto" data-stacking-context="true" role="listitem" aria-owns="a20">
                                                         <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(0, 0, 0)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(0, 0, 0)"/>
-                                                        <a href="https://github.com/boostcampwm2023/web15-BaekjoonRooms" data-tag="a" id="a20" data-z-index="auto" data-stacking-context="true" role="link" aria-owns="button_image2">
+                                                        <a href="#" data-tag="a" id="a20" data-z-index="auto" data-stacking-context="true" role="link" aria-owns="button_image2">
                                                             <g data-tag="img" id="button_image2" class="button_image" data-z-index="auto" data-stacking-context="true" role="img" mask="url(#mask-for-button_image21)">
                                                                 <mask id="mask-for-button_image21">
                                                                     <rect width="40" height="40" x="535.25" y="2533.425048828125" fill="#ffffff"/>
@@ -1623,13 +1623,13 @@
                                             </g>
                                             <g data-tag="li" id="li86" data-z-index="auto" data-stacking-context="true" role="listitem" aria-owns="a60">
                                                 <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(0, 0, 0)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(0, 0, 0)"/>
-                                                <a href="https://baekjoonrooms.com/intro" data-tag="a" id="a60" data-z-index="auto" data-stacking-context="true" role="link">
+                                                <a href="#" data-tag="a" id="a60" data-z-index="auto" data-stacking-context="true" role="link">
                                                     <text color="rgb(64, 126, 201)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(64, 126, 201)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(64, 126, 201)"/>
                                                 </a>
                                             </g>
                                             <g data-tag="li" id="li87" data-z-index="auto" data-stacking-context="true" role="listitem" aria-owns="a61">
                                                 <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(0, 0, 0)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(0, 0, 0)"/>
-                                                <a href="https://github.com/boostcampwm2023/web15-BaekjoonRooms" data-tag="a" id="a61" data-z-index="auto" data-stacking-context="true" role="link" aria-owns="button_image3">
+                                                <a href="#" data-tag="a" id="a61" data-z-index="auto" data-stacking-context="true" role="link" aria-owns="button_image3">
                                                     <g data-tag="img" id="button_image3" class="button_image" data-z-index="auto" data-stacking-context="true" role="img" mask="url(#mask-for-button_image31)">
                                                         <mask id="mask-for-button_image31">
                                                             <rect width="40" height="40" x="422.0249938964844" y="4976.80029296875" fill="#ffffff"/>
@@ -2403,7 +2403,7 @@
                                         <g data-tag="ul" id="ul43" data-z-index="auto" data-stacking-context="true" role="list" aria-owns="li142 li143">
                                             <g data-tag="li" id="li142" data-z-index="auto" data-stacking-context="true" role="listitem" aria-owns="no-print7">
                                                 <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(0, 0, 0)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(0, 0, 0)"/>
-                                                <a href="https://github.com/boostcampwm2023/web15-BaekjoonRooms/pull/179" data-tag="a" id="no-print7" class="no-print" data-z-index="auto" data-stacking-context="true" role="link">
+                                                <a href="#" data-tag="a" id="no-print7" class="no-print" data-z-index="auto" data-stacking-context="true" role="link">
                                                     <text color="rgb(64, 126, 201)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(64, 126, 201)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(64, 126, 201)"/>
                                                 </a>
                                             </g>
@@ -2499,7 +2499,7 @@
                                         <g data-tag="ul" id="ul48" data-z-index="auto" data-stacking-context="true" role="list" aria-owns="li158">
                                             <g data-tag="li" id="li158" data-z-index="auto" data-stacking-context="true" role="listitem" aria-owns="no-print13">
                                                 <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(0, 0, 0)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(0, 0, 0)"/>
-                                                <a href="https://github.com/boostcampwm2023/web15-BaekjoonRooms/pull/264#discussion_r1485173448" data-tag="a" id="no-print13" class="no-print" data-z-index="auto" data-stacking-context="true" role="link">
+                                                <a href="#" data-tag="a" id="no-print13" class="no-print" data-z-index="auto" data-stacking-context="true" role="link">
                                                     <text color="rgb(64, 126, 201)" dominant-baseline="text-after-edge" font-family="Pretendard-Regular, sans-serif" font-size="18px" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400" direction="ltr" letter-spacing="normal" text-decoration="none solid rgb(64, 126, 201)" text-anchor="start" text-rendering="auto" unicode-bidi="normal" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto" fill="rgb(64, 126, 201)"/>
                                                 </a>
                                             </g>
