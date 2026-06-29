@@ -31,7 +31,7 @@ Database engineer focused on CUBRID engine development, storage internals, vecto
 
 ## Education
 
-**Korea University** — B.Eng. in Computer Science and Engineering, GPA 4.03 / 4.5 \hfill 2019.03--2022.02\
+**Korea University** — B.Eng. in Computer Science and Engineering, GPA 4.03 / 4.5 \hfill 2019.03--2023.02\
 Coursework: operating systems, algorithms, computer architecture, databases, networks. Programming languages coursework included an interpreter, type checker, and garbage collector.
 
 **McGill University** — B.A. Economics, Minor in Finance, GPA 3.11 / 4.0 \hfill 2014.09--2018.08\
